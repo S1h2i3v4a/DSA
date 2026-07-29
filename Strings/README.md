@@ -13,4 +13,4 @@ Strings are sequences of characters. Operations include pattern matching, string
 ## 📑 Practice Problems
 | Problem | Difficulty | Solution | Notes |
 |---|---|---|---|
-| *Pending* | - | - | - |
+| Bit++ | Easy | [282_Bit_Plus_Plus.java](./282_Bit_Plus_Plus.java) | String Parsing |
