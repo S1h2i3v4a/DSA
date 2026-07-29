@@ -13,4 +13,4 @@ Mathematical problems test concepts in number theory, combinatorics, modular ari
 ## 📑 Practice Problems
 | Problem | Difficulty | Solution | Notes |
 |---|---|---|---|
-| *Pending* | - | - | - |
+| Missing Element of AP | Easy | [Missing_Element_Of_AP.java](./Missing_Element_Of_AP.java) | Arithmetic Progression |
