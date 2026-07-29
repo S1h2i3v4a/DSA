@@ -12,4 +12,4 @@ Hashing uses Hash Maps and Hash Sets to achieve constant-time \(O(1)\) average l
 ## 📑 Practice Problems
 | Problem | Difficulty | Solution | Notes |
 |---|---|---|---|
-| *Pending* | - | - | - |
+| Check if Two Arrays Are Equal or Not | Easy | [Check_If_Two_Arrays_Are_Equal_Or_Not.java](./Check_If_Two_Arrays_Are_Equal_Or_Not.java) | Frequency Map Comparison |

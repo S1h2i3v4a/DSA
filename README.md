@@ -8,7 +8,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is system
 
 - **LeetCode Profile**: [Shivam990shiv](https://leetcode.com/u/Shivam990shiv/)
 - **GeeksforGeeks Profile**: [shivamkestk1n](https://www.geeksforgeeks.org/profile/shivamkestk1n)
-- **Total Problems Solved**: **2**
+- **Total Problems Solved**: **3**
 
 ### Topic-wise Breakdown
 
@@ -16,7 +16,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is system
 |---|---|---|---|
 | 1 | [Arrays](./Arrays/) | **1** | 🚀 Active |
 | 2 | [Strings](./Strings/) | 0 | ⏳ In Progress |
-| 3 | [Hashing](./Hashing/) | 0 | ⏳ In Progress |
+| 3 | [Hashing](./Hashing/) | **1** | 🚀 Active |
 | 4 | [Two Pointers](./Two Pointers/) | 0 | ⏳ In Progress |
 | 5 | [Sliding Window](./Sliding Window/) | 0 | ⏳ In Progress |
 | 6 | [Binary Search](./Binary Search/) | 0 | ⏳ In Progress |
@@ -46,6 +46,7 @@ DSA/
 │   └── Search_An_Element_In_An_Array.java
 ├── Strings/
 ├── Hashing/
+│   └── Check_If_Two_Arrays_Are_Equal_Or_Not.java
 ├── Two Pointers/
 ├── Sliding Window/
 ├── Binary Search/
