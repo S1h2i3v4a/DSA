@@ -8,13 +8,13 @@ Welcome to my Data Structures & Algorithms repository! This repository is system
 
 - **LeetCode Profile**: [Shivam990shiv](https://leetcode.com/u/Shivam990shiv/)
 - **GeeksforGeeks Profile**: [shivamkestk1n](https://www.geeksforgeeks.org/profile/shivamkestk1n)
-- **Total Problems Solved**: **1**
+- **Total Problems Solved**: **2**
 
 ### Topic-wise Breakdown
 
 | # | Topic | Problems Solved | Status |
 |---|---|---|---|
-| 1 | [Arrays](./Arrays/) | 0 | ⏳ In Progress |
+| 1 | [Arrays](./Arrays/) | **1** | 🚀 Active |
 | 2 | [Strings](./Strings/) | 0 | ⏳ In Progress |
 | 3 | [Hashing](./Hashing/) | 0 | ⏳ In Progress |
 | 4 | [Two Pointers](./Two Pointers/) | 0 | ⏳ In Progress |
@@ -43,6 +43,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is system
 ```text
 DSA/
 ├── Arrays/
+│   └── Search_An_Element_In_An_Array.java
 ├── Strings/
 ├── Hashing/
 ├── Two Pointers/

@@ -13,4 +13,4 @@ Arrays store elements of the same data type in contiguous memory locations. Unde
 ## 📑 Practice Problems
 | Problem | Difficulty | Solution | Notes |
 |---|---|---|---|
-| *Pending* | - | - | - |
+| Search an Element in an Array | Basic | [Search_An_Element_In_An_Array.java](./Search_An_Element_In_An_Array.java) | Linear Search |
