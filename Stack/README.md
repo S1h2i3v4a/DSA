@@ -11,4 +11,4 @@ A Stack is a Last-In, First-Out (LIFO) data structure. It is extensively used in
 ## 📑 Practice Problems
 | Problem | Difficulty | Solution | Notes |
 |---|---|---|---|
-| *Pending* | - | - | - |
+| Remove K Digits | Medium | [402_Remove_K_Digits.java](./402_Remove_K_Digits.java) | Monotonic Stack |
