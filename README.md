@@ -8,7 +8,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is system
 
 - **LeetCode Profile**: [Shivam990shiv](https://leetcode.com/u/Shivam990shiv/)
 - **GeeksforGeeks Profile**: [shivamkestk1n](https://www.geeksforgeeks.org/profile/shivamkestk1n)
-- **Total Problems Solved**: **5**
+- **Total Problems Solved**: **6**
 
 ### Topic-wise Breakdown
 
@@ -33,7 +33,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is system
 | 17 | [Greedy](./Greedy/) | 0 | ⏳ In Progress |
 | 18 | [Trie](./Trie/) | 0 | ⏳ In Progress |
 | 19 | [Bit Manipulation](./Bit Manipulation/) | 0 | ⏳ In Progress |
-| 20 | [Math](./Math/) | **2** | 🚀 Active |
+| 20 | [Math](./Math/) | **3** | 🚀 Active |
 | 21 | [Miscellaneous](./Miscellaneous/) | 0 | ⏳ In Progress |
 
 ---
@@ -66,6 +66,7 @@ DSA/
 ├── Bit Manipulation/
 ├── Math/
 │   ├── LCM_And_GCD.java
-│   └── Missing_Element_Of_AP.java
+│   ├── Missing_Element_Of_AP.java
+│   └── Sum_1_To_N_Divisors.java
 └── Miscellaneous/
 ```

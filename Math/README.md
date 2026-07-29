@@ -15,3 +15,4 @@ Mathematical problems test concepts in number theory, combinatorics, modular ari
 |---|---|---|---|
 | Missing Element of AP | Easy | [Missing_Element_Of_AP.java](./Missing_Element_Of_AP.java) | Arithmetic Progression |
 | LCM And GCD | Basic | [LCM_And_GCD.java](./LCM_And_GCD.java) | Euclidean Algorithm |
+| Sum 1 to N Divisors | Easy | [Sum_1_To_N_Divisors.java](./Sum_1_To_N_Divisors.java) | Divisor Summation |
