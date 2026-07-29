@@ -66,8 +66,8 @@ DSA/
 ├── Trie/
 ├── Bit Manipulation/
 ├── Math/
+│   ├── 514A_Chewbacca_And_Number.java
 │   ├── LCM_And_GCD.java
-│   ├── Minimum_Inverted_Number.java
 │   ├── Missing_Element_Of_AP.java
 │   └── Sum_1_To_N_Divisors.java
 └── Miscellaneous/
