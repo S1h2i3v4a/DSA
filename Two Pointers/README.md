@@ -11,4 +11,4 @@ The Two Pointers technique involves iterating with two pointers over a sequence 
 ## 📑 Practice Problems
 | Problem | Difficulty | Solution | Notes |
 |---|---|---|---|
-| *Pending* | - | - | - |
+| Reverse an Array | Easy | [Reverse_An_Array.java](./Reverse_An_Array.java) | In-Place Reversal |
