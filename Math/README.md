@@ -17,3 +17,4 @@ Mathematical problems test concepts in number theory, combinatorics, modular ari
 | LCM And GCD | Basic | [LCM_And_GCD.java](./LCM_And_GCD.java) | Euclidean Algorithm |
 | Sum 1 to N Divisors | Easy | [Sum_1_To_N_Divisors.java](./Sum_1_To_N_Divisors.java) | Divisor Summation |
 | Chewbaсca and Number (514A) | Easy | [514A_Chewbacca_And_Number.java](./514A_Chewbacca_And_Number.java) | Digit Manipulation |
+| Factorial Numbers <= N | Easy | [Factorial_Numbers_Less_Than_Or_Equal_To_N.java](./Factorial_Numbers_Less_Than_Or_Equal_To_N.java) | Factorial Generation |
