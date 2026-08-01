@@ -12,4 +12,4 @@ Recursion is a method where the solution to a problem depends on solutions to sm
 ## 📑 Practice Problems
 | Problem | Difficulty | Solution | Notes |
 |---|---|---|---|
-| *Pending* | - | - | - |
+| Print N to 1 Without Loop | Easy | [Print_N_To_1_Without_Loop.java](./Print_N_To_1_Without_Loop.java) | Tail Recursion |

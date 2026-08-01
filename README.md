@@ -8,7 +8,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is system
 
 - **LeetCode Profile**: [Shivam990shiv](https://leetcode.com/u/Shivam990shiv/)
 - **GeeksforGeeks Profile**: [shivamkestk1n](https://www.geeksforgeeks.org/profile/shivamkestk1n)
-- **Total Problems Solved**: **8**
+- **Total Problems Solved**: **9**
 
 ### Topic-wise Breakdown
 
@@ -23,7 +23,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is system
 | 7 | [Linked List](./Linked List/) | 0 | ⏳ In Progress |
 | 8 | [Stack](./Stack/) | **1** | 🚀 Active |
 | 9 | [Queue](./Queue/) | 0 | ⏳ In Progress |
-| 10 | [Recursion](./Recursion/) | 0 | ⏳ In Progress |
+| 10 | [Recursion](./Recursion/) | **1** | 🚀 Active |
 | 11 | [Backtracking](./Backtracking/) | 0 | ⏳ In Progress |
 | 12 | [Trees](./Trees/) | 0 | ⏳ In Progress |
 | 13 | [BST](./BST/) | 0 | ⏳ In Progress |
@@ -56,6 +56,7 @@ DSA/
 │   └── 402_Remove_K_Digits.java
 ├── Queue/
 ├── Recursion/
+│   └── Print_N_To_1_Without_Loop.java
 ├── Backtracking/
 ├── Trees/
 ├── BST/
