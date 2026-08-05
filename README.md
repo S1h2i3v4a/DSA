@@ -8,7 +8,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is system
 
 - **LeetCode Profile**: [Shivam990shiv](https://leetcode.com/u/Shivam990shiv/)
 - **GeeksforGeeks Profile**: [shivamkestk1n](https://www.geeksforgeeks.org/profile/shivamkestk1n)
-- **Total Problems Solved**: **12**
+- **Total Problems Solved**: **13**
 
 ### Topic-wise Breakdown
 
@@ -16,7 +16,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is system
 |---|---|---|---|
 | 1 | [Arrays](./Arrays/) | **1** | 🚀 Active |
 | 2 | [Strings](./Strings/) | **1** | 🚀 Active |
-| 3 | [Hashing](./Hashing/) | **1** | 🚀 Active |
+| 3 | [Hashing](./Hashing/) | **2** | 🚀 Active |
 | 4 | [Two Pointers](./Two Pointers/) | **1** | 🚀 Active |
 | 5 | [Sliding Window](./Sliding Window/) | 0 | ⏳ In Progress |
 | 6 | [Binary Search](./Binary Search/) | 0 | ⏳ In Progress |
@@ -47,7 +47,8 @@ DSA/
 ├── Strings/
 │   └── 282_Bit_Plus_Plus.java
 ├── Hashing/
-│   └── Check_If_Two_Arrays_Are_Equal_Or_Not.java
+│   ├── Check_If_Two_Arrays_Are_Equal_Or_Not.java
+│   └── Frequencies_Of_Limited_Range_Array_Elements.java
 ├── Two Pointers/
 │   └── Reverse_An_Array.java
 ├── Sliding Window/
