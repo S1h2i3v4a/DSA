@@ -8,13 +8,13 @@ Welcome to my Data Structures & Algorithms repository! This repository is system
 
 - **LeetCode Profile**: [Shivam990shiv](https://leetcode.com/u/Shivam990shiv/)
 - **GeeksforGeeks Profile**: [shivamkestk1n](https://www.geeksforgeeks.org/profile/shivamkestk1n)
-- **Total Problems Solved**: **18**
+- **Total Problems Solved**: **19**
 
 ### Topic-wise Breakdown
 
 | # | Topic | Problems Solved | Status |
 |---|---|---|---|
-| 1 | [Arrays](./Arrays/) | **5** | 🚀 Active |
+| 1 | [Arrays](./Arrays/) | **6** | 🚀 Active |
 | 2 | [Strings](./Strings/) | **2** | 🚀 Active |
 | 3 | [Hashing](./Hashing/) | **2** | 🚀 Active |
 | 4 | [Two Pointers](./Two Pointers/) | **1** | 🚀 Active |
@@ -46,6 +46,7 @@ DSA/
 │   ├── Bubble_Sort.java
 │   ├── Insertion_Sort.java
 │   ├── Merge_Sort.java
+│   ├── Quick_Sort.java
 │   ├── Search_An_Element_In_An_Array.java
 │   └── Selection_Sort.java
 ├── Strings/

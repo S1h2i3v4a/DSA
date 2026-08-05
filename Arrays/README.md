@@ -18,3 +18,4 @@ Arrays store elements of the same data type in contiguous memory locations. Unde
 | Bubble Sort | Easy | [Bubble_Sort.java](./Bubble_Sort.java) | In-Place Bubble Sort |
 | Insertion Sort | Easy | [Insertion_Sort.java](./Insertion_Sort.java) | In-Place Insertion Sort |
 | Merge Sort | Medium | [Merge_Sort.java](./Merge_Sort.java) | Divide & Conquer Merge Sort |
+| Quick Sort | Medium | [Quick_Sort.java](./Quick_Sort.java) | Partitioning Quick Sort |
