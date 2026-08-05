@@ -14,3 +14,4 @@ Strings are sequences of characters. Operations include pattern matching, string
 | Problem | Difficulty | Solution | Notes |
 |---|---|---|---|
 | Bit++ | Easy | [282_Bit_Plus_Plus.java](./282_Bit_Plus_Plus.java) | String Parsing |
+| Counting Sort | Easy | [Counting_Sort.java](./Counting_Sort.java) | Character Frequency Array |
