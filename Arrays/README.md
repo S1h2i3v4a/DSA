@@ -19,3 +19,6 @@ Arrays store elements of the same data type in contiguous memory locations. Unde
 | Insertion Sort | Easy | [Insertion_Sort.java](./Insertion_Sort.java) | In-Place Insertion Sort |
 | Merge Sort | Medium | [Merge_Sort.java](./Merge_Sort.java) | Divide & Conquer Merge Sort |
 | Quick Sort | Medium | [Quick_Sort.java](./Quick_Sort.java) | Partitioning Quick Sort |
+| Check if Array Is Sorted and Rotated | Easy | [1752_Check_If_Array_Is_Sorted_And_Rotated.java](./1752_Check_If_Array_Is_Sorted_And_Rotated.java) | Single Pivot Violation Check |
+| Rotate Array | Medium | [189_Rotate_Array.java](./189_Rotate_Array.java) | Triple Reversal Strategy |
+| Missing Number | Easy | [268_Missing_Number.java](./268_Missing_Number.java) | Sum Difference Formula |

@@ -13,4 +13,4 @@ Bit Manipulation operates on individual binary bits of integer numbers directly,
 ## 📑 Practice Problems
 | Problem | Difficulty | Solution | Notes |
 |---|---|---|---|
-| *Pending* | - | - | - |
+| Single Number | Easy | [136_Single_Number.java](./136_Single_Number.java) | Bitwise XOR Cancellation |

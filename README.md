@@ -8,17 +8,17 @@ Welcome to my Data Structures & Algorithms repository! This repository is system
 
 - **LeetCode Profile**: [Shivam990shiv](https://leetcode.com/u/Shivam990shiv/)
 - **GeeksforGeeks Profile**: [shivamkestk1n](https://www.geeksforgeeks.org/profile/shivamkestk1n)
-- **Total Problems Solved**: **19**
+- **Total Problems Solved**: **24**
 
 ### Topic-wise Breakdown
 
 | # | Topic | Problems Solved | Status |
 |---|---|---|---|
-| 1 | [Arrays](./Arrays/) | **6** | 🚀 Active |
+| 1 | [Arrays](./Arrays/) | **9** | 🚀 Active |
 | 2 | [Strings](./Strings/) | **2** | 🚀 Active |
 | 3 | [Hashing](./Hashing/) | **2** | 🚀 Active |
 | 4 | [Two Pointers](./Two Pointers/) | **1** | 🚀 Active |
-| 5 | [Sliding Window](./Sliding Window/) | 0 | ⏳ In Progress |
+| 5 | [Sliding Window](./Sliding Window/) | **1** | 🚀 Active |
 | 6 | [Binary Search](./Binary Search/) | 0 | ⏳ In Progress |
 | 7 | [Linked List](./Linked List/) | 0 | ⏳ In Progress |
 | 8 | [Stack](./Stack/) | **1** | 🚀 Active |
@@ -32,7 +32,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is system
 | 16 | [Dynamic Programming](./Dynamic Programming/) | 0 | ⏳ In Progress |
 | 17 | [Greedy](./Greedy/) | 0 | ⏳ In Progress |
 | 18 | [Trie](./Trie/) | 0 | ⏳ In Progress |
-| 19 | [Bit Manipulation](./Bit Manipulation/) | 0 | ⏳ In Progress |
+| 19 | [Bit Manipulation](./Bit Manipulation/) | **1** | 🚀 Active |
 | 20 | [Math](./Math/) | **5** | 🚀 Active |
 | 21 | [Miscellaneous](./Miscellaneous/) | 0 | ⏳ In Progress |
 
@@ -43,6 +43,9 @@ Welcome to my Data Structures & Algorithms repository! This repository is system
 ```text
 DSA/
 ├── Arrays/
+│   ├── 1752_Check_If_Array_Is_Sorted_And_Rotated.java
+│   ├── 189_Rotate_Array.java
+│   ├── 268_Missing_Number.java
 │   ├── Bubble_Sort.java
 │   ├── Insertion_Sort.java
 │   ├── Merge_Sort.java
@@ -58,6 +61,7 @@ DSA/
 ├── Two Pointers/
 │   └── Reverse_An_Array.java
 ├── Sliding Window/
+│   └── 1838_Frequency_Of_The_Most_Frequent_Element.java
 ├── Binary Search/
 ├── Linked List/
 ├── Stack/
@@ -75,6 +79,7 @@ DSA/
 ├── Greedy/
 ├── Trie/
 ├── Bit Manipulation/
+│   └── 136_Single_Number.java
 ├── Math/
 │   ├── 514A_Chewbacca_And_Number.java
 │   ├── Factorial_Numbers_Less_Than_Or_Equal_To_N.java

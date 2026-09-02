@@ -11,4 +11,4 @@ Sliding Window converts nested loops over continuous subarrays or substrings int
 ## 📑 Practice Problems
 | Problem | Difficulty | Solution | Notes |
 |---|---|---|---|
-| *Pending* | - | - | - |
+| Frequency of the Most Frequent Element | Medium | [1838_Frequency_Of_The_Most_Frequent_Element.java](./1838_Frequency_Of_The_Most_Frequent_Element.java) | Sliding Window on Sorted Array |
