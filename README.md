@@ -8,17 +8,17 @@ Welcome to my Data Structures & Algorithms repository! This repository is system
 
 - **LeetCode Profile**: [Shivam990shiv](https://leetcode.com/u/Shivam990shiv/)
 - **GeeksforGeeks Profile**: [shivamkestk1n](https://www.geeksforgeeks.org/profile/shivamkestk1n)
-- **Total Problems Solved**: **24**
+- **Total Problems Solved**: **29**
 
 ### Topic-wise Breakdown
 
 | # | Topic | Problems Solved | Status |
 |---|---|---|---|
-| 1 | [Arrays](./Arrays/) | **9** | 🚀 Active |
+| 1 | [Arrays](./Arrays/) | **13** | 🚀 Active |
 | 2 | [Strings](./Strings/) | **2** | 🚀 Active |
 | 3 | [Hashing](./Hashing/) | **2** | 🚀 Active |
 | 4 | [Two Pointers](./Two Pointers/) | **1** | 🚀 Active |
-| 5 | [Sliding Window](./Sliding Window/) | **1** | 🚀 Active |
+| 5 | [Sliding Window](./Sliding Window/) | **2** | 🚀 Active |
 | 6 | [Binary Search](./Binary Search/) | 0 | ⏳ In Progress |
 | 7 | [Linked List](./Linked List/) | 0 | ⏳ In Progress |
 | 8 | [Stack](./Stack/) | **1** | 🚀 Active |
@@ -43,9 +43,13 @@ Welcome to my Data Structures & Algorithms repository! This repository is system
 ```text
 DSA/
 ├── Arrays/
+│   ├── 121_Best_Time_To_Buy_And_Sell_Stock.java
+│   ├── 169_Majority_Element.java
 │   ├── 1752_Check_If_Array_Is_Sorted_And_Rotated.java
 │   ├── 189_Rotate_Array.java
 │   ├── 268_Missing_Number.java
+│   ├── 53_Maximum_Subarray.java
+│   ├── 75_Sort_Colors.java
 │   ├── Bubble_Sort.java
 │   ├── Insertion_Sort.java
 │   ├── Merge_Sort.java
@@ -61,7 +65,8 @@ DSA/
 ├── Two Pointers/
 │   └── Reverse_An_Array.java
 ├── Sliding Window/
-│   └── 1838_Frequency_Of_The_Most_Frequent_Element.java
+│   ├── 1838_Frequency_Of_The_Most_Frequent_Element.java
+│   └── Longest_Subarray_With_Sum_K.java
 ├── Binary Search/
 ├── Linked List/
 ├── Stack/

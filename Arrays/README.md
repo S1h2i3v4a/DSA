@@ -22,3 +22,7 @@ Arrays store elements of the same data type in contiguous memory locations. Unde
 | Check if Array Is Sorted and Rotated | Easy | [1752_Check_If_Array_Is_Sorted_And_Rotated.java](./1752_Check_If_Array_Is_Sorted_And_Rotated.java) | Single Pivot Violation Check |
 | Rotate Array | Medium | [189_Rotate_Array.java](./189_Rotate_Array.java) | Triple Reversal Strategy |
 | Missing Number | Easy | [268_Missing_Number.java](./268_Missing_Number.java) | Sum Difference Formula |
+| Sort Colors (0s, 1s, 2s) | Medium | [75_Sort_Colors.java](./75_Sort_Colors.java) | Dutch National Flag Algorithm |
+| Majority Element | Easy | [169_Majority_Element.java](./169_Majority_Element.java) | Boyer-Moore Voting Algorithm |
+| Maximum Subarray Sum | Medium | [53_Maximum_Subarray.java](./53_Maximum_Subarray.java) | Kadane's Algorithm |
+| Best Time to Buy and Sell Stock | Easy | [121_Best_Time_To_Buy_And_Sell_Stock.java](./121_Best_Time_To_Buy_And_Sell_Stock.java) | Single Pass Minimum Tracking |

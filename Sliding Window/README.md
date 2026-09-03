@@ -12,3 +12,4 @@ Sliding Window converts nested loops over continuous subarrays or substrings int
 | Problem | Difficulty | Solution | Notes |
 |---|---|---|---|
 | Frequency of the Most Frequent Element | Medium | [1838_Frequency_Of_The_Most_Frequent_Element.java](./1838_Frequency_Of_The_Most_Frequent_Element.java) | Sliding Window on Sorted Array |
+| Longest Subarray with Sum K | Medium | [Longest_Subarray_With_Sum_K.java](./Longest_Subarray_With_Sum_K.java) | Prefix Sum + HashMap |
