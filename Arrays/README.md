@@ -26,3 +26,5 @@ Arrays store elements of the same data type in contiguous memory locations. Unde
 | Majority Element | Easy | [169_Majority_Element.java](./169_Majority_Element.java) | Boyer-Moore Voting Algorithm |
 | Maximum Subarray Sum | Medium | [53_Maximum_Subarray.java](./53_Maximum_Subarray.java) | Kadane's Algorithm |
 | Best Time to Buy and Sell Stock | Easy | [121_Best_Time_To_Buy_And_Sell_Stock.java](./121_Best_Time_To_Buy_And_Sell_Stock.java) | Single Pass Minimum Tracking |
+| Next Permutation | Medium | [31_Next_Permutation.java](./31_Next_Permutation.java) | Two Pointer Lexicographical Swap |
+| Longest Consecutive Sequence | Medium | [128_Longest_Consecutive_Sequence.java](./128_Longest_Consecutive_Sequence.java) | Hash Set Sequence Search |
