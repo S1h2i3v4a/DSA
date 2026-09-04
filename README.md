@@ -8,7 +8,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 
 - **LeetCode Profile**: [Shivam990shiv](https://leetcode.com/u/Shivam990shiv/)
 - **GeeksforGeeks Profile**: [shivamkestk1n](https://www.geeksforgeeks.org/profile/shivamkestk1n)
-- **Total Problems Solved**: **36**
+- **Total Problems Solved**: **41**
 
 ---
 
@@ -21,7 +21,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 | 03 | [03_Hashing](./03_Hashing/) | **2** | 🚀 Active |
 | 04 | [04_Two_Pointers](./04_Two_Pointers/) | **1** | 🚀 Active |
 | 05 | [05_Sliding_Window](./05_Sliding_Window/) | **2** | 🚀 Active |
-| 06 | [06_Binary_Search](./06_Binary_Search/) | **1** | 🚀 Active |
+| 06 | [06_Binary_Search](./06_Binary_Search/) | **6** | 🚀 Active |
 | 07 | [07_Recursion](./07_Recursion/) | **2** | 🚀 Active |
 | 08 | [08_Backtracking](./08_Backtracking/) | 0 | ⏳ In Progress |
 | 09 | [09_Linked_List](./09_Linked_List/) | 0 | ⏳ In Progress |
@@ -77,7 +77,12 @@ DSA/
 │   ├── 01_Frequency_Of_The_Most_Frequent_Element.java
 │   └── 02_Longest_Subarray_With_Sum_K.java
 ├── 06_Binary_Search/
-│   └── 01_Search_Insert_Position.java
+│   ├── 01_Search_Insert_Position.java
+│   ├── 02_Find_First_And_Last_Position_Of_Element_In_Sorted_Array.java
+│   ├── 03_Search_In_Rotated_Sorted_Array.java
+│   ├── 04_Search_In_Rotated_Sorted_Array_II.java
+│   ├── 05_Find_Minimum_In_Rotated_Sorted_Array.java
+│   └── 06_Find_Peak_Element.java
 ├── 07_Recursion/
 │   ├── 01_Print_N_To_1_Without_Loop.java
 │   └── 02_Sum_Of_First_N_Terms.java
