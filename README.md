@@ -8,7 +8,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 
 - **LeetCode Profile**: [Shivam990shiv](https://leetcode.com/u/Shivam990shiv/)
 - **GeeksforGeeks Profile**: [shivamkestk1n](https://www.geeksforgeeks.org/profile/shivamkestk1n)
-- **Total Problems Solved**: **41**
+- **Total Problems Solved**: **46**
 
 ---
 
@@ -21,7 +21,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 | 03 | [03_Hashing](./03_Hashing/) | **2** | 🚀 Active |
 | 04 | [04_Two_Pointers](./04_Two_Pointers/) | **1** | 🚀 Active |
 | 05 | [05_Sliding_Window](./05_Sliding_Window/) | **2** | 🚀 Active |
-| 06 | [06_Binary_Search](./06_Binary_Search/) | **6** | 🚀 Active |
+| 06 | [06_Binary_Search](./06_Binary_Search/) | **11** | 🚀 Active |
 | 07 | [07_Recursion](./07_Recursion/) | **2** | 🚀 Active |
 | 08 | [08_Backtracking](./08_Backtracking/) | 0 | ⏳ In Progress |
 | 09 | [09_Linked_List](./09_Linked_List/) | 0 | ⏳ In Progress |
@@ -82,7 +82,12 @@ DSA/
 │   ├── 03_Search_In_Rotated_Sorted_Array.java
 │   ├── 04_Search_In_Rotated_Sorted_Array_II.java
 │   ├── 05_Find_Minimum_In_Rotated_Sorted_Array.java
-│   └── 06_Find_Peak_Element.java
+│   ├── 06_Find_Peak_Element.java
+│   ├── 07_Square_Root_Of_A_Number.java
+│   ├── 08_Nth_Root_Of_An_Integer.java
+│   ├── 09_Koko_Eating_Bananas.java
+│   ├── 10_Minimum_Days_To_Make_M_Bouquets.java
+│   └── 11_Smallest_Divisor_Given_A_Threshold.java
 ├── 07_Recursion/
 │   ├── 01_Print_N_To_1_Without_Loop.java
 │   └── 02_Sum_Of_First_N_Terms.java
