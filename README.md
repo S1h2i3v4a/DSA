@@ -8,7 +8,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 
 - **LeetCode Profile**: [Shivam990shiv](https://leetcode.com/u/Shivam990shiv/)
 - **GeeksforGeeks Profile**: [shivamkestk1n](https://www.geeksforgeeks.org/profile/shivamkestk1n)
-- **Total Problems Solved**: **46**
+- **Total Problems Solved**: **51**
 
 ---
 
@@ -21,7 +21,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 | 03 | [03_Hashing](./03_Hashing/) | **2** | 🚀 Active |
 | 04 | [04_Two_Pointers](./04_Two_Pointers/) | **1** | 🚀 Active |
 | 05 | [05_Sliding_Window](./05_Sliding_Window/) | **2** | 🚀 Active |
-| 06 | [06_Binary_Search](./06_Binary_Search/) | **11** | 🚀 Active |
+| 06 | [06_Binary_Search](./06_Binary_Search/) | **16** | 🚀 Active |
 | 07 | [07_Recursion](./07_Recursion/) | **2** | 🚀 Active |
 | 08 | [08_Backtracking](./08_Backtracking/) | 0 | ⏳ In Progress |
 | 09 | [09_Linked_List](./09_Linked_List/) | 0 | ⏳ In Progress |
@@ -87,7 +87,12 @@ DSA/
 │   ├── 08_Nth_Root_Of_An_Integer.java
 │   ├── 09_Koko_Eating_Bananas.java
 │   ├── 10_Minimum_Days_To_Make_M_Bouquets.java
-│   └── 11_Smallest_Divisor_Given_A_Threshold.java
+│   ├── 11_Smallest_Divisor_Given_A_Threshold.java
+│   ├── 12_Capacity_To_Ship_Packages_Within_D_Days.java
+│   ├── 13_Kth_Missing_Positive_Number.java
+│   ├── 14_Aggressive_Cows.java
+│   ├── 15_Book_Allocation_Problem.java
+│   └── 16_Split_Array_Largest_Sum.java
 ├── 07_Recursion/
 │   ├── 01_Print_N_To_1_Without_Loop.java
 │   └── 02_Sum_Of_First_N_Terms.java
