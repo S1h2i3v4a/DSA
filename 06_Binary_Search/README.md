@@ -22,3 +22,8 @@ Binary Search reduces search spaces logarithmically ($O(\log N)$) on sorted stru
 | 14 | Aggressive Cows | Medium | [14_Aggressive_Cows.java](./14_Aggressive_Cows.java) | BS Min Distance Allocation |
 | 15 | Book Allocation Problem | Hard | [15_Book_Allocation_Problem.java](./15_Book_Allocation_Problem.java) | BS Max Pages Minimization |
 | 16 | Split Array Largest Sum | Hard | [16_Split_Array_Largest_Sum.java](./16_Split_Array_Largest_Sum.java) | BS Subarray Sum Bound |
+| 17 | Minimize Max Distance to Gas Station | Hard | [17_Minimize_Max_Distance_To_Gas_Station.java](./17_Minimize_Max_Distance_To_Gas_Station.java) | BS Floating Point Range |
+| 18 | Median of Two Sorted Arrays | Hard | [18_Median_Of_Two_Sorted_Arrays.java](./18_Median_Of_Two_Sorted_Arrays.java) | BS Partition Minimization |
+| 19 | K-th Element of Two Sorted Arrays | Medium | [19_Kth_Element_Of_Two_Sorted_Arrays.java](./19_Kth_Element_Of_Two_Sorted_Arrays.java) | BS Combined Partitioning |
+| 20 | Search a 2D Matrix I | Medium | [20_Search_A_2D_Matrix.java](./20_Search_A_2D_Matrix.java) | BS Flattened 2D Indexing |
+| 21 | Search a 2D Matrix II | Medium | [21_Search_A_2D_Matrix_II.java](./21_Search_A_2D_Matrix_II.java) | Staircase Top-Right Search |

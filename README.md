@@ -8,7 +8,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 
 - **LeetCode Profile**: [Shivam990shiv](https://leetcode.com/u/Shivam990shiv/)
 - **GeeksforGeeks Profile**: [shivamkestk1n](https://www.geeksforgeeks.org/profile/shivamkestk1n)
-- **Total Problems Solved**: **51**
+- **Total Problems Solved**: **56**
 
 ---
 
@@ -21,7 +21,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 | 03 | [03_Hashing](./03_Hashing/) | **2** | 🚀 Active |
 | 04 | [04_Two_Pointers](./04_Two_Pointers/) | **1** | 🚀 Active |
 | 05 | [05_Sliding_Window](./05_Sliding_Window/) | **2** | 🚀 Active |
-| 06 | [06_Binary_Search](./06_Binary_Search/) | **16** | 🚀 Active |
+| 06 | [06_Binary_Search](./06_Binary_Search/) | **21** | 🚀 Active |
 | 07 | [07_Recursion](./07_Recursion/) | **2** | 🚀 Active |
 | 08 | [08_Backtracking](./08_Backtracking/) | 0 | ⏳ In Progress |
 | 09 | [09_Linked_List](./09_Linked_List/) | 0 | ⏳ In Progress |
@@ -92,7 +92,12 @@ DSA/
 │   ├── 13_Kth_Missing_Positive_Number.java
 │   ├── 14_Aggressive_Cows.java
 │   ├── 15_Book_Allocation_Problem.java
-│   └── 16_Split_Array_Largest_Sum.java
+│   ├── 16_Split_Array_Largest_Sum.java
+│   ├── 17_Minimize_Max_Distance_To_Gas_Station.java
+│   ├── 18_Median_Of_Two_Sorted_Arrays.java
+│   ├── 19_Kth_Element_Of_Two_Sorted_Arrays.java
+│   ├── 20_Search_A_2D_Matrix.java
+│   └── 21_Search_A_2D_Matrix_II.java
 ├── 07_Recursion/
 │   ├── 01_Print_N_To_1_Without_Loop.java
 │   └── 02_Sum_Of_First_N_Terms.java
