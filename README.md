@@ -8,7 +8,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 
 - **LeetCode Profile**: [Shivam990shiv](https://leetcode.com/u/Shivam990shiv/)
 - **GeeksforGeeks Profile**: [shivamkestk1n](https://www.geeksforgeeks.org/profile/shivamkestk1n)
-- **Total Problems Solved**: **56**
+- **Total Problems Solved**: **62**
 
 ---
 
@@ -17,7 +17,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 | Order | Topic Folder | Problems Solved | Status |
 |---|---|---|---|
 | 01 | [01_Arrays](./01_Arrays/) | **20** | 🚀 Active |
-| 02 | [02_Strings](./02_Strings/) | **2** | 🚀 Active |
+| 02 | [02_Strings](./02_Strings/) | **7** | 🚀 Active |
 | 03 | [03_Hashing](./03_Hashing/) | **2** | 🚀 Active |
 | 04 | [04_Two_Pointers](./04_Two_Pointers/) | **1** | 🚀 Active |
 | 05 | [05_Sliding_Window](./05_Sliding_Window/) | **2** | 🚀 Active |
@@ -67,7 +67,12 @@ DSA/
 │   └── 20_Majority_Element_II.java
 ├── 02_Strings/
 │   ├── 01_Bit_Plus_Plus.java
-│   └── 02_Counting_Sort.java
+│   ├── 02_Counting_Sort.java
+│   ├── 03_Remove_Outermost_Parentheses.java
+│   ├── 04_Reverse_Words_In_A_String.java
+│   ├── 05_Longest_Common_Prefix.java
+│   ├── 06_Isomorphic_Strings.java
+│   └── 07_Valid_Anagram.java
 ├── 03_Hashing/
 │   ├── 01_Check_If_Two_Arrays_Are_Equal_Or_Not.java
 │   └── 02_Frequencies_Of_Limited_Range_Array_Elements.java
