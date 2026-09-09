@@ -8,7 +8,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 
 - **LeetCode Profile**: [Shivam990shiv](https://leetcode.com/u/Shivam990shiv/)
 - **GeeksforGeeks Profile**: [shivamkestk1n](https://www.geeksforgeeks.org/profile/shivamkestk1n)
-- **Total Problems Solved**: **62**
+- **Total Problems Solved**: **67**
 
 ---
 
@@ -17,7 +17,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 | Order | Topic Folder | Problems Solved | Status |
 |---|---|---|---|
 | 01 | [01_Arrays](./01_Arrays/) | **20** | 🚀 Active |
-| 02 | [02_Strings](./02_Strings/) | **7** | 🚀 Active |
+| 02 | [02_Strings](./02_Strings/) | **12** | 🚀 Active |
 | 03 | [03_Hashing](./03_Hashing/) | **2** | 🚀 Active |
 | 04 | [04_Two_Pointers](./04_Two_Pointers/) | **1** | 🚀 Active |
 | 05 | [05_Sliding_Window](./05_Sliding_Window/) | **2** | 🚀 Active |
@@ -72,7 +72,12 @@ DSA/
 │   ├── 04_Reverse_Words_In_A_String.java
 │   ├── 05_Longest_Common_Prefix.java
 │   ├── 06_Isomorphic_Strings.java
-│   └── 07_Valid_Anagram.java
+│   ├── 07_Valid_Anagram.java
+│   ├── 08_Maximum_Nesting_Depth_Of_The_Parentheses.java
+│   ├── 09_Roman_To_Integer.java
+│   ├── 10_String_To_Integer_Atoi.java
+│   ├── 11_Longest_Palindromic_Substring.java
+│   └── 12_Sum_Of_Beauty_Of_All_Substrings.java
 ├── 03_Hashing/
 │   ├── 01_Check_If_Two_Arrays_Are_Equal_Or_Not.java
 │   └── 02_Frequencies_Of_Limited_Range_Array_Elements.java
