@@ -8,7 +8,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 
 - **LeetCode Profile**: [Shivam990shiv](https://leetcode.com/u/Shivam990shiv/)
 - **GeeksforGeeks Profile**: [shivamkestk1n](https://www.geeksforgeeks.org/profile/shivamkestk1n)
-- **Total Problems Solved**: **72**
+- **Total Problems Solved**: **77**
 
 ---
 
@@ -24,7 +24,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 | 06 | [06_Binary_Search](./06_Binary_Search/) | **21** | 🚀 Active |
 | 07 | [07_Recursion](./07_Recursion/) | **2** | 🚀 Active |
 | 08 | [08_Backtracking](./08_Backtracking/) | 0 | ⏳ In Progress |
-| 09 | [09_Linked_List](./09_Linked_List/) | **5** | 🚀 Active |
+| 09 | [09_Linked_List](./09_Linked_List/) | **10** | 🚀 Active |
 | 10 | [10_Stack](./10_Stack/) | **1** | 🚀 Active |
 | 11 | [11_Queue](./11_Queue/) | 0 | ⏳ In Progress |
 | 12 | [12_Bit_Manipulation](./12_Bit_Manipulation/) | **1** | 🚀 Active |
@@ -117,7 +117,12 @@ DSA/
 │   ├── 02_Insert_Node_In_Linked_List.java
 │   ├── 03_Delete_Node_In_A_Linked_List.java
 │   ├── 04_Count_Nodes_Of_Linked_List.java
-│   └── 05_Search_An_Element_In_Linked_List.java
+│   ├── 05_Search_An_Element_In_Linked_List.java
+│   ├── 06_Introduction_To_Doubly_Linked_List.java
+│   ├── 07_Insert_Node_In_Doubly_Linked_List.java
+│   ├── 08_Delete_Node_In_Doubly_Linked_List.java
+│   ├── 09_Reverse_A_Doubly_Linked_List.java
+│   └── 10_Middle_Of_A_Linked_List.java
 ├── 10_Stack/
 │   └── 01_Remove_K_Digits.java
 ├── 11_Queue/
