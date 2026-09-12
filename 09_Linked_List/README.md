@@ -15,4 +15,9 @@ Linked Lists are pointer-connected node structures including Singly, Doubly, and
 | 07 | Insert a node in Doubly Linked List | Easy | [07_Insert_Node_In_Doubly_Linked_List.java](./07_Insert_Node_In_Doubly_Linked_List.java) | Doubly Pointer Re-linking |
 | 08 | Delete Node in Doubly Linked List | Easy | [08_Delete_Node_In_Doubly_Linked_List.java](./08_Delete_Node_In_Doubly_Linked_List.java) | Prev-Next Disconnection |
 | 09 | Reverse a Doubly Linked List | Easy | [09_Reverse_A_Doubly_Linked_List.java](./09_Reverse_A_Doubly_Linked_List.java) | Prev & Next Swapping |
-| 10 | Middle of a Linked List | Easy | [10_Middle_Of_A_Linked_List.java](./10_Middle_Of_A_Linked_List.java) | Tortoise-Hare Fast & Slow |
+| 10 | Middle of a Linked List | Easy | [10_Middle_Of_A_Linked_List.java](./10_Middle_Of_A_Linked_List.java) | Fast & Slow Pointers |
+| 11 | Reverse Linked List | Easy | [11_Reverse_Linked_List.java](./11_Reverse_Linked_List.java) | Three-Pointer Reversal |
+| 12 | Detect Loop in Linked List | Easy | [12_Detect_Loop_In_Linked_List.java](./12_Detect_Loop_In_Linked_List.java) | Floyd Cycle Detection |
+| 13 | Find starting point of loop in LL | Medium | [13_Find_Starting_Point_Of_Loop_In_Linked_List.java](./13_Find_Starting_Point_Of_Loop_In_Linked_List.java) | Cycle Intersection Reset |
+| 14 | Find length of Loop in LL | Easy | [14_Find_Length_Of_Loop_In_Linked_List.java](./14_Find_Length_Of_Loop_In_Linked_List.java) | Cycle Node Counter |
+| 15 | Palindrome Linked List | Easy | [15_Palindrome_Linked_List.java](./15_Palindrome_Linked_List.java) | Half Reversal Comparison |
