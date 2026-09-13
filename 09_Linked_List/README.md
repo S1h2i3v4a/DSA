@@ -21,3 +21,8 @@ Linked Lists are pointer-connected node structures including Singly, Doubly, and
 | 13 | Find starting point of loop in LL | Medium | [13_Find_Starting_Point_Of_Loop_In_Linked_List.java](./13_Find_Starting_Point_Of_Loop_In_Linked_List.java) | Cycle Intersection Reset |
 | 14 | Find length of Loop in LL | Easy | [14_Find_Length_Of_Loop_In_Linked_List.java](./14_Find_Length_Of_Loop_In_Linked_List.java) | Cycle Node Counter |
 | 15 | Palindrome Linked List | Easy | [15_Palindrome_Linked_List.java](./15_Palindrome_Linked_List.java) | Half Reversal Comparison |
+| 16 | Segregate even and odd nodes in LL | Medium | [16_Odd_Even_Linked_List.java](./16_Odd_Even_Linked_List.java) | Odd-Even Pointer Re-linking |
+| 17 | Remove Nth Node From End of List | Medium | [17_Remove_Nth_Node_From_End_Of_List.java](./17_Remove_Nth_Node_From_End_Of_List.java) | Two Pointer Fast-Slow Gap |
+| 18 | Delete the Middle Node of a LL | Medium | [18_Delete_The_Middle_Node_Of_A_Linked_List.java](./18_Delete_The_Middle_Node_Of_A_Linked_List.java) | Fast-Slow Middle Bypass |
+| 19 | Sort a Linked List | Medium | [19_Sort_Linked_List.java](./19_Sort_Linked_List.java) | Divide & Conquer Merge Sort |
+| 20 | Sort a LL of 0's 1's and 2's | Easy | [20_Sort_A_Linked_List_Of_0s_1s_2s.java](./20_Sort_A_Linked_List_Of_0s_1s_2s.java) | Three Dummy Head Partition |

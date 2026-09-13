@@ -8,7 +8,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 
 - **LeetCode Profile**: [Shivam990shiv](https://leetcode.com/u/Shivam990shiv/)
 - **GeeksforGeeks Profile**: [shivamkestk1n](https://www.geeksforgeeks.org/profile/shivamkestk1n)
-- **Total Problems Solved**: **82**
+- **Total Problems Solved**: **87**
 
 ---
 
@@ -24,7 +24,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 | 06 | [06_Binary_Search](./06_Binary_Search/) | **21** | 🚀 Active |
 | 07 | [07_Recursion](./07_Recursion/) | **2** | 🚀 Active |
 | 08 | [08_Backtracking](./08_Backtracking/) | 0 | ⏳ In Progress |
-| 09 | [09_Linked_List](./09_Linked_List/) | **15** | 🚀 Active |
+| 09 | [09_Linked_List](./09_Linked_List/) | **20** | 🚀 Active |
 | 10 | [10_Stack](./10_Stack/) | **1** | 🚀 Active |
 | 11 | [11_Queue](./11_Queue/) | 0 | ⏳ In Progress |
 | 12 | [12_Bit_Manipulation](./12_Bit_Manipulation/) | **1** | 🚀 Active |
@@ -127,7 +127,12 @@ DSA/
 │   ├── 12_Detect_Loop_In_Linked_List.java
 │   ├── 13_Find_Starting_Point_Of_Loop_In_Linked_List.java
 │   ├── 14_Find_Length_Of_Loop_In_Linked_List.java
-│   └── 15_Palindrome_Linked_List.java
+│   ├── 15_Palindrome_Linked_List.java
+│   ├── 16_Odd_Even_Linked_List.java
+│   ├── 17_Remove_Nth_Node_From_End_Of_List.java
+│   ├── 18_Delete_The_Middle_Node_Of_A_Linked_List.java
+│   ├── 19_Sort_Linked_List.java
+│   └── 20_Sort_A_Linked_List_Of_0s_1s_2s.java
 ├── 10_Stack/
 │   └── 01_Remove_K_Digits.java
 ├── 11_Queue/
