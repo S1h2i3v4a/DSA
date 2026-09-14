@@ -8,7 +8,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 
 - **LeetCode Profile**: [Shivam990shiv](https://leetcode.com/u/Shivam990shiv/)
 - **GeeksforGeeks Profile**: [shivamkestk1n](https://www.geeksforgeeks.org/profile/shivamkestk1n)
-- **Total Problems Solved**: **92**
+- **Total Problems Solved**: **97**
 
 ---
 
@@ -22,7 +22,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 | 04 | [04_Two_Pointers](./04_Two_Pointers/) | **1** | 🚀 Active |
 | 05 | [05_Sliding_Window](./05_Sliding_Window/) | **2** | 🚀 Active |
 | 06 | [06_Binary_Search](./06_Binary_Search/) | **21** | 🚀 Active |
-| 07 | [07_Recursion](./07_Recursion/) | **2** | 🚀 Active |
+| 07 | [07_Recursion](./07_Recursion/) | **7** | 🚀 Active |
 | 08 | [08_Backtracking](./08_Backtracking/) | 0 | ⏳ In Progress |
 | 09 | [09_Linked_List](./09_Linked_List/) | **25** | 🚀 Active |
 | 10 | [10_Stack](./10_Stack/) | **1** | 🚀 Active |
@@ -110,7 +110,12 @@ DSA/
 │   └── 21_Search_A_2D_Matrix_II.java
 ├── 07_Recursion/
 │   ├── 01_Print_N_To_1_Without_Loop.java
-│   └── 02_Sum_Of_First_N_Terms.java
+│   ├── 02_Sum_Of_First_N_Terms.java
+│   ├── 03_Generate_All_Binary_Strings.java
+│   ├── 04_Generate_Parentheses.java
+│   ├── 05_Subsets_Power_Set.java
+│   ├── 06_Subsets_II.java
+│   └── 07_Combination_Sum.java
 ├── 08_Backtracking/
 ├── 09_Linked_List/
 │   ├── 01_Introduction_To_Linked_List.java
