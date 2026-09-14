@@ -26,3 +26,8 @@ Linked Lists are pointer-connected node structures including Singly, Doubly, and
 | 18 | Delete the Middle Node of a LL | Medium | [18_Delete_The_Middle_Node_Of_A_Linked_List.java](./18_Delete_The_Middle_Node_Of_A_Linked_List.java) | Fast-Slow Middle Bypass |
 | 19 | Sort a Linked List | Medium | [19_Sort_Linked_List.java](./19_Sort_Linked_List.java) | Divide & Conquer Merge Sort |
 | 20 | Sort a LL of 0's 1's and 2's | Easy | [20_Sort_A_Linked_List_Of_0s_1s_2s.java](./20_Sort_A_Linked_List_Of_0s_1s_2s.java) | Three Dummy Head Partition |
+| 21 | Intersection of Two Linked Lists | Easy | [21_Intersection_Of_Two_Linked_Lists.java](./21_Intersection_Of_Two_Linked_Lists.java) | Two Pointer Alignment |
+| 22 | Add 1 to a number in LL | Medium | [22_Add_1_To_A_Number_Represented_As_Linked_List.java](./22_Add_1_To_A_Number_Represented_As_Linked_List.java) | Recursive Carry Addition |
+| 23 | Add Two Numbers | Medium | [23_Add_Two_Numbers.java](./23_Add_Two_Numbers.java) | Simultaneous Carry Propagation |
+| 24 | Reverse Nodes in k-Group | Hard | [24_Reverse_Nodes_In_K_Group.java](./24_Reverse_Nodes_In_K_Group.java) | Group Segment Reversal |
+| 25 | Rotate List | Medium | [25_Rotate_List.java](./25_Rotate_List.java) | Circular Ring Break K Modulo |
