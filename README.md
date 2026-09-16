@@ -8,8 +8,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 
 - **LeetCode Profile**: [Shivam990shiv](https://leetcode.com/u/Shivam990shiv/)
 - **GeeksforGeeks Profile**: [shivamkestk1n](https://www.geeksforgeeks.org/profile/shivamkestk1n)
-- **Total Problems Solved**: **97**
-
+- **Total Problems Solved**: **102**
 ---
 
 ## 🧭 Priority Learning Roadmap (01 to 21)
@@ -22,7 +21,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 | 04 | [04_Two_Pointers](./04_Two_Pointers/) | **1** | 🚀 Active |
 | 05 | [05_Sliding_Window](./05_Sliding_Window/) | **2** | 🚀 Active |
 | 06 | [06_Binary_Search](./06_Binary_Search/) | **21** | 🚀 Active |
-| 07 | [07_Recursion](./07_Recursion/) | **7** | 🚀 Active |
+| 07 | [07_Recursion](./07_Recursion/) | **12** | 🚀 Active |
 | 08 | [08_Backtracking](./08_Backtracking/) | 0 | ⏳ In Progress |
 | 09 | [09_Linked_List](./09_Linked_List/) | **25** | 🚀 Active |
 | 10 | [10_Stack](./10_Stack/) | **1** | 🚀 Active |
@@ -115,7 +114,12 @@ DSA/
 │   ├── 04_Generate_Parentheses.java
 │   ├── 05_Subsets_Power_Set.java
 │   ├── 06_Subsets_II.java
-│   └── 07_Combination_Sum.java
+│   ├── 07_Combination_Sum.java
+│   ├── 08_Combination_Sum_II.java
+│   ├── 09_Subset_Sums.java
+│   ├── 10_Combination_Sum_III.java
+│   ├── 11_Letter_Combinations_Of_A_Phone_Number.java
+│   └── 12_Partition_Equal_Subset_Sum.java
 ├── 08_Backtracking/
 ├── 09_Linked_List/
 │   ├── 01_Introduction_To_Linked_List.java
