@@ -8,7 +8,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 
 - **LeetCode Profile**: [Shivam990shiv](https://leetcode.com/u/Shivam990shiv/)
 - **GeeksforGeeks Profile**: [shivamkestk1n](https://www.geeksforgeeks.org/profile/shivamkestk1n)
-- **Total Problems Solved**: **102**
+- **Total Problems Solved**: **107**
 ---
 
 ## 🧭 Priority Learning Roadmap (01 to 21)
@@ -22,7 +22,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 | 05 | [05_Sliding_Window](./05_Sliding_Window/) | **2** | 🚀 Active |
 | 06 | [06_Binary_Search](./06_Binary_Search/) | **21** | 🚀 Active |
 | 07 | [07_Recursion](./07_Recursion/) | **12** | 🚀 Active |
-| 08 | [08_Backtracking](./08_Backtracking/) | 0 | ⏳ In Progress |
+| 08 | [08_Backtracking](./08_Backtracking/) | **5** | 🚀 Active |
 | 09 | [09_Linked_List](./09_Linked_List/) | **25** | 🚀 Active |
 | 10 | [10_Stack](./10_Stack/) | **1** | 🚀 Active |
 | 11 | [11_Queue](./11_Queue/) | 0 | ⏳ In Progress |
@@ -121,6 +121,11 @@ DSA/
 │   ├── 11_Letter_Combinations_Of_A_Phone_Number.java
 │   └── 12_Partition_Equal_Subset_Sum.java
 ├── 08_Backtracking/
+│   ├── 01_Palindrome_Partitioning.java
+│   ├── 02_Word_Search.java
+│   ├── 03_N_Queens.java
+│   ├── 04_Rat_In_A_Maze.java
+│   └── 05_Word_Break.java
 ├── 09_Linked_List/
 │   ├── 01_Introduction_To_Linked_List.java
 │   ├── 02_Insert_Node_In_Linked_List.java
