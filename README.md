@@ -8,7 +8,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 
 - **LeetCode Profile**: [Shivam990shiv](https://leetcode.com/u/Shivam990shiv/)
 - **GeeksforGeeks Profile**: [shivamkestk1n](https://www.geeksforgeeks.org/profile/shivamkestk1n)
-- **Total Problems Solved**: **107**
+- **Total Problems Solved**: **112**
 ---
 
 ## 🧭 Priority Learning Roadmap (01 to 21)
@@ -22,11 +22,11 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 | 05 | [05_Sliding_Window](./05_Sliding_Window/) | **2** | 🚀 Active |
 | 06 | [06_Binary_Search](./06_Binary_Search/) | **21** | 🚀 Active |
 | 07 | [07_Recursion](./07_Recursion/) | **12** | 🚀 Active |
-| 08 | [08_Backtracking](./08_Backtracking/) | **5** | 🚀 Active |
+| 08 | [08_Backtracking](./08_Backtracking/) | **8** | 🚀 Active |
 | 09 | [09_Linked_List](./09_Linked_List/) | **25** | 🚀 Active |
 | 10 | [10_Stack](./10_Stack/) | **1** | 🚀 Active |
 | 11 | [11_Queue](./11_Queue/) | 0 | ⏳ In Progress |
-| 12 | [12_Bit_Manipulation](./12_Bit_Manipulation/) | **1** | 🚀 Active |
+| 12 | [12_Bit_Manipulation](./12_Bit_Manipulation/) | **3** | 🚀 Active |
 | 13 | [13_Math](./13_Math/) | **5** | 🚀 Active |
 | 14 | [14_Trees](./14_Trees/) | 0 | ⏳ In Progress |
 | 15 | [15_BST](./15_BST/) | 0 | ⏳ In Progress |
@@ -125,7 +125,10 @@ DSA/
 │   ├── 02_Word_Search.java
 │   ├── 03_N_Queens.java
 │   ├── 04_Rat_In_A_Maze.java
-│   └── 05_Word_Break.java
+│   ├── 05_Word_Break.java
+│   ├── 06_M_Coloring_Problem.java
+│   ├── 07_Sudoku_Solver.java
+│   └── 08_Expression_Add_Operators.java
 ├── 09_Linked_List/
 │   ├── 01_Introduction_To_Linked_List.java
 │   ├── 02_Insert_Node_In_Linked_List.java
@@ -156,7 +159,9 @@ DSA/
 │   └── 01_Remove_K_Digits.java
 ├── 11_Queue/
 ├── 12_Bit_Manipulation/
-│   └── 01_Single_Number.java
+│   ├── 01_Single_Number.java
+│   ├── 02_Check_If_Ith_Bit_Is_Set.java
+│   └── 03_Divide_Two_Integers.java
 ├── 13_Math/
 │   ├── 01_LCM_And_GCD.java
 │   ├── 02_Missing_Element_Of_AP.java

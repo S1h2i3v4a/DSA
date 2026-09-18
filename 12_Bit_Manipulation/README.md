@@ -7,3 +7,6 @@ Bit Manipulation operates on binary bits directly for fast $O(1)$ constant time 
 | # | Problem Name | Difficulty | Solution File | Notes |
 |---|---|---|---|---|
 | 01 | Single Number | Easy | [01_Single_Number.java](./01_Single_Number.java) | Bitwise XOR Cancellation |
+| 02 | Check if K-th / I-th Bit is Set | Easy | [02_Check_If_Ith_Bit_Is_Set.java](./02_Check_If_Ith_Bit_Is_Set.java) | Bitwise AND & Shift Operations |
+| 03 | Divide Two Integers | Medium | [03_Divide_Two_Integers.java](./03_Divide_Two_Integers.java) | Bitwise Exponential Subtraction |
+
