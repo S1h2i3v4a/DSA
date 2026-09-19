@@ -8,7 +8,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 
 - **LeetCode Profile**: [Shivam990shiv](https://leetcode.com/u/Shivam990shiv/)
 - **GeeksforGeeks Profile**: [shivamkestk1n](https://www.geeksforgeeks.org/profile/shivamkestk1n)
-- **Total Problems Solved**: **112**
+- **Total Problems Solved**: **117**
 ---
 
 ## 🧭 Priority Learning Roadmap (01 to 21)
@@ -26,8 +26,8 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 | 09 | [09_Linked_List](./09_Linked_List/) | **25** | 🚀 Active |
 | 10 | [10_Stack](./10_Stack/) | **1** | 🚀 Active |
 | 11 | [11_Queue](./11_Queue/) | 0 | ⏳ In Progress |
-| 12 | [12_Bit_Manipulation](./12_Bit_Manipulation/) | **3** | 🚀 Active |
-| 13 | [13_Math](./13_Math/) | **5** | 🚀 Active |
+| 12 | [12_Bit_Manipulation](./12_Bit_Manipulation/) | **5** | 🚀 Active |
+| 13 | [13_Math](./13_Math/) | **8** | 🚀 Active |
 | 14 | [14_Trees](./14_Trees/) | 0 | ⏳ In Progress |
 | 15 | [15_BST](./15_BST/) | 0 | ⏳ In Progress |
 | 16 | [16_Heap](./16_Heap/) | 0 | ⏳ In Progress |
@@ -161,13 +161,18 @@ DSA/
 ├── 12_Bit_Manipulation/
 │   ├── 01_Single_Number.java
 │   ├── 02_Check_If_Ith_Bit_Is_Set.java
-│   └── 03_Divide_Two_Integers.java
+│   ├── 03_Divide_Two_Integers.java
+│   ├── 04_Minimum_Bit_Flips_To_Convert_Number.java
+│   └── 05_Single_Number_III.java
 ├── 13_Math/
 │   ├── 01_LCM_And_GCD.java
 │   ├── 02_Missing_Element_Of_AP.java
 │   ├── 03_Sum_1_To_N_Divisors.java
 │   ├── 04_Chewbacca_And_Number.java
-│   └── 05_Factorial_Numbers_Less_Than_Or_Equal_To_N.java
+│   ├── 05_Factorial_Numbers_Less_Than_Or_Equal_To_N.java
+│   ├── 06_Print_Prime_Factors_Of_A_Number.java
+│   ├── 07_Count_Primes_In_Range_L_To_R.java
+│   └── 08_Pow_X_N.java
 ├── 14_Trees/
 ├── 15_BST/
 ├── 16_Heap/
