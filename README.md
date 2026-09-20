@@ -8,7 +8,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 
 - **LeetCode Profile**: [Shivam990shiv](https://leetcode.com/u/Shivam990shiv/)
 - **GeeksforGeeks Profile**: [shivamkestk1n](https://www.geeksforgeeks.org/profile/shivamkestk1n)
-- **Total Problems Solved**: **117**
+- **Total Problems Solved**: **122**
 ---
 
 ## 🧭 Priority Learning Roadmap (01 to 21)
@@ -24,8 +24,8 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 | 07 | [07_Recursion](./07_Recursion/) | **12** | 🚀 Active |
 | 08 | [08_Backtracking](./08_Backtracking/) | **8** | 🚀 Active |
 | 09 | [09_Linked_List](./09_Linked_List/) | **25** | 🚀 Active |
-| 10 | [10_Stack](./10_Stack/) | **1** | 🚀 Active |
-| 11 | [11_Queue](./11_Queue/) | 0 | ⏳ In Progress |
+| 10 | [10_Stack](./10_Stack/) | **4** | 🚀 Active |
+| 11 | [11_Queue](./11_Queue/) | **2** | 🚀 Active |
 | 12 | [12_Bit_Manipulation](./12_Bit_Manipulation/) | **5** | 🚀 Active |
 | 13 | [13_Math](./13_Math/) | **8** | 🚀 Active |
 | 14 | [14_Trees](./14_Trees/) | 0 | ⏳ In Progress |
@@ -156,8 +156,13 @@ DSA/
 │   ├── 24_Reverse_Nodes_In_K_Group.java
 │   └── 25_Rotate_List.java
 ├── 10_Stack/
-│   └── 01_Remove_K_Digits.java
+│   ├── 01_Remove_K_Digits.java
+│   ├── 02_Implement_Stack_Using_Array.java
+│   ├── 03_Implement_Stack_Using_Queues.java
+│   └── 04_Implement_Stack_Using_Linked_List.java
 ├── 11_Queue/
+│   ├── 01_Implement_Queue_Using_Array.java
+│   └── 02_Implement_Queue_Using_Stacks.java
 ├── 12_Bit_Manipulation/
 │   ├── 01_Single_Number.java
 │   ├── 02_Check_If_Ith_Bit_Is_Set.java
