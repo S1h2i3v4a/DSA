@@ -8,7 +8,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 
 - **LeetCode Profile**: [Shivam990shiv](https://leetcode.com/u/Shivam990shiv/)
 - **GeeksforGeeks Profile**: [shivamkestk1n](https://www.geeksforgeeks.org/profile/shivamkestk1n)
-- **Total Problems Solved**: **122**
+- **Total Problems Solved**: **127**
 ---
 
 ## 🧭 Priority Learning Roadmap (01 to 21)
@@ -24,7 +24,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 | 07 | [07_Recursion](./07_Recursion/) | **12** | 🚀 Active |
 | 08 | [08_Backtracking](./08_Backtracking/) | **8** | 🚀 Active |
 | 09 | [09_Linked_List](./09_Linked_List/) | **25** | 🚀 Active |
-| 10 | [10_Stack](./10_Stack/) | **4** | 🚀 Active |
+| 10 | [10_Stack](./10_Stack/) | **9** | 🚀 Active |
 | 11 | [11_Queue](./11_Queue/) | **2** | 🚀 Active |
 | 12 | [12_Bit_Manipulation](./12_Bit_Manipulation/) | **5** | 🚀 Active |
 | 13 | [13_Math](./13_Math/) | **8** | 🚀 Active |
@@ -159,7 +159,12 @@ DSA/
 │   ├── 01_Remove_K_Digits.java
 │   ├── 02_Implement_Stack_Using_Array.java
 │   ├── 03_Implement_Stack_Using_Queues.java
-│   └── 04_Implement_Stack_Using_Linked_List.java
+│   ├── 04_Implement_Stack_Using_Linked_List.java
+│   ├── 05_Min_Stack.java
+│   ├── 06_Infix_To_Postfix.java
+│   ├── 07_Prefix_To_Infix.java
+│   ├── 08_Prefix_To_Postfix.java
+│   └── 09_Postfix_To_Prefix.java
 ├── 11_Queue/
 │   ├── 01_Implement_Queue_Using_Array.java
 │   └── 02_Implement_Queue_Using_Stacks.java
