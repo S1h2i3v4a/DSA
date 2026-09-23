@@ -15,5 +15,11 @@ Stack is a Last-In, First-Out (LIFO) data structure used for monotonic searches,
 | 07 | Prefix to Infix Conversion | Medium | [07_Prefix_To_Infix.java](./07_Prefix_To_Infix.java) | Right-to-Left Stack Parsing |
 | 08 | Prefix to Postfix Conversion | Medium | [08_Prefix_To_Postfix.java](./08_Prefix_To_Postfix.java) | Right-to-Left Stack Parsing |
 | 09 | Postfix to Prefix Conversion | Medium | [09_Postfix_To_Prefix.java](./09_Postfix_To_Prefix.java) | Left-to-Right Stack Parsing |
+| 10 | Postfix to Infix Conversion | Medium | [10_Postfix_To_Infix.java](./10_Postfix_To_Infix.java) | Left-to-Right Stack Parsing |
+| 11 | Infix to Prefix Conversion | Medium | [11_Infix_To_Prefix.java](./11_Infix_To_Prefix.java) | Reversed Shunting Yard Algorithm |
+| 12 | Next Greater Element I | Easy | [12_Next_Greater_Element.java](./12_Next_Greater_Element.java) | Monotonic Decreasing Stack |
+| 13 | Next Greater Element II | Medium | [13_Next_Greater_Element_II.java](./13_Next_Greater_Element_II.java) | Circular Monotonic Stack |
+| 14 | Trapping Rain Water | Hard | [14_Trapping_Rain_Water.java](./14_Trapping_Rain_Water.java) | Two Pointers Optimal Strategy |
+
 
 
