@@ -20,6 +20,11 @@ Stack is a Last-In, First-Out (LIFO) data structure used for monotonic searches,
 | 12 | Next Greater Element I | Easy | [12_Next_Greater_Element.java](./12_Next_Greater_Element.java) | Monotonic Decreasing Stack |
 | 13 | Next Greater Element II | Medium | [13_Next_Greater_Element_II.java](./13_Next_Greater_Element_II.java) | Circular Monotonic Stack |
 | 14 | Trapping Rain Water | Hard | [14_Trapping_Rain_Water.java](./14_Trapping_Rain_Water.java) | Two Pointers Optimal Strategy |
+| 15 | Sum of Subarray Minimums | Medium | [15_Sum_Of_Subarray_Minimums.java](./15_Sum_Of_Subarray_Minimums.java) | Monotonic Stack (PLE & NSE) |
+| 16 | Sum of Subarray Ranges | Medium | [16_Sum_Of_Subarray_Ranges.java](./16_Sum_Of_Subarray_Ranges.java) | Monotonic Stack (Max - Min) |
+| 17 | Largest Rectangle in Histogram | Hard | [17_Largest_Rectangle_In_Histogram.java](./17_Largest_Rectangle_In_Histogram.java) | Monotonic Increasing Stack |
+| 18 | Maximal Rectangle | Hard | [18_Maximal_Rectangle.java](./18_Maximal_Rectangle.java) | Row Histogram Reduction |
+
 
 
 
