@@ -8,7 +8,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 
 - **LeetCode Profile**: [Shivam990shiv](https://leetcode.com/u/Shivam990shiv/)
 - **GeeksforGeeks Profile**: [shivamkestk1n](https://www.geeksforgeeks.org/profile/shivamkestk1n)
-- **Total Problems Solved**: **137**
+- **Total Problems Solved**: **142**
 ---
 
 ## 🧭 Priority Learning Roadmap (01 to 21)
@@ -19,12 +19,12 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 | 02 | [02_Strings](./02_Strings/) | **12** | 🚀 Active |
 | 03 | [03_Hashing](./03_Hashing/) | **2** | 🚀 Active |
 | 04 | [04_Two_Pointers](./04_Two_Pointers/) | **1** | 🚀 Active |
-| 05 | [05_Sliding_Window](./05_Sliding_Window/) | **3** | 🚀 Active |
+| 05 | [05_Sliding_Window](./05_Sliding_Window/) | **4** | 🚀 Active |
 | 06 | [06_Binary_Search](./06_Binary_Search/) | **21** | 🚀 Active |
 | 07 | [07_Recursion](./07_Recursion/) | **12** | 🚀 Active |
 | 08 | [08_Backtracking](./08_Backtracking/) | **8** | 🚀 Active |
 | 09 | [09_Linked_List](./09_Linked_List/) | **25** | 🚀 Active |
-| 10 | [10_Stack](./10_Stack/) | **18** | 🚀 Active |
+| 10 | [10_Stack](./10_Stack/) | **22** | 🚀 Active |
 | 11 | [11_Queue](./11_Queue/) | **2** | 🚀 Active |
 | 12 | [12_Bit_Manipulation](./12_Bit_Manipulation/) | **5** | 🚀 Active |
 | 13 | [13_Math](./13_Math/) | **8** | 🚀 Active |
@@ -85,7 +85,8 @@ DSA/
 ├── 05_Sliding_Window/
 │   ├── 01_Frequency_Of_The_Most_Frequent_Element.java
 │   ├── 02_Longest_Subarray_With_Sum_K.java
-│   └── 03_Sliding_Window_Maximum.java
+│   ├── 03_Sliding_Window_Maximum.java
+│   └── 04_Longest_Substring_Without_Repeating_Characters.java
 ├── 06_Binary_Search/
 │   ├── 01_Search_Insert_Position.java
 │   ├── 02_Find_First_And_Last_Position_Of_Element_In_Sorted_Array.java
@@ -174,7 +175,11 @@ DSA/
 │   ├── 15_Sum_Of_Subarray_Minimums.java
 │   ├── 16_Sum_Of_Subarray_Ranges.java
 │   ├── 17_Largest_Rectangle_In_Histogram.java
-│   └── 18_Maximal_Rectangle.java
+│   ├── 18_Maximal_Rectangle.java
+│   ├── 19_Online_Stock_Span.java
+│   ├── 20_The_Celebrity_Problem.java
+│   ├── 21_LRU_Cache.java
+│   └── 22_LFU_Cache.java
 ├── 11_Queue/
 │   ├── 01_Implement_Queue_Using_Array.java
 │   └── 02_Implement_Queue_Using_Stacks.java

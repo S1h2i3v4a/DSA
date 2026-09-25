@@ -24,6 +24,11 @@ Stack is a Last-In, First-Out (LIFO) data structure used for monotonic searches,
 | 16 | Sum of Subarray Ranges | Medium | [16_Sum_Of_Subarray_Ranges.java](./16_Sum_Of_Subarray_Ranges.java) | Monotonic Stack (Max - Min) |
 | 17 | Largest Rectangle in Histogram | Hard | [17_Largest_Rectangle_In_Histogram.java](./17_Largest_Rectangle_In_Histogram.java) | Monotonic Increasing Stack |
 | 18 | Maximal Rectangle | Hard | [18_Maximal_Rectangle.java](./18_Maximal_Rectangle.java) | Row Histogram Reduction |
+| 19 | Online Stock Span | Medium | [19_Online_Stock_Span.java](./19_Online_Stock_Span.java) | Monotonic Decreasing Stack Pairs |
+| 20 | The Celebrity Problem | Medium | [20_The_Celebrity_Problem.java](./20_The_Celebrity_Problem.java) | Two Pointers Candidate Elimination |
+| 21 | LRU Cache | Medium | [21_LRU_Cache.java](./21_LRU_Cache.java) | Doubly Linked List + HashMap |
+| 22 | LFU Cache | Hard | [22_LFU_Cache.java](./22_LFU_Cache.java) | Frequency Doubly Linked Lists |
+
 
 
 
