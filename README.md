@@ -8,7 +8,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 
 - **LeetCode Profile**: [Shivam990shiv](https://leetcode.com/u/Shivam990shiv/)
 - **GeeksforGeeks Profile**: [shivamkestk1n](https://www.geeksforgeeks.org/profile/shivamkestk1n)
-- **Total Problems Solved**: **142**
+- **Total Problems Solved**: **147**
 ---
 
 ## 🧭 Priority Learning Roadmap (01 to 21)
@@ -19,7 +19,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 | 02 | [02_Strings](./02_Strings/) | **12** | 🚀 Active |
 | 03 | [03_Hashing](./03_Hashing/) | **2** | 🚀 Active |
 | 04 | [04_Two_Pointers](./04_Two_Pointers/) | **1** | 🚀 Active |
-| 05 | [05_Sliding_Window](./05_Sliding_Window/) | **4** | 🚀 Active |
+| 05 | [05_Sliding_Window](./05_Sliding_Window/) | **9** | 🚀 Active |
 | 06 | [06_Binary_Search](./06_Binary_Search/) | **21** | 🚀 Active |
 | 07 | [07_Recursion](./07_Recursion/) | **12** | 🚀 Active |
 | 08 | [08_Backtracking](./08_Backtracking/) | **8** | 🚀 Active |
@@ -86,7 +86,12 @@ DSA/
 │   ├── 01_Frequency_Of_The_Most_Frequent_Element.java
 │   ├── 02_Longest_Subarray_With_Sum_K.java
 │   ├── 03_Sliding_Window_Maximum.java
-│   └── 04_Longest_Substring_Without_Repeating_Characters.java
+│   ├── 04_Longest_Substring_Without_Repeating_Characters.java
+│   ├── 05_Max_Consecutive_Ones_III.java
+│   ├── 06_Fruit_Into_Baskets.java
+│   ├── 07_Longest_Repeating_Character_Replacement.java
+│   ├── 08_Binary_Subarrays_With_Sum.java
+│   └── 09_Count_Subarrays_With_Given_Sum.java
 ├── 06_Binary_Search/
 │   ├── 01_Search_Insert_Position.java
 │   ├── 02_Find_First_And_Last_Position_Of_Element_In_Sorted_Array.java
