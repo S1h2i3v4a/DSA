@@ -15,6 +15,11 @@ Sliding Window optimizes contiguous array/string range problems using expanding 
 | 07 | Longest Repeating Character Replacement | Medium | [07_Longest_Repeating_Character_Replacement.java](./07_Longest_Repeating_Character_Replacement.java) | Sliding Window + Max Freq Tracking |
 | 08 | Binary Subarrays With Sum | Medium | [08_Binary_Subarrays_With_Sum.java](./08_Binary_Subarrays_With_Sum.java) | At-Most Sliding Window Difference |
 | 09 | Count Subarrays with Given Sum | Medium | [09_Count_Subarrays_With_Given_Sum.java](./09_Count_Subarrays_With_Given_Sum.java) | Prefix Sum + HashMap Frequency |
+| 10 | Number of Substrings Containing All Three Characters | Medium | [10_Number_Of_Substrings_Containing_All_Three_Characters.java](./10_Number_Of_Substrings_Containing_All_Three_Characters.java) | Last Seen Index Strategy |
+| 11 | Maximum Points You Can Obtain from Cards | Medium | [11_Maximum_Points_You_Can_Obtain_From_Cards.java](./11_Maximum_Points_You_Can_Obtain_From_Cards.java) | Circular Prefix-Suffix Window |
+| 12 | Longest Substring with K Uniques | Medium | [12_Longest_Substring_With_K_Uniques.java](./12_Longest_Substring_With_K_Uniques.java) | Sliding Window + HashMap Freq |
+| 13 | Minimum Window Subsequence | Hard | [13_Minimum_Window_Subsequence.java](./13_Minimum_Window_Subsequence.java) | Two Pointers Forward & Reverse Pass |
+
 
 
 
