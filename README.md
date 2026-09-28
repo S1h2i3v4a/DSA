@@ -8,7 +8,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 
 - **LeetCode Profile**: [Shivam990shiv](https://leetcode.com/u/Shivam990shiv/)
 - **GeeksforGeeks Profile**: [shivamkestk1n](https://www.geeksforgeeks.org/profile/shivamkestk1n)
-- **Total Problems Solved**: **152**
+- **Total Problems Solved**: **162**
 ---
 
 ## 🧭 Priority Learning Roadmap (01 to 21)
@@ -30,7 +30,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 | 13 | [13_Math](./13_Math/) | **8** | 🚀 Active |
 | 14 | [14_Trees](./14_Trees/) | 0 | ⏳ In Progress |
 | 15 | [15_BST](./15_BST/) | 0 | ⏳ In Progress |
-| 16 | [16_Heap](./16_Heap/) | **1** | 🚀 Active |
+| 16 | [16_Heap](./16_Heap/) | **11** | 🚀 Active |
 | 17 | [17_Greedy](./17_Greedy/) | 0 | ⏳ In Progress |
 | 18 | [18_Dynamic_Programming](./18_Dynamic_Programming/) | 0 | ⏳ In Progress |
 | 19 | [19_Graph](./19_Graph/) | 0 | ⏳ In Progress |
@@ -210,7 +210,17 @@ DSA/
 ├── 14_Trees/
 ├── 15_BST/
 ├── 16_Heap/
-│   └── 01_Implement_Min_Heap.java
+│   ├── 01_Implement_Min_Heap.java
+│   ├── 02_Check_If_Array_Is_Min_Heap.java
+│   ├── 03_Convert_Min_Heap_To_Max_Heap.java
+│   ├── 04_Kth_Largest_Element_In_An_Array.java
+│   ├── 05_Sort_A_K_Sorted_Array.java
+│   ├── 06_Merge_K_Sorted_Lists.java
+│   ├── 07_Task_Scheduler.java
+│   ├── 08_Design_Twitter.java
+│   ├── 09_Kth_Largest_Element_In_A_Stream.java
+│   ├── 10_Maximum_Sum_Combination.java
+│   └── 11_Find_Median_From_Data_Stream.java
 ├── 17_Greedy/
 ├── 18_Dynamic_Programming/
 ├── 19_Graph/
