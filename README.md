@@ -8,7 +8,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 
 - **LeetCode Profile**: [Shivam990shiv](https://leetcode.com/u/Shivam990shiv/)
 - **GeeksforGeeks Profile**: [shivamkestk1n](https://www.geeksforgeeks.org/profile/shivamkestk1n)
-- **Total Problems Solved**: **162**
+- **Total Problems Solved**: **167**
 ---
 
 ## 🧭 Priority Learning Roadmap (01 to 21)
@@ -31,7 +31,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 | 14 | [14_Trees](./14_Trees/) | 0 | ⏳ In Progress |
 | 15 | [15_BST](./15_BST/) | 0 | ⏳ In Progress |
 | 16 | [16_Heap](./16_Heap/) | **11** | 🚀 Active |
-| 17 | [17_Greedy](./17_Greedy/) | 0 | ⏳ In Progress |
+| 17 | [17_Greedy](./17_Greedy/) | **5** | 🚀 Active |
 | 18 | [18_Dynamic_Programming](./18_Dynamic_Programming/) | 0 | ⏳ In Progress |
 | 19 | [19_Graph](./19_Graph/) | 0 | ⏳ In Progress |
 | 20 | [20_Trie](./20_Trie/) | 0 | ⏳ In Progress |
@@ -222,6 +222,11 @@ DSA/
 │   ├── 10_Maximum_Sum_Combination.java
 │   └── 11_Find_Median_From_Data_Stream.java
 ├── 17_Greedy/
+│   ├── 01_Fractional_Knapsack.java
+│   ├── 02_Lemonade_Change.java
+│   ├── 03_Valid_Parenthesis_String.java
+│   ├── 04_Activity_Selection.java
+│   └── 05_Jump_Game.java
 ├── 18_Dynamic_Programming/
 ├── 19_Graph/
 ├── 20_Trie/
