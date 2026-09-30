@@ -8,7 +8,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 
 - **LeetCode Profile**: [Shivam990shiv](https://leetcode.com/u/Shivam990shiv/)
 - **GeeksforGeeks Profile**: [shivamkestk1n](https://www.geeksforgeeks.org/profile/shivamkestk1n)
-- **Total Problems Solved**: **167**
+- **Total Problems Solved**: **172**
 ---
 
 ## 🧭 Priority Learning Roadmap (01 to 21)
@@ -31,7 +31,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 | 14 | [14_Trees](./14_Trees/) | 0 | ⏳ In Progress |
 | 15 | [15_BST](./15_BST/) | 0 | ⏳ In Progress |
 | 16 | [16_Heap](./16_Heap/) | **11** | 🚀 Active |
-| 17 | [17_Greedy](./17_Greedy/) | **5** | 🚀 Active |
+| 17 | [17_Greedy](./17_Greedy/) | **10** | 🚀 Active |
 | 18 | [18_Dynamic_Programming](./18_Dynamic_Programming/) | 0 | ⏳ In Progress |
 | 19 | [19_Graph](./19_Graph/) | 0 | ⏳ In Progress |
 | 20 | [20_Trie](./20_Trie/) | 0 | ⏳ In Progress |
@@ -226,7 +226,12 @@ DSA/
 │   ├── 02_Lemonade_Change.java
 │   ├── 03_Valid_Parenthesis_String.java
 │   ├── 04_Activity_Selection.java
-│   └── 05_Jump_Game.java
+│   ├── 05_Jump_Game.java
+│   ├── 06_Jump_Game_II.java
+│   ├── 07_Minimum_Platforms.java
+│   ├── 08_Job_Sequencing_Problem.java
+│   ├── 09_Candy.java
+│   └── 10_Insert_Interval.java
 ├── 18_Dynamic_Programming/
 ├── 19_Graph/
 ├── 20_Trie/
