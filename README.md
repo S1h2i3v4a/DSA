@@ -8,7 +8,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 
 - **LeetCode Profile**: [Shivam990shiv](https://leetcode.com/u/Shivam990shiv/)
 - **GeeksforGeeks Profile**: [shivamkestk1n](https://www.geeksforgeeks.org/profile/shivamkestk1n)
-- **Total Problems Solved**: **172**
+- **Total Problems Solved**: **177**
 ---
 
 ## 🧭 Priority Learning Roadmap (01 to 21)
@@ -28,7 +28,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 | 11 | [11_Queue](./11_Queue/) | **2** | 🚀 Active |
 | 12 | [12_Bit_Manipulation](./12_Bit_Manipulation/) | **5** | 🚀 Active |
 | 13 | [13_Math](./13_Math/) | **8** | 🚀 Active |
-| 14 | [14_Trees](./14_Trees/) | 0 | ⏳ In Progress |
+| 14 | [14_Trees](./14_Trees/) | **5** | 🚀 Active |
 | 15 | [15_BST](./15_BST/) | 0 | ⏳ In Progress |
 | 16 | [16_Heap](./16_Heap/) | **11** | 🚀 Active |
 | 17 | [17_Greedy](./17_Greedy/) | **10** | 🚀 Active |
@@ -208,6 +208,11 @@ DSA/
 │   ├── 07_Count_Primes_In_Range_L_To_R.java
 │   └── 08_Pow_X_N.java
 ├── 14_Trees/
+│   ├── 01_Binary_Tree_Traversals.java
+│   ├── 02_Postorder_Traversal_Iterative.java
+│   ├── 03_Level_Order_Traversal.java
+│   ├── 04_Preorder_Inorder_Postorder_In_One_Traversal.java
+│   └── 05_Balanced_Binary_Tree.java
 ├── 15_BST/
 ├── 16_Heap/
 │   ├── 01_Implement_Min_Heap.java
