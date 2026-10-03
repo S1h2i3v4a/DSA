@@ -16,3 +16,8 @@ Trees are non-linear hierarchical structures evaluated using DFS (pre, in, post)
 | 08 | Zigzag Level Order Traversal | Medium | [08_Binary_Tree_Zigzag_Level_Order_Traversal.java](./08_Binary_Tree_Zigzag_Level_Order_Traversal.java) | BFS Queue with LinkedList addFirst/addLast |
 | 09 | Boundary Traversal | Medium | [09_Boundary_Traversal_Of_Binary_Tree.java](./09_Boundary_Traversal_Of_Binary_Tree.java) | Left Boundary + Leaves + Right Boundary (Stack) |
 | 10 | Vertical Order Traversal | Hard | [10_Vertical_Order_Traversal.java](./10_Vertical_Order_Traversal.java) | BFS Coordinate Mapping with TreeMap & PriorityQueue |
+| 11 | Top View of Binary Tree | Medium | [11_Top_View_Of_Binary_Tree.java](./11_Top_View_Of_Binary_Tree.java) | BFS Level Order with Column TreeMap First Entry |
+| 12 | Bottom View of Binary Tree | Medium | [12_Bottom_View_Of_Binary_Tree.java](./12_Bottom_View_Of_Binary_Tree.java) | BFS Level Order with Column Overwriting TreeMap |
+| 13 | Symmetric Tree | Easy | [13_Symmetric_Tree.java](./13_Symmetric_Tree.java) | Dual Subtree Mirror Image Recursion |
+| 14 | Root to Leaf Paths | Medium | [14_Root_To_Leaf_Paths.java](./14_Root_To_Leaf_Paths.java) | Backtracking DFS Path Snapshotting |
+| 15 | Lowest Common Ancestor | Medium | [15_Lowest_Common_Ancestor.java](./15_Lowest_Common_Ancestor.java) | Dual Subtree Post-Order Match DFS |
