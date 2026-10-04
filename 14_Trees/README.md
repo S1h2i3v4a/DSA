@@ -21,3 +21,8 @@ Trees are non-linear hierarchical structures evaluated using DFS (pre, in, post)
 | 13 | Symmetric Tree | Easy | [13_Symmetric_Tree.java](./13_Symmetric_Tree.java) | Dual Subtree Mirror Image Recursion |
 | 14 | Root to Leaf Paths | Medium | [14_Root_To_Leaf_Paths.java](./14_Root_To_Leaf_Paths.java) | Backtracking DFS Path Snapshotting |
 | 15 | Lowest Common Ancestor | Medium | [15_Lowest_Common_Ancestor.java](./15_Lowest_Common_Ancestor.java) | Dual Subtree Post-Order Match DFS |
+| 16 | Maximum Width of Binary Tree | Medium | [16_Maximum_Width_Of_Binary_Tree.java](./16_Maximum_Width_Of_Binary_Tree.java) | BFS Level Order with Normalized Indexing |
+| 17 | All Nodes Distance K in Binary Tree | Medium | [17_All_Nodes_Distance_K_In_Binary_Tree.java](./17_All_Nodes_Distance_K_In_Binary_Tree.java) | Parent Pointer Mapping & Radial BFS |
+| 18 | Burning Tree | Hard | [18_Burning_Tree.java](./18_Burning_Tree.java) | Radial BFS Fire Spread from Target Node |
+| 19 | Unique Binary Tree Possibility | Easy | [19_Unique_Binary_Tree_Possibility.java](./19_Unique_Binary_Tree_Possibility.java) | Inorder Requirement Rule Validation |
+| 20 | Construct Binary Tree from Preorder and Inorder | Medium | [20_Construct_Binary_Tree_From_Preorder_And_Inorder.java](./20_Construct_Binary_Tree_From_Preorder_And_Inorder.java) | Divide & Conquer with Inorder HashMap |
