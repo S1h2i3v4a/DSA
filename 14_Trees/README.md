@@ -1,7 +1,7 @@
 # 14. Trees
 
 ## 📌 Overview
-Trees are non-linear hierarchical structures evaluated using DFS (pre, in, post) and BFS level order traversals.
+Trees are non-linear hierarchical structures evaluated using DFS (pre, in, post), BFS level order traversals, and Morris traversal ($O(1)$ space).
 
 ## 📑 Practice Problems
 | # | Problem Name | Difficulty | Solution File | Notes |
@@ -26,3 +26,8 @@ Trees are non-linear hierarchical structures evaluated using DFS (pre, in, post)
 | 18 | Burning Tree | Hard | [18_Burning_Tree.java](./18_Burning_Tree.java) | Radial BFS Fire Spread from Target Node |
 | 19 | Unique Binary Tree Possibility | Easy | [19_Unique_Binary_Tree_Possibility.java](./19_Unique_Binary_Tree_Possibility.java) | Inorder Requirement Rule Validation |
 | 20 | Construct Binary Tree from Preorder and Inorder | Medium | [20_Construct_Binary_Tree_From_Preorder_And_Inorder.java](./20_Construct_Binary_Tree_From_Preorder_And_Inorder.java) | Divide & Conquer with Inorder HashMap |
+| 21 | Construct Binary Tree from Inorder and Postorder | Medium | [21_Construct_Binary_Tree_From_Inorder_And_Postorder.java](./21_Construct_Binary_Tree_From_Inorder_And_Postorder.java) | Divide & Conquer with Inorder HashMap |
+| 22 | Serialize and Deserialize Binary Tree | Hard | [22_Serialize_And_Deserialize_Binary_Tree.java](./22_Serialize_And_Deserialize_Binary_Tree.java) | BFS Level-Order String Serialization |
+| 23 | Flatten Binary Tree to Linked List | Medium | [23_Flatten_Binary_Tree_To_Linked_List.java](./23_Flatten_Binary_Tree_To_Linked_List.java) | Reverse Post-order, Stack & Morris In-Place |
+| 24 | Morris Preorder Traversal | Medium | [24_Morris_Preorder_Traversal.java](./24_Morris_Preorder_Traversal.java) | Threaded Binary Tree O(1) Auxiliary Space |
+| 25 | Morris Inorder Traversal | Medium | [25_Morris_Inorder_Traversal.java](./25_Morris_Inorder_Traversal.java) | Threaded Binary Tree O(1) Auxiliary Space |

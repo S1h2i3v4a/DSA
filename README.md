@@ -8,7 +8,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 
 - **LeetCode Profile**: [Shivam990shiv](https://leetcode.com/u/Shivam990shiv/)
 - **GeeksforGeeks Profile**: [shivamkestk1n](https://www.geeksforgeeks.org/profile/shivamkestk1n)
-- **Total Problems Solved**: **192**
+- **Total Problems Solved**: **197**
 ---
 
 ## 🧭 Priority Learning Roadmap (01 to 21)
@@ -28,7 +28,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 | 11 | [11_Queue](./11_Queue/) | **2** | 🚀 Active |
 | 12 | [12_Bit_Manipulation](./12_Bit_Manipulation/) | **5** | 🚀 Active |
 | 13 | [13_Math](./13_Math/) | **8** | 🚀 Active |
-| 14 | [14_Trees](./14_Trees/) | **20** | 🚀 Active |
+| 14 | [14_Trees](./14_Trees/) | **25** | 🚀 Active |
 | 15 | [15_BST](./15_BST/) | 0 | ⏳ In Progress |
 | 16 | [16_Heap](./16_Heap/) | **11** | 🚀 Active |
 | 17 | [17_Greedy](./17_Greedy/) | **10** | 🚀 Active |
@@ -227,7 +227,12 @@ DSA/
 │   ├── 17_All_Nodes_Distance_K_In_Binary_Tree.java
 │   ├── 18_Burning_Tree.java
 │   ├── 19_Unique_Binary_Tree_Possibility.java
-│   └── 20_Construct_Binary_Tree_From_Preorder_And_Inorder.java
+│   ├── 20_Construct_Binary_Tree_From_Preorder_And_Inorder.java
+│   ├── 21_Construct_Binary_Tree_From_Inorder_And_Postorder.java
+│   ├── 22_Serialize_And_Deserialize_Binary_Tree.java
+│   ├── 23_Flatten_Binary_Tree_To_Linked_List.java
+│   ├── 24_Morris_Preorder_Traversal.java
+│   └── 25_Morris_Inorder_Traversal.java
 ├── 15_BST/
 ├── 16_Heap/
 │   ├── 01_Implement_Min_Heap.java
