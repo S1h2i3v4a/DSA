@@ -8,7 +8,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 
 - **LeetCode Profile**: [Shivam990shiv](https://leetcode.com/u/Shivam990shiv/)
 - **GeeksforGeeks Profile**: [shivamkestk1n](https://www.geeksforgeeks.org/profile/shivamkestk1n)
-- **Total Problems Solved**: **197**
+- **Total Problems Solved**: **202**
 ---
 
 ## 🧭 Priority Learning Roadmap (01 to 21)
@@ -29,7 +29,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 | 12 | [12_Bit_Manipulation](./12_Bit_Manipulation/) | **5** | 🚀 Active |
 | 13 | [13_Math](./13_Math/) | **8** | 🚀 Active |
 | 14 | [14_Trees](./14_Trees/) | **25** | 🚀 Active |
-| 15 | [15_BST](./15_BST/) | 0 | ⏳ In Progress |
+| 15 | [15_BST](./15_BST/) | **5** | 🚀 Active |
 | 16 | [16_Heap](./16_Heap/) | **11** | 🚀 Active |
 | 17 | [17_Greedy](./17_Greedy/) | **10** | 🚀 Active |
 | 18 | [18_Dynamic_Programming](./18_Dynamic_Programming/) | 0 | ⏳ In Progress |
@@ -234,6 +234,11 @@ DSA/
 │   ├── 24_Morris_Preorder_Traversal.java
 │   └── 25_Morris_Inorder_Traversal.java
 ├── 15_BST/
+│   ├── 01_Kth_Smallest_Element_In_BST.java
+│   ├── 02_Validate_Binary_Search_Tree.java
+│   ├── 03_Lowest_Common_Ancestor_In_BST.java
+│   ├── 04_Construct_BST_From_Preorder.java
+│   └── 05_Predecessor_And_Successor.java
 ├── 16_Heap/
 │   ├── 01_Implement_Min_Heap.java
 │   ├── 02_Check_If_Array_Is_Min_Heap.java
