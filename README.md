@@ -8,7 +8,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 
 - **LeetCode Profile**: [Shivam990shiv](https://leetcode.com/u/Shivam990shiv/)
 - **GeeksforGeeks Profile**: [shivamkestk1n](https://www.geeksforgeeks.org/profile/shivamkestk1n)
-- **Total Problems Solved**: **207**
+- **Total Problems Solved**: **212**
 ---
 
 ## 🧭 Priority Learning Roadmap (01 to 21)
@@ -33,7 +33,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 | 16 | [16_Heap](./16_Heap/) | **11** | 🚀 Active |
 | 17 | [17_Greedy](./17_Greedy/) | **10** | 🚀 Active |
 | 18 | [18_Dynamic_Programming](./18_Dynamic_Programming/) | 0 | ⏳ In Progress |
-| 19 | [19_Graph](./19_Graph/) | **1** | 🚀 Active |
+| 19 | [19_Graph](./19_Graph/) | **6** | 🚀 Active |
 | 20 | [20_Trie](./20_Trie/) | 0 | ⏳ In Progress |
 | 21 | [21_Miscellaneous](./21_Miscellaneous/) | 0 | ⏳ In Progress |
 
@@ -268,7 +268,12 @@ DSA/
 │   └── 10_Insert_Interval.java
 ├── 18_Dynamic_Programming/
 ├── 19_Graph/
-│   └── 01_Rotting_Oranges.java
+│   ├── 01_Rotting_Oranges.java
+│   ├── 02_Flood_Fill.java
+│   ├── 03_Detect_Cycle_In_Undirected_Graph.java
+│   ├── 04_Course_Schedule.java
+│   ├── 05_01_Matrix.java
+│   └── 06_Surrounded_Regions.java
 ├── 20_Trie/
 └── 21_Miscellaneous/
 ```
