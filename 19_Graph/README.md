@@ -17,3 +17,8 @@ Graphs model networks using vertices and edges evaluated with BFS, DFS, Shortest
 | 09 | Word Ladder II | Hard | [09_Word_Ladder_II.java](./09_Word_Ladder_II.java) | BFS Distance Map + Backtracking DFS Paths |
 | 10 | Topological Sort | Medium | [10_Topological_Sort.java](./10_Topological_Sort.java) | Stack DFS & Kahn's In-Degree BFS |
 | 11 | Alien Dictionary | Hard | [11_Alien_Dictionary.java](./11_Alien_Dictionary.java) | Character Dependency Graph + Kahn's Topo Sort |
+| 12 | Shortest Path in Undirected Graph | Medium | [12_Shortest_Path_In_Undirected_Graph.java](./12_Shortest_Path_In_Undirected_Graph.java) | Unit Weight BFS Shortest Path |
+| 13 | Shortest Path in Binary Matrix | Medium | [13_Shortest_Path_In_Binary_Matrix.java](./13_Shortest_Path_In_Binary_Matrix.java) | 8-Directional Grid BFS Shortest Clear Path |
+| 14 | Path With Minimum Effort | Medium | [14_Path_With_Minimum_Effort.java](./14_Path_With_Minimum_Effort.java) | Dijkstra Min-Heap with Height Difference Tracking |
+| 15 | Cheapest Flights Within K Stops | Medium | [15_Cheapest_Flights_Within_K_Stops.java](./15_Cheapest_Flights_Within_K_Stops.java) | Stops Level-by-Level BFS Dijkstra Variant |
+| 16 | Number of Ways to Arrive at Destination | Medium | [16_Number_Of_Ways_To_Arrive_At_Destination.java](./16_Number_Of_Ways_To_Arrive_At_Destination.java) | Dijkstra's Algorithm with Path Counter Array |

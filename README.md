@@ -8,7 +8,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 
 - **LeetCode Profile**: [Shivam990shiv](https://leetcode.com/u/Shivam990shiv/)
 - **GeeksforGeeks Profile**: [shivamkestk1n](https://www.geeksforgeeks.org/profile/shivamkestk1n)
-- **Total Problems Solved**: **217**
+- **Total Problems Solved**: **222**
 ---
 
 ## 🧭 Priority Learning Roadmap (01 to 21)
@@ -33,7 +33,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 | 16 | [16_Heap](./16_Heap/) | **11** | 🚀 Active |
 | 17 | [17_Greedy](./17_Greedy/) | **10** | 🚀 Active |
 | 18 | [18_Dynamic_Programming](./18_Dynamic_Programming/) | 0 | ⏳ In Progress |
-| 19 | [19_Graph](./19_Graph/) | **11** | 🚀 Active |
+| 19 | [19_Graph](./19_Graph/) | **16** | 🚀 Active |
 | 20 | [20_Trie](./20_Trie/) | 0 | ⏳ In Progress |
 | 21 | [21_Miscellaneous](./21_Miscellaneous/) | 0 | ⏳ In Progress |
 
@@ -278,7 +278,12 @@ DSA/
 │   ├── 08_Word_Ladder.java
 │   ├── 09_Word_Ladder_II.java
 │   ├── 10_Topological_Sort.java
-│   └── 11_Alien_Dictionary.java
+│   ├── 11_Alien_Dictionary.java
+│   ├── 12_Shortest_Path_In_Undirected_Graph.java
+│   ├── 13_Shortest_Path_In_Binary_Matrix.java
+│   ├── 14_Path_With_Minimum_Effort.java
+│   ├── 15_Cheapest_Flights_Within_K_Stops.java
+│   └── 16_Number_Of_Ways_To_Arrive_At_Destination.java
 ├── 20_Trie/
 └── 21_Miscellaneous/
 ```
