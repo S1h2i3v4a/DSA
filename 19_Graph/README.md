@@ -22,3 +22,8 @@ Graphs model networks using vertices and edges evaluated with BFS, DFS, Shortest
 | 14 | Path With Minimum Effort | Medium | [14_Path_With_Minimum_Effort.java](./14_Path_With_Minimum_Effort.java) | Dijkstra Min-Heap with Height Difference Tracking |
 | 15 | Cheapest Flights Within K Stops | Medium | [15_Cheapest_Flights_Within_K_Stops.java](./15_Cheapest_Flights_Within_K_Stops.java) | Stops Level-by-Level BFS Dijkstra Variant |
 | 16 | Number of Ways to Arrive at Destination | Medium | [16_Number_Of_Ways_To_Arrive_At_Destination.java](./16_Number_Of_Ways_To_Arrive_At_Destination.java) | Dijkstra's Algorithm with Path Counter Array |
+| 17 | Minimum Multiplications to Reach End | Medium | [17_Minimum_Multiplications_To_Reach_End.java](./17_Minimum_Multiplications_To_Reach_End.java) | BFS on Modulo-100000 State Graph |
+| 18 | Bellman Ford Algorithm | Medium | [18_Bellman_Ford_Algorithm.java](./18_Bellman_Ford_Algorithm.java) | (V-1) Edge Relaxes & Negative Cycle Detection |
+| 19 | Floyd Warshall Algorithm | Medium | [19_Floyd_Warshall_Algorithm.java](./19_Floyd_Warshall_Algorithm.java) | All-Pairs Shortest Path Intermediate Node DP |
+| 20 | Find the City With Smallest Neighbors | Medium | [20_Find_The_City_With_Smallest_Number_Of_Neighbors.java](./20_Find_The_City_With_Smallest_Number_Of_Neighbors.java) | Floyd-Warshall Reachable Cities Threshold Filter |
+| 21 | Minimum Spanning Tree | Medium | [21_Minimum_Spanning_Tree.java](./21_Minimum_Spanning_Tree.java) | Prim's (Min-Heap) & Kruskal's (DSU) Algorithms |
