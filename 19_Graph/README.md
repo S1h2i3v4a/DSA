@@ -27,3 +27,8 @@ Graphs model networks using vertices and edges evaluated with BFS, DFS, Shortest
 | 19 | Floyd Warshall Algorithm | Medium | [19_Floyd_Warshall_Algorithm.java](./19_Floyd_Warshall_Algorithm.java) | All-Pairs Shortest Path Intermediate Node DP |
 | 20 | Find the City With Smallest Neighbors | Medium | [20_Find_The_City_With_Smallest_Number_Of_Neighbors.java](./20_Find_The_City_With_Smallest_Number_Of_Neighbors.java) | Floyd-Warshall Reachable Cities Threshold Filter |
 | 21 | Minimum Spanning Tree | Medium | [21_Minimum_Spanning_Tree.java](./21_Minimum_Spanning_Tree.java) | Prim's (Min-Heap) & Kruskal's (DSU) Algorithms |
+| 22 | Disjoint Set | Medium | [22_Disjoint_Set.java](./22_Disjoint_Set.java) | DSU with Path Compression, Union by Rank & Size |
+| 23 | Number of Operations to Make Network Connected | Medium | [23_Number_Of_Operations_To_Make_Network_Connected.java](./23_Number_Of_Operations_To_Make_Network_Connected.java) | Redundant Cable DSU & Component Counting DFS |
+| 24 | Most Stones Removed with Same Row or Column | Medium | [24_Most_Stones_Removed_With_Same_Row_Or_Column.java](./24_Most_Stones_Removed_With_Same_Row_Or_Column.java) | Coordinate Mapping DSU Spanning Tree Components |
+| 25 | Accounts Merge | Medium | [25_Accounts_Merge.java](./25_Accounts_Merge.java) | Email to Account Index DSU & Sorted Grouping |
+| 26 | Number of Islands | Medium | [26_Number_Of_Islands.java](./26_Number_Of_Islands.java) | 4-Directional & 8-Directional DFS/BFS Flood Fill |

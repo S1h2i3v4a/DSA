@@ -8,7 +8,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 
 - **LeetCode Profile**: [Shivam990shiv](https://leetcode.com/u/Shivam990shiv/)
 - **GeeksforGeeks Profile**: [shivamkestk1n](https://www.geeksforgeeks.org/profile/shivamkestk1n)
-- **Total Problems Solved**: **227**
+- **Total Problems Solved**: **232**
 ---
 
 ## 🧭 Priority Learning Roadmap (01 to 21)
@@ -33,7 +33,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 | 16 | [16_Heap](./16_Heap/) | **11** | 🚀 Active |
 | 17 | [17_Greedy](./17_Greedy/) | **10** | 🚀 Active |
 | 18 | [18_Dynamic_Programming](./18_Dynamic_Programming/) | 0 | ⏳ In Progress |
-| 19 | [19_Graph](./19_Graph/) | **21** | 🚀 Active |
+| 19 | [19_Graph](./19_Graph/) | **26** | 🚀 Active |
 | 20 | [20_Trie](./20_Trie/) | 0 | ⏳ In Progress |
 | 21 | [21_Miscellaneous](./21_Miscellaneous/) | 0 | ⏳ In Progress |
 
@@ -288,7 +288,12 @@ DSA/
 │   ├── 18_Bellman_Ford_Algorithm.java
 │   ├── 19_Floyd_Warshall_Algorithm.java
 │   ├── 20_Find_The_City_With_Smallest_Number_Of_Neighbors.java
-│   └── 21_Minimum_Spanning_Tree.java
+│   ├── 21_Minimum_Spanning_Tree.java
+│   ├── 22_Disjoint_Set.java
+│   ├── 23_Number_Of_Operations_To_Make_Network_Connected.java
+│   ├── 24_Most_Stones_Removed_With_Same_Row_Or_Column.java
+│   ├── 25_Accounts_Merge.java
+│   └── 26_Number_Of_Islands.java
 ├── 20_Trie/
 └── 21_Miscellaneous/
 ```
