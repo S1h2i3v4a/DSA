@@ -32,3 +32,7 @@ Graphs model networks using vertices and edges evaluated with BFS, DFS, Shortest
 | 24 | Most Stones Removed with Same Row or Column | Medium | [24_Most_Stones_Removed_With_Same_Row_Or_Column.java](./24_Most_Stones_Removed_With_Same_Row_Or_Column.java) | Coordinate Mapping DSU Spanning Tree Components |
 | 25 | Accounts Merge | Medium | [25_Accounts_Merge.java](./25_Accounts_Merge.java) | Email to Account Index DSU & Sorted Grouping |
 | 26 | Number of Islands | Medium | [26_Number_Of_Islands.java](./26_Number_Of_Islands.java) | 4-Directional & 8-Directional DFS/BFS Flood Fill |
+| 27 | Swim in Rising Water | Hard | [27_Swim_In_Rising_Water.java](./27_Swim_In_Rising_Water.java) | Min-Heap Dijkstra & Binary Search on Feasible Time |
+| 28 | Critical Connections in a Network | Hard | [28_Critical_Connections_In_A_Network.java](./28_Critical_Connections_In_A_Network.java) | Tarjan's Bridge-Finding Algorithm via DFS |
+| 29 | Articulation Point | Hard | [29_Articulation_Point.java](./29_Articulation_Point.java) | Tarjan's Cut-Vertex Algorithm via DFS Discovery & Low Time |
+| 30 | Strongly Connected Components (Kosaraju) | Hard | [30_Kosarajus_Algorithm.java](./30_Kosarajus_Algorithm.java) | 3-Step Finish Time DFS, Transpose & SCC Extraction |

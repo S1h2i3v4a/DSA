@@ -8,7 +8,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 
 - **LeetCode Profile**: [Shivam990shiv](https://leetcode.com/u/Shivam990shiv/)
 - **GeeksforGeeks Profile**: [shivamkestk1n](https://www.geeksforgeeks.org/profile/shivamkestk1n)
-- **Total Problems Solved**: **232**
+- **Total Problems Solved**: **237**
 ---
 
 ## 🧭 Priority Learning Roadmap (01 to 21)
@@ -32,8 +32,8 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 | 15 | [15_BST](./15_BST/) | **9** | 🚀 Active |
 | 16 | [16_Heap](./16_Heap/) | **11** | 🚀 Active |
 | 17 | [17_Greedy](./17_Greedy/) | **10** | 🚀 Active |
-| 18 | [18_Dynamic_Programming](./18_Dynamic_Programming/) | 0 | ⏳ In Progress |
-| 19 | [19_Graph](./19_Graph/) | **26** | 🚀 Active |
+| 18 | [18_Dynamic_Programming](./18_Dynamic_Programming/) | **1** | 🚀 Active |
+| 19 | [19_Graph](./19_Graph/) | **30** | 🚀 Active |
 | 20 | [20_Trie](./20_Trie/) | 0 | ⏳ In Progress |
 | 21 | [21_Miscellaneous](./21_Miscellaneous/) | 0 | ⏳ In Progress |
 
@@ -267,6 +267,7 @@ DSA/
 │   ├── 09_Candy.java
 │   └── 10_Insert_Interval.java
 ├── 18_Dynamic_Programming/
+│   └── 01_Nth_Fibonacci_Number.java
 ├── 19_Graph/
 │   ├── 01_Rotting_Oranges.java
 │   ├── 02_Flood_Fill.java
@@ -293,7 +294,11 @@ DSA/
 │   ├── 23_Number_Of_Operations_To_Make_Network_Connected.java
 │   ├── 24_Most_Stones_Removed_With_Same_Row_Or_Column.java
 │   ├── 25_Accounts_Merge.java
-│   └── 26_Number_Of_Islands.java
+│   ├── 26_Number_Of_Islands.java
+│   ├── 27_Swim_In_Rising_Water.java
+│   ├── 28_Critical_Connections_In_A_Network.java
+│   ├── 29_Articulation_Point.java
+│   └── 30_Kosarajus_Algorithm.java
 ├── 20_Trie/
 └── 21_Miscellaneous/
 ```
