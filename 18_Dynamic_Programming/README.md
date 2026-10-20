@@ -12,3 +12,9 @@ Dynamic Programming optimizes recursive solutions by breaking problems into subp
 | 04 | Unique Paths II | Medium | [04_Unique_Paths_II.java](./04_Unique_Paths_II.java) | Obstacle Grid Path DP with 1D Rolling Array |
 | 05 | Minimum Path Sum | Medium | [05_Minimum_Path_Sum.java](./05_Minimum_Path_Sum.java) | Grid Min-Cost Accumulation & O(N) Space Optimization |
 | 06 | Triangle | Medium | [06_Triangle.java](./06_Triangle.java) | Bottom-Up Triangular Grid Reduction & O(N) Space DP |
+| 07 | Minimum Falling Path Sum | Medium | [07_Minimum_Falling_Path_Sum.java](./07_Minimum_Falling_Path_Sum.java) | 3-Way Downward Path DP & O(N) Space Optimization |
+| 08 | Cherry Pickup II | Hard | [08_Cherry_Pickup_II.java](./08_Cherry_Pickup_II.java) | 3D DP for Dual Simultaneous Robots & O(C^2) Space |
+| 09 | Subset Sum Problem | Medium | [09_Subset_Sum_Problem.java](./09_Subset_Sum_Problem.java) | 0-1 Choice Top-Down, Bottom-Up & O(Target) Space |
+| 10 | Partition Equal Subset Sum | Medium | [10_Partition_Equal_Subset_Sum.java](./10_Partition_Equal_Subset_Sum.java) | Target Sum Half Reduction & 0-1 Knapsack DP |
+| 11 | Partition Array Into Two Arrays to Minimize Sum Difference | Hard | [11_Partition_Array_Into_Two_Arrays_To_Minimize_Sum_Difference.java](./11_Partition_Array_Into_Two_Arrays_To_Minimize_Sum_Difference.java) | GFG Subset DP & Meet-in-the-Middle Binary Search |
+
