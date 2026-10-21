@@ -17,4 +17,10 @@ Dynamic Programming optimizes recursive solutions by breaking problems into subp
 | 09 | Subset Sum Problem | Medium | [09_Subset_Sum_Problem.java](./09_Subset_Sum_Problem.java) | 0-1 Choice Top-Down, Bottom-Up & O(Target) Space |
 | 10 | Partition Equal Subset Sum | Medium | [10_Partition_Equal_Subset_Sum.java](./10_Partition_Equal_Subset_Sum.java) | Target Sum Half Reduction & 0-1 Knapsack DP |
 | 11 | Partition Array Into Two Arrays to Minimize Sum Difference | Hard | [11_Partition_Array_Into_Two_Arrays_To_Minimize_Sum_Difference.java](./11_Partition_Array_Into_Two_Arrays_To_Minimize_Sum_Difference.java) | GFG Subset DP & Meet-in-the-Middle Binary Search |
+| 12 | Count Subsets with Sum K | Medium | [12_Count_Subsets_With_Sum_K.java](./12_Count_Subsets_With_Sum_K.java) | Zero-Handling Base Cases & O(Target) Space DP |
+| 13 | Count Partitions with Given Difference | Medium | [13_Count_Partitions_With_Given_Difference.java](./13_Count_Partitions_With_Given_Difference.java) | Algebraic Target Reduction to Subset Sum Count |
+| 14 | 0/1 Knapsack | Medium | [14_0_1_Knapsack.java](./14_0_1_Knapsack.java) | Classical 0-1 Bounded Choice & Backward 1D Array DP |
+| 15 | Coin Change | Medium | [15_Coin_Change.java](./15_Coin_Change.java) | Unbounded Knapsack Infinite Supply Forward 1D DP |
+| 16 | Target Sum | Medium | [16_Target_Sum.java](./16_Target_Sum.java) | Sign Assignment Algebraic Subset Sum Count |
+
 

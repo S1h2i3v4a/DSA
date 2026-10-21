@@ -8,7 +8,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 
 - **LeetCode Profile**: [Shivam990shiv](https://leetcode.com/u/Shivam990shiv/)
 - **GeeksforGeeks Profile**: [shivamkestk1n](https://www.geeksforgeeks.org/profile/shivamkestk1n)
-- **Total Problems Solved**: **247**
+- **Total Problems Solved**: **252**
 ---
 
 ## 🧭 Priority Learning Roadmap (01 to 21)
@@ -32,7 +32,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 | 15 | [15_BST](./15_BST/) | **9** | 🚀 Active |
 | 16 | [16_Heap](./16_Heap/) | **11** | 🚀 Active |
 | 17 | [17_Greedy](./17_Greedy/) | **10** | 🚀 Active |
-| 18 | [18_Dynamic_Programming](./18_Dynamic_Programming/) | **11** | 🚀 Active |
+| 18 | [18_Dynamic_Programming](./18_Dynamic_Programming/) | **16** | 🚀 Active |
 | 19 | [19_Graph](./19_Graph/) | **30** | 🚀 Active |
 | 20 | [20_Trie](./20_Trie/) | 0 | ⏳ In Progress |
 | 21 | [21_Miscellaneous](./21_Miscellaneous/) | 0 | ⏳ In Progress |
@@ -277,7 +277,12 @@ DSA/
 │   ├── 08_Cherry_Pickup_II.java
 │   ├── 09_Subset_Sum_Problem.java
 │   ├── 10_Partition_Equal_Subset_Sum.java
-│   └── 11_Partition_Array_Into_Two_Arrays_To_Minimize_Sum_Difference.java
+│   ├── 11_Partition_Array_Into_Two_Arrays_To_Minimize_Sum_Difference.java
+│   ├── 12_Count_Subsets_With_Sum_K.java
+│   ├── 13_Count_Partitions_With_Given_Difference.java
+│   ├── 14_0_1_Knapsack.java
+│   ├── 15_Coin_Change.java
+│   └── 16_Target_Sum.java
 ├── 19_Graph/
 │   ├── 01_Rotting_Oranges.java
 │   ├── 02_Flood_Fill.java
