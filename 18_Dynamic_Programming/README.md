@@ -22,5 +22,11 @@ Dynamic Programming optimizes recursive solutions by breaking problems into subp
 | 14 | 0/1 Knapsack | Medium | [14_0_1_Knapsack.java](./14_0_1_Knapsack.java) | Classical 0-1 Bounded Choice & Backward 1D Array DP |
 | 15 | Coin Change | Medium | [15_Coin_Change.java](./15_Coin_Change.java) | Unbounded Knapsack Infinite Supply Forward 1D DP |
 | 16 | Target Sum | Medium | [16_Target_Sum.java](./16_Target_Sum.java) | Sign Assignment Algebraic Subset Sum Count |
+| 17 | Coin Change II | Medium | [17_Coin_Change_II.java](./17_Coin_Change_II.java) | Unbounded Combinations & Forward 1D Space DP |
+| 18 | Unbounded Knapsack | Medium | [18_Unbounded_Knapsack.java](./18_Unbounded_Knapsack.java) | Infinite Supply Multiple Selection 1D Forward DP |
+| 19 | Rod Cutting | Medium | [19_Rod_Cutting.java](./19_Rod_Cutting.java) | Unbounded Knapsack Piece Length Revenue Maximization |
+| 20 | Longest Common Subsequence | Medium | [20_Longest_Common_Subsequence.java](./20_Longest_Common_Subsequence.java) | Prefix Matching 2D Grid & 2-Row Space Optimization |
+| 21 | Print Longest Common Subsequence | Medium | [21_Print_Longest_Common_Subsequence.java](./21_Print_Longest_Common_Subsequence.java) | Backtracking Path Reconstruction on LCS Matrix |
+
 
 

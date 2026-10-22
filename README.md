@@ -8,7 +8,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 
 - **LeetCode Profile**: [Shivam990shiv](https://leetcode.com/u/Shivam990shiv/)
 - **GeeksforGeeks Profile**: [shivamkestk1n](https://www.geeksforgeeks.org/profile/shivamkestk1n)
-- **Total Problems Solved**: **252**
+- **Total Problems Solved**: **257**
 ---
 
 ## 🧭 Priority Learning Roadmap (01 to 21)
@@ -32,7 +32,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 | 15 | [15_BST](./15_BST/) | **9** | 🚀 Active |
 | 16 | [16_Heap](./16_Heap/) | **11** | 🚀 Active |
 | 17 | [17_Greedy](./17_Greedy/) | **10** | 🚀 Active |
-| 18 | [18_Dynamic_Programming](./18_Dynamic_Programming/) | **16** | 🚀 Active |
+| 18 | [18_Dynamic_Programming](./18_Dynamic_Programming/) | **21** | 🚀 Active |
 | 19 | [19_Graph](./19_Graph/) | **30** | 🚀 Active |
 | 20 | [20_Trie](./20_Trie/) | 0 | ⏳ In Progress |
 | 21 | [21_Miscellaneous](./21_Miscellaneous/) | 0 | ⏳ In Progress |
@@ -282,7 +282,12 @@ DSA/
 │   ├── 13_Count_Partitions_With_Given_Difference.java
 │   ├── 14_0_1_Knapsack.java
 │   ├── 15_Coin_Change.java
-│   └── 16_Target_Sum.java
+│   ├── 16_Target_Sum.java
+│   ├── 17_Coin_Change_II.java
+│   ├── 18_Unbounded_Knapsack.java
+│   ├── 19_Rod_Cutting.java
+│   ├── 20_Longest_Common_Subsequence.java
+│   └── 21_Print_Longest_Common_Subsequence.java
 ├── 19_Graph/
 │   ├── 01_Rotting_Oranges.java
 │   ├── 02_Flood_Fill.java
