@@ -8,7 +8,7 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 
 - **LeetCode Profile**: [Shivam990shiv](https://leetcode.com/u/Shivam990shiv/)
 - **GeeksforGeeks Profile**: [shivamkestk1n](https://www.geeksforgeeks.org/profile/shivamkestk1n)
-- **Total Problems Solved**: **257**
+- **Total Problems Solved**: **293**
 ---
 
 ## 🧭 Priority Learning Roadmap (01 to 21)
@@ -32,10 +32,10 @@ Welcome to my Data Structures & Algorithms repository! This repository is organi
 | 15 | [15_BST](./15_BST/) | **9** | 🚀 Active |
 | 16 | [16_Heap](./16_Heap/) | **11** | 🚀 Active |
 | 17 | [17_Greedy](./17_Greedy/) | **10** | 🚀 Active |
-| 18 | [18_Dynamic_Programming](./18_Dynamic_Programming/) | **21** | 🚀 Active |
+| 18 | [18_Dynamic_Programming](./18_Dynamic_Programming/) | **48** | 🚀 Active |
 | 19 | [19_Graph](./19_Graph/) | **30** | 🚀 Active |
-| 20 | [20_Trie](./20_Trie/) | 0 | ⏳ In Progress |
-| 21 | [21_Miscellaneous](./21_Miscellaneous/) | 0 | ⏳ In Progress |
+| 20 | [20_Trie](./20_Trie/) | **6** | 🚀 Active |
+| 21 | [21_Miscellaneous](./21_Miscellaneous/) | **3** | 🚀 Active |
 
 ---
 
@@ -287,7 +287,34 @@ DSA/
 │   ├── 18_Unbounded_Knapsack.java
 │   ├── 19_Rod_Cutting.java
 │   ├── 20_Longest_Common_Subsequence.java
-│   └── 21_Print_Longest_Common_Subsequence.java
+│   ├── 21_Print_Longest_Common_Subsequence.java
+│   ├── 22_Longest_Common_Substring.java
+│   ├── 23_Longest_Palindromic_Subsequence.java
+│   ├── 24_Minimum_Insertions_To_Make_String_Palindrome.java
+│   ├── 25_Delete_Operation_For_Two_Strings.java
+│   ├── 26_Shortest_Common_Supersequence.java
+│   ├── 27_Distinct_Subsequences.java
+│   ├── 28_Edit_Distance.java
+│   ├── 29_Wildcard_Matching.java
+│   ├── 30_Best_Time_To_Buy_And_Sell_Stock_II.java
+│   ├── 31_Best_Time_To_Buy_And_Sell_Stock_III.java
+│   ├── 32_Best_Time_To_Buy_And_Sell_Stock_IV.java
+│   ├── 33_Best_Time_To_Buy_And_Sell_Stock_With_Cooldown.java
+│   ├── 34_Best_Time_To_Buy_And_Sell_Stock_With_Transaction_Fee.java
+│   ├── 35_Longest_Increasing_Subsequence.java
+│   ├── 36_Print_Longest_Increasing_Subsequence.java
+│   ├── 37_Largest_Divisible_Subset.java
+│   ├── 38_Longest_String_Chain.java
+│   ├── 39_Longest_Bitonic_Subsequence.java
+│   ├── 40_Number_Of_Longest_Increasing_Subsequences.java
+│   ├── 41_Matrix_Chain_Multiplication.java
+│   ├── 42_Minimum_Cost_To_Cut_A_Stick.java
+│   ├── 43_Burst_Balloons.java
+│   ├── 44_Evaluate_Boolean_Expression_To_True.java
+│   ├── 45_Palindrome_Partitioning_II.java
+│   ├── 46_Partition_Array_For_Maximum_Sum.java
+│   ├── 47_Maximum_Rectangle_Area_With_All_1s.java
+│   └── 48_Count_Square_Submatrices_With_All_1s.java
 ├── 19_Graph/
 │   ├── 01_Rotting_Oranges.java
 │   ├── 02_Flood_Fill.java
@@ -320,5 +347,14 @@ DSA/
 │   ├── 29_Articulation_Point.java
 │   └── 30_Kosarajus_Algorithm.java
 ├── 20_Trie/
+│   ├── 01_Implement_Trie_Prefix_Tree.java
+│   ├── 02_Implement_Trie_II.java
+│   ├── 03_Longest_String_With_All_Prefixes.java
+│   ├── 04_Number_Of_Distinct_Substrings_In_A_String.java
+│   ├── 05_Maximum_XOR_Of_Two_Numbers_In_An_Array.java
+│   └── 06_Maximum_XOR_With_An_Element_From_Array.java
 └── 21_Miscellaneous/
+    ├── 01_LRU_Cache.java
+    ├── 02_LFU_Cache.java
+    └── 03_Find_Median_From_Data_Stream.java
 ```

@@ -27,6 +27,30 @@ Dynamic Programming optimizes recursive solutions by breaking problems into subp
 | 19 | Rod Cutting | Medium | [19_Rod_Cutting.java](./19_Rod_Cutting.java) | Unbounded Knapsack Piece Length Revenue Maximization |
 | 20 | Longest Common Subsequence | Medium | [20_Longest_Common_Subsequence.java](./20_Longest_Common_Subsequence.java) | Prefix Matching 2D Grid & 2-Row Space Optimization |
 | 21 | Print Longest Common Subsequence | Medium | [21_Print_Longest_Common_Subsequence.java](./21_Print_Longest_Common_Subsequence.java) | Backtracking Path Reconstruction on LCS Matrix |
-
-
-
+| 22 | Longest Common Substring | Medium | [22_Longest_Common_Substring.java](./22_Longest_Common_Substring.java) | Contiguous Substring DP Reset on Mismatch & O(N) Space |
+| 23 | Longest Palindromic Subsequence | Medium | [23_Longest_Palindromic_Subsequence.java](./23_Longest_Palindromic_Subsequence.java) | Reduction to LCS with Reverse String & O(N) Space |
+| 24 | Minimum Insertions to Make String Palindrome | Hard | [24_Minimum_Insertions_To_Make_String_Palindrome.java](./24_Minimum_Insertions_To_Make_String_Palindrome.java) | String Length Minus Longest Palindromic Subsequence |
+| 25 | Delete Operation for Two Strings | Medium | [25_Delete_Operation_For_Two_Strings.java](./25_Delete_Operation_For_Two_Strings.java) | Minimum Deletions/Insertions via (M + N - 2*LCS) |
+| 26 | Shortest Common Supersequence | Hard | [26_Shortest_Common_Supersequence.java](./26_Shortest_Common_Supersequence.java) | LCS Backtracking Matrix Traversal & String Assembly |
+| 27 | Distinct Subsequences | Hard | [27_Distinct_Subsequences.java](./27_Distinct_Subsequences.java) | 2D Matching Transitions with 1D Backward Optimization |
+| 28 | Edit Distance | Hard | [28_Edit_Distance.java](./28_Edit_Distance.java) | Insert, Delete, Replace DP with 2-Row Space Optimization |
+| 29 | Wildcard Matching | Hard | [29_Wildcard_Matching.java](./29_Wildcard_Matching.java) | Question Mark and Star Matching with 1D Space DP |
+| 30 | Best Time to Buy and Sell Stock II | Medium | [30_Best_Time_To_Buy_And_Sell_Stock_II.java](./30_Best_Time_To_Buy_And_Sell_Stock_II.java) | Infinite Transactions State Machine & O(1) Space DP |
+| 31 | Best Time to Buy and Sell Stock III | Hard | [31_Best_Time_To_Buy_And_Sell_Stock_III.java](./31_Best_Time_To_Buy_And_Sell_Stock_III.java) | At Most 2 Transactions 3D DP with O(1) Space |
+| 32 | Best Time to Buy and Sell Stock IV | Hard | [32_Best_Time_To_Buy_And_Sell_Stock_IV.java](./32_Best_Time_To_Buy_And_Sell_Stock_IV.java) | At Most K Transactions DP with O(K) Space Optimization |
+| 33 | Best Time to Buy and Sell Stock With Cooldown | Medium | [33_Best_Time_To_Buy_And_Sell_Stock_With_Cooldown.java](./33_Best_Time_To_Buy_And_Sell_Stock_With_Cooldown.java) | 1-Day Mandatory Cooling Period with O(1) Space DP |
+| 34 | Best Time to Buy and Sell Stock With Transaction Fee | Medium | [34_Best_Time_To_Buy_And_Sell_Stock_With_Transaction_Fee.java](./34_Best_Time_To_Buy_And_Sell_Stock_With_Transaction_Fee.java) | Fee Deduction on Selling with O(1) Space DP |
+| 35 | Longest Increasing Subsequence | Medium | [35_Longest_Increasing_Subsequence.java](./35_Longest_Increasing_Subsequence.java) | O(N^2) Tabulation & O(N log N) Patience Sorting Binary Search |
+| 36 | Print Longest Increasing Subsequence | Medium | [36_Print_Longest_Increasing_Subsequence.java](./36_Print_Longest_Increasing_Subsequence.java) | Parent Predecessor Pointer Backtracking on LIS |
+| 37 | Largest Divisible Subset | Medium | [37_Largest_Divisible_Subset.java](./37_Largest_Divisible_Subset.java) | Array Sorting with Divisibility LIS Parent Tracking |
+| 38 | Longest String Chain | Medium | [38_Longest_String_Chain.java](./38_Longest_String_Chain.java) | Length Sorting & Predecessor Substring HashMap DP |
+| 39 | Longest Bitonic Subsequence | Medium | [39_Longest_Bitonic_Subsequence.java](./39_Longest_Bitonic_Subsequence.java) | Dual LIS (Left-to-Right & Right-to-Left Peak Fusion) |
+| 40 | Number of Longest Increasing Subsequences | Medium | [40_Number_Of_Longest_Increasing_Subsequences.java](./40_Number_Of_Longest_Increasing_Subsequences.java) | Length Tracking & Ways Accumulator Dual DP Arrays |
+| 41 | Matrix Chain Multiplication | Hard | [41_Matrix_Chain_Multiplication.java](./41_Matrix_Chain_Multiplication.java) | Classical Partition DP Parenthesization Minimization |
+| 42 | Minimum Cost to Cut a Stick | Hard | [42_Minimum_Cost_To_Cut_A_Stick.java](./42_Minimum_Cost_To_Cut_A_Stick.java) | Boundary Padding & Partition DP on Ordered Cut Indices |
+| 43 | Burst Balloons | Hard | [43_Burst_Balloons.java](./43_Burst_Balloons.java) | Reverse Last Balloon Burst Partition DP |
+| 44 | Evaluate Boolean Expression to True | Hard | [44_Evaluate_Boolean_Expression_To_True.java](./44_Evaluate_Boolean_Expression_To_True.java) | 3D Boolean Parenthesization Partition DP |
+| 45 | Palindrome Partitioning II | Hard | [45_Palindrome_Partitioning_II.java](./45_Palindrome_Partitioning_II.java) | O(N^2) Palindrome Precomputation & Front Partition DP |
+| 46 | Partition Array for Maximum Sum | Medium | [46_Partition_Array_For_Maximum_Sum.java](./46_Partition_Array_For_Maximum_Sum.java) | Front Partitioning with Sliding Window Maximum |
+| 47 | Maximum Rectangle Area with All 1's | Hard | [47_Maximum_Rectangle_Area_With_All_1s.java](./47_Maximum_Rectangle_Area_With_All_1s.java) | Row Histogram Accumulation & Monotonic Stack DP |
+| 48 | Count Square Submatrices with All Ones | Medium | [48_Count_Square_Submatrices_With_All_1s.java](./48_Count_Square_Submatrices_With_All_1s.java) | Bottom-Right Corner 2D Square Extension DP |
