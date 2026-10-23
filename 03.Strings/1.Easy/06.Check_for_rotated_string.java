@@ -1,0 +1,33 @@
+/*
+QUESTION: Rotate String
+Given two strings s and goal, return true if and only if s can become goal after some number of shifts on s.
+
+A shift on s consists of moving the leftmost character of s to the rightmost position.
+
+Example:
+Input: s = "abcde", goal = "cdeab"
+Output: true
+
+Input: s = "abcde", goal = "abced"
+Output: false
+
+Approach:
+- First, we check if the lengths of the two strings `s` and `goal` are equal. If not, they cannot be rotated versions of each other, so we return `false`.
+- Then, we concatenate `s` with itself to create a new string `concat`.
+- We check if `goal` is a substring of `concat`. If it is, that means `s` can be transformed into `goal` by performing some number of left shifts, so we return `true`. Otherwise, we return `false`.
+
+CODE:-
+*/
+
+import java.util.*;
+import java.io.*;
+
+// CODE:-
+class Solution {
+    public boolean rotateString(String s, String goal) {
+        return s.length() == goal.length() && (s + s).contains(goal);
+    }
+}
+
+// TIME COMPLEXITY = O(N)
+// SPACE COMPLEXITY = O(1)
