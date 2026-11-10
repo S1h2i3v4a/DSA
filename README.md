@@ -102,49 +102,49 @@ Complete, clean, self-contained **Java** solutions for all 369 problems in the *
 
 ### 1D Arrays
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Find_x_in_sorted_array | [Java](02.Binary%20Search/1D%20Arrays/01.Find_x_in_sorted_array.java) |
-| 02 | Implement_lower_bound | [Java](02.Binary%20Search/1D%20Arrays/02.Implement_lower_bound.java) |
-| 03 | Implement_lower_upper_bound | [Java](02.Binary%20Search/1D%20Arrays/03.Implement_lower_upper_bound.java) |
-| 04 | Search_insert_position | [Java](02.Binary%20Search/1D%20Arrays/04.Search_insert_position.java) |
-| 05 | Check_If_array_is_sorted | [Java](02.Binary%20Search/1D%20Arrays/05.Check_If_array_is_sorted.java) |
-| 06 | First_and_last_position | [Java](02.Binary%20Search/1D%20Arrays/06.First_and_last_position.java) |
-| 07 | Number_of_occurences | [Java](02.Binary%20Search/1D%20Arrays/07.Number_of_occurences.java) |
-| 08 | Find_peak_element | [Java](02.Binary%20Search/1D%20Arrays/08.Find_peak_element.java) |
-| 09 | Search_in_rotated_sorted_array | [Java](02.Binary%20Search/1D%20Arrays/09.Search_in_rotated_sorted_array.java) |
-| 10 | Search_in_rotated_sorted_array_with_duplicates | [Java](02.Binary%20Search/1D%20Arrays/10.Search_in_rotated_sorted_array_with_duplicates.java) |
-| 11 | Find_the_minimum_element_in_sorted_rotated_array | [Java](02.Binary%20Search/1D%20Arrays/11.Find_the_minimum_element_in_sorted_rotated_array.java) |
-| 12 | Find_single_element_in_sorted_array | [Java](02.Binary%20Search/1D%20Arrays/12.Find_single_element_in_sorted_array.java) |
-| 13 | Find_how_many_times_array_is_rotated | [Java](02.Binary%20Search/1D%20Arrays/13.Find_how_many_times_array_is_rotated.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Find_x_in_sorted_array | [Brute Force](02.Binary%20Search/1D%20Arrays/01.Find_x_in_sorted_array/Brute_Force/Solution.java) • [Optimal](02.Binary%20Search/1D%20Arrays/01.Find_x_in_sorted_array/Optimal/Solution.java) |
+| 02 | Implement_lower_bound | [Brute Force](02.Binary%20Search/1D%20Arrays/02.Implement_lower_bound/Brute_Force/Solution.java) • [Optimal](02.Binary%20Search/1D%20Arrays/02.Implement_lower_bound/Optimal/Solution.java) |
+| 03 | Implement_lower_upper_bound | [Brute Force](02.Binary%20Search/1D%20Arrays/03.Implement_lower_upper_bound/Brute_Force/Solution.java) • [Optimal](02.Binary%20Search/1D%20Arrays/03.Implement_lower_upper_bound/Optimal/Solution.java) |
+| 04 | Search_insert_position | [Brute Force](02.Binary%20Search/1D%20Arrays/04.Search_insert_position/Brute_Force/Solution.java) • [Optimal](02.Binary%20Search/1D%20Arrays/04.Search_insert_position/Optimal/Solution.java) |
+| 05 | Check_If_array_is_sorted | [Brute Force](02.Binary%20Search/1D%20Arrays/05.Check_If_array_is_sorted/Brute_Force/Solution.java) • [Optimal](02.Binary%20Search/1D%20Arrays/05.Check_If_array_is_sorted/Optimal/Solution.java) |
+| 06 | First_and_last_position | [Brute Force](02.Binary%20Search/1D%20Arrays/06.First_and_last_position/Brute_Force/Solution.java) • [Optimal](02.Binary%20Search/1D%20Arrays/06.First_and_last_position/Optimal/Solution.java) |
+| 07 | Number_of_occurences | [Brute Force](02.Binary%20Search/1D%20Arrays/07.Number_of_occurences/Brute_Force/Solution.java) • [Optimal](02.Binary%20Search/1D%20Arrays/07.Number_of_occurences/Optimal/Solution.java) |
+| 08 | Find_peak_element | [Brute Force](02.Binary%20Search/1D%20Arrays/08.Find_peak_element/Brute_Force/Solution.java) • [Optimal](02.Binary%20Search/1D%20Arrays/08.Find_peak_element/Optimal/Solution.java) |
+| 09 | Search_in_rotated_sorted_array | [Brute Force](02.Binary%20Search/1D%20Arrays/09.Search_in_rotated_sorted_array/Brute_Force/Solution.java) • [Optimal](02.Binary%20Search/1D%20Arrays/09.Search_in_rotated_sorted_array/Optimal/Solution.java) |
+| 10 | Search_in_rotated_sorted_array_with_duplicates | [Brute Force](02.Binary%20Search/1D%20Arrays/10.Search_in_rotated_sorted_array_with_duplicates/Brute_Force/Solution.java) • [Optimal](02.Binary%20Search/1D%20Arrays/10.Search_in_rotated_sorted_array_with_duplicates/Optimal/Solution.java) |
+| 11 | Find_the_minimum_element_in_sorted_rotated_array | [Brute Force](02.Binary%20Search/1D%20Arrays/11.Find_the_minimum_element_in_sorted_rotated_array/Brute_Force/Solution.java) • [Optimal](02.Binary%20Search/1D%20Arrays/11.Find_the_minimum_element_in_sorted_rotated_array/Optimal/Solution.java) |
+| 12 | Find_single_element_in_sorted_array | [Brute Force](02.Binary%20Search/1D%20Arrays/12.Find_single_element_in_sorted_array/Brute_Force/Solution.java) • [Optimal](02.Binary%20Search/1D%20Arrays/12.Find_single_element_in_sorted_array/Optimal/Solution.java) |
+| 13 | Find_how_many_times_array_is_rotated | [Brute Force](02.Binary%20Search/1D%20Arrays/13.Find_how_many_times_array_is_rotated/Brute_Force/Solution.java) • [Optimal](02.Binary%20Search/1D%20Arrays/13.Find_how_many_times_array_is_rotated/Optimal/Solution.java) |
 
 ### 2D Arrays
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Row_with_maximum_number_of_1's | [Java](02.Binary%20Search/2D%20Arrays/1.Row_with_maximum_number_of_1%27s.java) |
-| 02 | Search_in_sorted_matrix | [Java](02.Binary%20Search/2D%20Arrays/2.Search_in_sorted_matrix.java) |
-| 03 | Search_in_rowwise_sorted_matrix | [Java](02.Binary%20Search/2D%20Arrays/3.Search_in_rowwise_sorted_matrix.java) |
-| 04 | Peak_element_in_matrix | [Java](02.Binary%20Search/2D%20Arrays/4.Peak_element_in_matrix.java) |
-| 05 | Matrix_median | [Java](02.Binary%20Search/2D%20Arrays/5.Matrix_median.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Row_with_maximum_number_of_1\'s | [Brute Force](02.Binary%20Search/2D%20Arrays/1.Row_with_maximum_number_of_1%27s/Brute_Force/Solution.java) • [Better](02.Binary%20Search/2D%20Arrays/1.Row_with_maximum_number_of_1%27s/Better/Solution.java) • [Optimal](02.Binary%20Search/2D%20Arrays/1.Row_with_maximum_number_of_1%27s/Optimal/Solution.java) |
+| 02 | Search_in_sorted_matrix | [Brute Force](02.Binary%20Search/2D%20Arrays/2.Search_in_sorted_matrix/Brute_Force/Solution.java) • [Better](02.Binary%20Search/2D%20Arrays/2.Search_in_sorted_matrix/Better/Solution.java) • [Optimal](02.Binary%20Search/2D%20Arrays/2.Search_in_sorted_matrix/Optimal/Solution.java) |
+| 03 | Search_in_rowwise_sorted_matrix | [Brute Force](02.Binary%20Search/2D%20Arrays/3.Search_in_rowwise_sorted_matrix/Brute_Force/Solution.java) • [Better](02.Binary%20Search/2D%20Arrays/3.Search_in_rowwise_sorted_matrix/Better/Solution.java) • [Optimal](02.Binary%20Search/2D%20Arrays/3.Search_in_rowwise_sorted_matrix/Optimal/Solution.java) |
+| 04 | Peak_element_in_matrix | [Brute Force](02.Binary%20Search/2D%20Arrays/4.Peak_element_in_matrix/Brute_Force/Solution.java) • [Optimal](02.Binary%20Search/2D%20Arrays/4.Peak_element_in_matrix/Optimal/Solution.java) |
+| 05 | Matrix_median | [Brute Force](02.Binary%20Search/2D%20Arrays/5.Matrix_median/Brute_Force/Solution.java) • [Optimal](02.Binary%20Search/2D%20Arrays/5.Matrix_median/Optimal/Solution.java) |
 
 ### In Search Space
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Square_root_of_number | [Java](02.Binary%20Search/In%20Search%20Space/01.Square_root_of_number.java) |
-| 02 | Nth_root_of_integer | [Java](02.Binary%20Search/In%20Search%20Space/02.Nth_root_of_integer.java) |
-| 03 | Koko_eating_banana | [Java](02.Binary%20Search/In%20Search%20Space/03.Koko_eating_banana.java) |
-| 04 | Minimum_days_to_make_boquets | [Java](02.Binary%20Search/In%20Search%20Space/04.Minimum_days_to_make_boquets.java) |
-| 05 | Find_smallest_integer | [Java](02.Binary%20Search/In%20Search%20Space/05.Find_smallest_integer.java) |
-| 06 | Capacity_to_ship_packages | [Java](02.Binary%20Search/In%20Search%20Space/06.Capacity_to_ship_packages.java) |
-| 07 | Aggresive_cows | [Java](02.Binary%20Search/In%20Search%20Space/08.Aggresive_cows.java) |
-| 08 | Book_allocation | [Java](02.Binary%20Search/In%20Search%20Space/09.Book_allocation.java) |
-| 09 | Split_array_largest | [Java](02.Binary%20Search/In%20Search%20Space/10.Split_array_largest.java) |
-| 10 | Kth_missing_number | [Java](02.Binary%20Search/In%20Search%20Space/11.Kth_missing_number.java) |
-| 11 | Gas_station | [Java](02.Binary%20Search/In%20Search%20Space/12.Gas_station.java) |
-| 12 | Median_of_two_sorted_arrays | [Java](02.Binary%20Search/In%20Search%20Space/13.Median_of_two_sorted_arrays.java) |
-| 13 | Kth_element_of_two_sorted_arrays | [Java](02.Binary%20Search/In%20Search%20Space/14.Kth_element_of_two_sorted_arrays.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Square_root_of_number | [Brute Force](02.Binary%20Search/In%20Search%20Space/01.Square_root_of_number/Brute_Force/Solution.java) • [Optimal](02.Binary%20Search/In%20Search%20Space/01.Square_root_of_number/Optimal/Solution.java) |
+| 02 | Nth_root_of_integer | [Brute Force](02.Binary%20Search/In%20Search%20Space/02.Nth_root_of_integer/Brute_Force/Solution.java) • [Optimal](02.Binary%20Search/In%20Search%20Space/02.Nth_root_of_integer/Optimal/Solution.java) |
+| 03 | Koko_eating_banana | [Brute Force](02.Binary%20Search/In%20Search%20Space/03.Koko_eating_banana/Brute_Force/Solution.java) • [Optimal](02.Binary%20Search/In%20Search%20Space/03.Koko_eating_banana/Optimal/Solution.java) |
+| 04 | Minimum_days_to_make_boquets | [Brute Force](02.Binary%20Search/In%20Search%20Space/04.Minimum_days_to_make_boquets/Brute_Force/Solution.java) • [Optimal](02.Binary%20Search/In%20Search%20Space/04.Minimum_days_to_make_boquets/Optimal/Solution.java) |
+| 05 | Find_smallest_integer | [Brute Force](02.Binary%20Search/In%20Search%20Space/05.Find_smallest_integer/Brute_Force/Solution.java) • [Optimal](02.Binary%20Search/In%20Search%20Space/05.Find_smallest_integer/Optimal/Solution.java) |
+| 06 | Capacity_to_ship_packages | [Brute Force](02.Binary%20Search/In%20Search%20Space/06.Capacity_to_ship_packages/Brute_Force/Solution.java) • [Optimal](02.Binary%20Search/In%20Search%20Space/06.Capacity_to_ship_packages/Optimal/Solution.java) |
+| 07 | Aggresive_cows | [Brute Force](02.Binary%20Search/In%20Search%20Space/08.Aggresive_cows/Brute_Force/Solution.java) • [Optimal](02.Binary%20Search/In%20Search%20Space/08.Aggresive_cows/Optimal/Solution.java) |
+| 08 | Book_allocation | [Brute Force](02.Binary%20Search/In%20Search%20Space/09.Book_allocation/Brute_Force/Solution.java) • [Optimal](02.Binary%20Search/In%20Search%20Space/09.Book_allocation/Optimal/Solution.java) |
+| 09 | Split_array_largest | [Brute Force](02.Binary%20Search/In%20Search%20Space/10.Split_array_largest/Brute_Force/Solution.java) • [Optimal](02.Binary%20Search/In%20Search%20Space/10.Split_array_largest/Optimal/Solution.java) |
+| 10 | Kth_missing_number | [Brute Force](02.Binary%20Search/In%20Search%20Space/11.Kth_missing_number/Brute_Force/Solution.java) • [Optimal](02.Binary%20Search/In%20Search%20Space/11.Kth_missing_number/Optimal/Solution.java) |
+| 11 | Gas_station | [Brute Force](02.Binary%20Search/In%20Search%20Space/12.Gas_station/Brute_Force/Solution.java) • [Better](02.Binary%20Search/In%20Search%20Space/12.Gas_station/Better/Solution.java) • [Optimal](02.Binary%20Search/In%20Search%20Space/12.Gas_station/Optimal/Solution.java) |
+| 12 | Median_of_two_sorted_arrays | [Brute Force](02.Binary%20Search/In%20Search%20Space/13.Median_of_two_sorted_arrays/Brute_Force/Solution.java) • [Better](02.Binary%20Search/In%20Search%20Space/13.Median_of_two_sorted_arrays/Better/Solution.java) • [Optimal](02.Binary%20Search/In%20Search%20Space/13.Median_of_two_sorted_arrays/Optimal/Solution.java) |
+| 13 | Kth_element_of_two_sorted_arrays | [Brute Force](02.Binary%20Search/In%20Search%20Space/14.Kth_element_of_two_sorted_arrays/Brute_Force/Solution.java) • [Better](02.Binary%20Search/In%20Search%20Space/14.Kth_element_of_two_sorted_arrays/Better/Solution.java) • [Optimal](02.Binary%20Search/In%20Search%20Space/14.Kth_element_of_two_sorted_arrays/Optimal/Solution.java) |
 
 ---
 
