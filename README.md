@@ -708,19 +708,19 @@ Complete, clean, self-contained **Java** solutions for all 369 problems in the *
 
 ### 1. Theory
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Implement Trie (Prefix Tree) | [Java](15.%20Tries/1.%20Theory/01.%20Implement%20Trie%20%28Prefix%20Tree%29.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Implement Trie (Prefix Tree) | [Brute Force](15.%20Tries/1.%20Theory/01.%20Implement%20Trie%20%28Prefix%20Tree%29/Brute_Force/Solution.java) • [Optimal](15.%20Tries/1.%20Theory/01.%20Implement%20Trie%20%28Prefix%20Tree%29/Optimal/Solution.java) |
 
 ### 2. Problems
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Implement Trie 2 | [Java](15.%20Tries/2.%20Problems/01.%20Implement%20Trie%202.java) |
-| 02 | Complete String | [Java](15.%20Tries/2.%20Problems/02.%20Complete%20String.java) |
-| 03 | Count distinct subsitrings | [Java](15.%20Tries/2.%20Problems/03.%20Count%20distinct%20subsitrings.java) |
-| 04 | Bitwise basic operations | [Java](15.%20Tries/2.%20Problems/04.%20Bitwise%20basic%20operations.java) |
-| 05 | Maximum XOR of two numbers | [Java](15.%20Tries/2.%20Problems/05.%20Maximum%20XOR%20of%20two%20numbers.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Implement Trie 2 | [Brute Force](15.%20Tries/2.%20Problems/01.%20Implement%20Trie%202/Brute_Force/Solution.java) • [Optimal](15.%20Tries/2.%20Problems/01.%20Implement%20Trie%202/Optimal/Solution.java) |
+| 02 | Complete String | [Brute Force](15.%20Tries/2.%20Problems/02.%20Complete%20String/Brute_Force/Solution.java) • [Optimal](15.%20Tries/2.%20Problems/02.%20Complete%20String/Optimal/Solution.java) |
+| 03 | Count distinct subsitrings | [Brute Force](15.%20Tries/2.%20Problems/03.%20Count%20distinct%20subsitrings/Brute_Force/Solution.java) • [Optimal](15.%20Tries/2.%20Problems/03.%20Count%20distinct%20subsitrings/Optimal/Solution.java) |
+| 04 | Bitwise basic operations | [Optimal](15.%20Tries/2.%20Problems/04.%20Bitwise%20basic%20operations/Optimal/Solution.java) |
+| 05 | Maximum XOR of two numbers | [Brute Force](15.%20Tries/2.%20Problems/05.%20Maximum%20XOR%20of%20two%20numbers/Brute_Force/Solution.java) • [Optimal](15.%20Tries/2.%20Problems/05.%20Maximum%20XOR%20of%20two%20numbers/Optimal/Solution.java) |
 
 ---
 
