@@ -180,57 +180,57 @@ Complete, clean, self-contained **Java** solutions for all 369 problems in the *
 
 ### 1. Single Linked List
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Intro_to_linked_list | [Java](04.Linked%20List/1.%20Single%20Linked%20List/01.Intro_to_linked_list.java) |
-| 02 | Inserting_node_to_linked_list | [Java](04.Linked%20List/1.%20Single%20Linked%20List/02.Inserting_node_to_linked_list.java) |
-| 03 | Deleting_node_in_linked_list | [Java](04.Linked%20List/1.%20Single%20Linked%20List/03.Deleting_node_in_linked_list.java) |
-| 04 | Count_the_number_of_nodes_linked_list | [Java](04.Linked%20List/1.%20Single%20Linked%20List/04.Count_the_number_of_nodes_linked_list.java) |
-| 05 | Search_element_in_linked_list | [Java](04.Linked%20List/1.%20Single%20Linked%20List/05.Search_element_in_linked_list.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Intro_to_linked_list | [Brute Force](04.Linked%20List/1.%20Single%20Linked%20List/01.Intro_to_linked_list/Brute_Force/Solution.java) • [Optimal](04.Linked%20List/1.%20Single%20Linked%20List/01.Intro_to_linked_list/Optimal/Solution.java) |
+| 02 | Inserting_node_to_linked_list | [Brute Force](04.Linked%20List/1.%20Single%20Linked%20List/02.Inserting_node_to_linked_list/Brute_Force/Solution.java) • [Optimal](04.Linked%20List/1.%20Single%20Linked%20List/02.Inserting_node_to_linked_list/Optimal/Solution.java) |
+| 03 | Deleting_node_in_linked_list | [Optimal](04.Linked%20List/1.%20Single%20Linked%20List/03.Deleting_node_in_linked_list/Optimal/Solution.java) |
+| 04 | Count_the_number_of_nodes_linked_list | [Brute Force](04.Linked%20List/1.%20Single%20Linked%20List/04.Count_the_number_of_nodes_linked_list/Brute_Force/Solution.java) • [Optimal](04.Linked%20List/1.%20Single%20Linked%20List/04.Count_the_number_of_nodes_linked_list/Optimal/Solution.java) |
+| 05 | Search_element_in_linked_list | [Brute Force](04.Linked%20List/1.%20Single%20Linked%20List/05.Search_element_in_linked_list/Brute_Force/Solution.java) • [Optimal](04.Linked%20List/1.%20Single%20Linked%20List/05.Search_element_in_linked_list/Optimal/Solution.java) |
 
 ### 2.Doubly Linked List
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Introduction_to_Double_LL | [Java](04.Linked%20List/2.Doubly%20Linked%20List/01.Introduction_to_Double_LL.java) |
-| 02 | Insert_node_in_DLL | [Java](04.Linked%20List/2.Doubly%20Linked%20List/02.Insert_node_in_DLL.java) |
-| 03 | Delete_node_in_DLL | [Java](04.Linked%20List/2.Doubly%20Linked%20List/03.Delete_node_in_DLL.java) |
-| 04 | Reverse_DLL | [Java](04.Linked%20List/2.Doubly%20Linked%20List/04.Reverse_DLL.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Introduction_to_Double_LL | [Brute Force](04.Linked%20List/2.Doubly%20Linked%20List/01.Introduction_to_Double_LL/Brute_Force/Solution.java) • [Optimal](04.Linked%20List/2.Doubly%20Linked%20List/01.Introduction_to_Double_LL/Optimal/Solution.java) |
+| 02 | Insert_node_in_DLL | [Optimal](04.Linked%20List/2.Doubly%20Linked%20List/02.Insert_node_in_DLL/Optimal/Solution.java) |
+| 03 | Delete_node_in_DLL | [Optimal](04.Linked%20List/2.Doubly%20Linked%20List/03.Delete_node_in_DLL/Optimal/Solution.java) |
+| 04 | Reverse_DLL | [Brute Force](04.Linked%20List/2.Doubly%20Linked%20List/04.Reverse_DLL/Brute_Force/Solution.java) • [Optimal](04.Linked%20List/2.Doubly%20Linked%20List/04.Reverse_DLL/Optimal/Solution.java) |
 
 ### 3.Medium Problems of LL
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Find_mid_of_LL | [Java](04.Linked%20List/3.Medium%20Problems%20of%20LL/01.Find_mid_of_LL.java) |
-| 02 | Reverse_LL | [Java](04.Linked%20List/3.Medium%20Problems%20of%20LL/02.Reverse_LL.java) |
-| 03 | Detect_loop_in_LL | [Java](04.Linked%20List/3.Medium%20Problems%20of%20LL/03.Detect_loop_in_LL.java) |
-| 04 | Start_of_cycle_in_LL | [Java](04.Linked%20List/3.Medium%20Problems%20of%20LL/04.Start_of_cycle_in_LL.java) |
-| 05 | Count_nodes_in_loop | [Java](04.Linked%20List/3.Medium%20Problems%20of%20LL/05.Count_nodes_in_loop.java) |
-| 06 | Check_for_palindrome_LL | [Java](04.Linked%20List/3.Medium%20Problems%20of%20LL/06.Check_for_palindrome_LL.java) |
-| 07 | Odd_even_LL | [Java](04.Linked%20List/3.Medium%20Problems%20of%20LL/07.Odd_even_LL.java) |
-| 08 | Delete_nth_node_from_back | [Java](04.Linked%20List/3.Medium%20Problems%20of%20LL/08.Delete_nth_node_from_back.java) |
-| 09 | Delete_mid_of_LL | [Java](04.Linked%20List/3.Medium%20Problems%20of%20LL/09.Delete_mid_of_LL.java) |
-| 10 | Sort_LL | [Java](04.Linked%20List/3.Medium%20Problems%20of%20LL/10.Sort_LL.java) |
-| 11 | Sort_0_1_2_in_LL | [Java](04.Linked%20List/3.Medium%20Problems%20of%20LL/11.Sort_0_1_2_in_LL.java) |
-| 12 | Add_1_to_LL | [Java](04.Linked%20List/3.Medium%20Problems%20of%20LL/12.Add_1_to_LL.java) |
-| 13 | Add_two_LL | [Java](04.Linked%20List/3.Medium%20Problems%20of%20LL/13.Add_two_LL.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Find_mid_of_LL | [Brute Force](04.Linked%20List/3.Medium%20Problems%20of%20LL/01.Find_mid_of_LL/Brute_Force/Solution.java) • [Optimal](04.Linked%20List/3.Medium%20Problems%20of%20LL/01.Find_mid_of_LL/Optimal/Solution.java) |
+| 02 | Reverse_LL | [Brute Force](04.Linked%20List/3.Medium%20Problems%20of%20LL/02.Reverse_LL/Brute_Force/Solution.java) • [Optimal](04.Linked%20List/3.Medium%20Problems%20of%20LL/02.Reverse_LL/Optimal/Solution.java) |
+| 03 | Detect_loop_in_LL | [Brute Force](04.Linked%20List/3.Medium%20Problems%20of%20LL/03.Detect_loop_in_LL/Brute_Force/Solution.java) • [Optimal](04.Linked%20List/3.Medium%20Problems%20of%20LL/03.Detect_loop_in_LL/Optimal/Solution.java) |
+| 04 | Start_of_cycle_in_LL | [Brute Force](04.Linked%20List/3.Medium%20Problems%20of%20LL/04.Start_of_cycle_in_LL/Brute_Force/Solution.java) • [Optimal](04.Linked%20List/3.Medium%20Problems%20of%20LL/04.Start_of_cycle_in_LL/Optimal/Solution.java) |
+| 05 | Count_nodes_in_loop | [Brute Force](04.Linked%20List/3.Medium%20Problems%20of%20LL/05.Count_nodes_in_loop/Brute_Force/Solution.java) • [Optimal](04.Linked%20List/3.Medium%20Problems%20of%20LL/05.Count_nodes_in_loop/Optimal/Solution.java) |
+| 06 | Check_for_palindrome_LL | [Brute Force](04.Linked%20List/3.Medium%20Problems%20of%20LL/06.Check_for_palindrome_LL/Brute_Force/Solution.java) • [Optimal](04.Linked%20List/3.Medium%20Problems%20of%20LL/06.Check_for_palindrome_LL/Optimal/Solution.java) |
+| 07 | Odd_even_LL | [Brute Force](04.Linked%20List/3.Medium%20Problems%20of%20LL/07.Odd_even_LL/Brute_Force/Solution.java) • [Optimal](04.Linked%20List/3.Medium%20Problems%20of%20LL/07.Odd_even_LL/Optimal/Solution.java) |
+| 08 | Delete_nth_node_from_back | [Brute Force](04.Linked%20List/3.Medium%20Problems%20of%20LL/08.Delete_nth_node_from_back/Brute_Force/Solution.java) • [Optimal](04.Linked%20List/3.Medium%20Problems%20of%20LL/08.Delete_nth_node_from_back/Optimal/Solution.java) |
+| 09 | Delete_mid_of_LL | [Brute Force](04.Linked%20List/3.Medium%20Problems%20of%20LL/09.Delete_mid_of_LL/Brute_Force/Solution.java) • [Optimal](04.Linked%20List/3.Medium%20Problems%20of%20LL/09.Delete_mid_of_LL/Optimal/Solution.java) |
+| 10 | Sort_LL | [Brute Force](04.Linked%20List/3.Medium%20Problems%20of%20LL/10.Sort_LL/Brute_Force/Solution.java) • [Optimal](04.Linked%20List/3.Medium%20Problems%20of%20LL/10.Sort_LL/Optimal/Solution.java) |
+| 11 | Sort_0_1_2_in_LL | [Brute Force](04.Linked%20List/3.Medium%20Problems%20of%20LL/11.Sort_0_1_2_in_LL/Brute_Force/Solution.java) • [Optimal](04.Linked%20List/3.Medium%20Problems%20of%20LL/11.Sort_0_1_2_in_LL/Optimal/Solution.java) |
+| 12 | Add_1_to_LL | [Brute Force](04.Linked%20List/3.Medium%20Problems%20of%20LL/12.Add_1_to_LL/Brute_Force/Solution.java) • [Optimal](04.Linked%20List/3.Medium%20Problems%20of%20LL/12.Add_1_to_LL/Optimal/Solution.java) |
+| 13 | Add_two_LL | [Optimal](04.Linked%20List/3.Medium%20Problems%20of%20LL/13.Add_two_LL/Optimal/Solution.java) |
 
 ### 4.Medium Problems of DLL
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Delete_nodes_from_dll | [Java](04.Linked%20List/4.Medium%20Problems%20of%20DLL/01.Delete_nodes_from_dll.java) |
-| 02 | Pair_sum_in_dll | [Java](04.Linked%20List/4.Medium%20Problems%20of%20DLL/02.Pair_sum_in_dll.java) |
-| 03 | Remove_duplicates_from_dll | [Java](04.Linked%20List/4.Medium%20Problems%20of%20DLL/03.Remove_duplicates_from_dll.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Delete_nodes_from_dll | [Optimal](04.Linked%20List/4.Medium%20Problems%20of%20DLL/01.Delete_nodes_from_dll/Optimal/Solution.java) |
+| 02 | Pair_sum_in_dll | [Brute Force](04.Linked%20List/4.Medium%20Problems%20of%20DLL/02.Pair_sum_in_dll/Brute_Force/Solution.java) • [Optimal](04.Linked%20List/4.Medium%20Problems%20of%20DLL/02.Pair_sum_in_dll/Optimal/Solution.java) |
+| 03 | Remove_duplicates_from_dll | [Brute Force](04.Linked%20List/4.Medium%20Problems%20of%20DLL/03.Remove_duplicates_from_dll/Brute_Force/Solution.java) • [Optimal](04.Linked%20List/4.Medium%20Problems%20of%20DLL/03.Remove_duplicates_from_dll/Optimal/Solution.java) |
 
 ### 5.Hard Promblems of LL
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Reverse_k_node_in_groups | [Java](04.Linked%20List/5.Hard%20Promblems%20of%20LL/01.Reverse_k_node_in_groups.java) |
-| 02 | Rotate_LL_k_times | [Java](04.Linked%20List/5.Hard%20Promblems%20of%20LL/02.Rotate_LL_k_times.java) |
-| 03 | Copy_LL_with_random_pointers | [Java](04.Linked%20List/5.Hard%20Promblems%20of%20LL/03.Copy_LL_with_random_pointers.java) |
-| 04 | Flatten_LL | [Java](04.Linked%20List/5.Hard%20Promblems%20of%20LL/04.Flatten_LL.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Reverse_k_node_in_groups | [Brute Force](04.Linked%20List/5.Hard%20Promblems%20of%20LL/01.Reverse_k_node_in_groups/Brute_Force/Solution.java) • [Optimal](04.Linked%20List/5.Hard%20Promblems%20of%20LL/01.Reverse_k_node_in_groups/Optimal/Solution.java) |
+| 02 | Rotate_LL_k_times | [Brute Force](04.Linked%20List/5.Hard%20Promblems%20of%20LL/02.Rotate_LL_k_times/Brute_Force/Solution.java) • [Optimal](04.Linked%20List/5.Hard%20Promblems%20of%20LL/02.Rotate_LL_k_times/Optimal/Solution.java) |
+| 03 | Copy_LL_with_random_pointers | [Brute Force](04.Linked%20List/5.Hard%20Promblems%20of%20LL/03.Copy_LL_with_random_pointers/Brute_Force/Solution.java) • [Optimal](04.Linked%20List/5.Hard%20Promblems%20of%20LL/03.Copy_LL_with_random_pointers/Optimal/Solution.java) |
+| 04 | Flatten_LL | [Brute Force](04.Linked%20List/5.Hard%20Promblems%20of%20LL/04.Flatten_LL/Brute_Force/Solution.java) • [Optimal](04.Linked%20List/5.Hard%20Promblems%20of%20LL/04.Flatten_LL/Optimal/Solution.java) |
 
 ---
 
