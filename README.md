@@ -313,50 +313,50 @@ Complete, clean, self-contained **Java** solutions for all 369 problems in the *
 
 ### 1. Learning
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Implement stack using array | [Java](07.Stack%20and%20Queues/1.%20Learning/01.%20Implement%20stack%20using%20array.java) |
-| 02 | Implement queue using array | [Java](07.Stack%20and%20Queues/1.%20Learning/02.%20Implement%20queue%20using%20array.java) |
-| 03 | Implement stack using queue | [Java](07.Stack%20and%20Queues/1.%20Learning/03.%20Implement%20stack%20using%20queue.java) |
-| 04 | Implement queue using stacks | [Java](07.Stack%20and%20Queues/1.%20Learning/04.%20Implement%20queue%20using%20stacks.java) |
-| 05 | Implement stack using linked list | [Java](07.Stack%20and%20Queues/1.%20Learning/05.%20Implement%20stack%20using%20linked%20list.java) |
-| 06 | Valid Parenthesis | [Java](07.Stack%20and%20Queues/1.%20Learning/06.%20Valid%20Parenthesis.java) |
-| 07 | Implement min stack | [Java](07.Stack%20and%20Queues/1.%20Learning/07.%20Implement%20min%20stack.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Implement stack using array | [Optimal](07.Stack%20and%20Queues/1.%20Learning/01.%20Implement%20stack%20using%20array/Optimal/Solution.java) |
+| 02 | Implement queue using array | [Optimal](07.Stack%20and%20Queues/1.%20Learning/02.%20Implement%20queue%20using%20array/Optimal/Solution.java) |
+| 03 | Implement stack using queue | [Brute Force](07.Stack%20and%20Queues/1.%20Learning/03.%20Implement%20stack%20using%20queue/Brute_Force/Solution.java) • [Optimal](07.Stack%20and%20Queues/1.%20Learning/03.%20Implement%20stack%20using%20queue/Optimal/Solution.java) |
+| 04 | Implement queue using stacks | [Brute Force](07.Stack%20and%20Queues/1.%20Learning/04.%20Implement%20queue%20using%20stacks/Brute_Force/Solution.java) • [Optimal](07.Stack%20and%20Queues/1.%20Learning/04.%20Implement%20queue%20using%20stacks/Optimal/Solution.java) |
+| 05 | Implement stack using linked list | [Optimal](07.Stack%20and%20Queues/1.%20Learning/05.%20Implement%20stack%20using%20linked%20list/Optimal/Solution.java) |
+| 06 | Valid Parenthesis | [Brute Force](07.Stack%20and%20Queues/1.%20Learning/06.%20Valid%20Parenthesis/Brute_Force/Solution.java) • [Optimal](07.Stack%20and%20Queues/1.%20Learning/06.%20Valid%20Parenthesis/Optimal/Solution.java) |
+| 07 | Implement min stack | [Brute Force](07.Stack%20and%20Queues/1.%20Learning/07.%20Implement%20min%20stack/Brute_Force/Solution.java) • [Optimal](07.Stack%20and%20Queues/1.%20Learning/07.%20Implement%20min%20stack/Optimal/Solution.java) |
 
 ### 2. Infix, Postfix, and Prefix
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Infix to postfix | [Java](07.Stack%20and%20Queues/2.%20Infix%2C%20Postfix%2C%20and%20Prefix/01.%20Infix%20to%20postfix.java) |
-| 02 | Infix to prefix | [Java](07.Stack%20and%20Queues/2.%20Infix%2C%20Postfix%2C%20and%20Prefix/02.%20Infix%20to%20prefix.java) |
-| 03 | Prefix to infix | [Java](07.Stack%20and%20Queues/2.%20Infix%2C%20Postfix%2C%20and%20Prefix/03.%20Prefix%20to%20infix.java) |
-| 04 | Prefix to postfix | [Java](07.Stack%20and%20Queues/2.%20Infix%2C%20Postfix%2C%20and%20Prefix/04.%20Prefix%20to%20postfix.java) |
-| 05 | Postfix to infix | [Java](07.Stack%20and%20Queues/2.%20Infix%2C%20Postfix%2C%20and%20Prefix/05.%20Postfix%20to%20infix.java) |
-| 06 | Postfix to prefix | [Java](07.Stack%20and%20Queues/2.%20Infix%2C%20Postfix%2C%20and%20Prefix/06.%20Postfix%20to%20prefix.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Infix to postfix | [Optimal](07.Stack%20and%20Queues/2.%20Infix,%20Postfix,%20and%20Prefix/01.%20Infix%20to%20postfix/Optimal/Solution.java) |
+| 02 | Infix to prefix | [Optimal](07.Stack%20and%20Queues/2.%20Infix,%20Postfix,%20and%20Prefix/02.%20Infix%20to%20prefix/Optimal/Solution.java) |
+| 03 | Prefix to infix | [Optimal](07.Stack%20and%20Queues/2.%20Infix,%20Postfix,%20and%20Prefix/03.%20Prefix%20to%20infix/Optimal/Solution.java) |
+| 04 | Prefix to postfix | [Optimal](07.Stack%20and%20Queues/2.%20Infix,%20Postfix,%20and%20Prefix/04.%20Prefix%20to%20postfix/Optimal/Solution.java) |
+| 05 | Postfix to infix | [Optimal](07.Stack%20and%20Queues/2.%20Infix,%20Postfix,%20and%20Prefix/05.%20Postfix%20to%20infix/Optimal/Solution.java) |
+| 06 | Postfix to prefix | [Optimal](07.Stack%20and%20Queues/2.%20Infix,%20Postfix,%20and%20Prefix/06.%20Postfix%20to%20prefix/Optimal/Solution.java) |
 
 ### 3. Monotonic Stack and Queue
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Next Greater Element | [Java](07.Stack%20and%20Queues/3.%20Monotonic%20Stack%20and%20Queue/01.%20Next%20Greater%20Element.java) |
-| 02 | Next Greater Element 2 | [Java](07.Stack%20and%20Queues/3.%20Monotonic%20Stack%20and%20Queue/02.%20Next%20Greater%20Element%202.java) |
-| 03 | Previous Smaller Element | [Java](07.Stack%20and%20Queues/3.%20Monotonic%20Stack%20and%20Queue/03.%20Previous%20Smaller%20Element.java) |
-| 04 | Trapping Rainwater | [Java](07.Stack%20and%20Queues/3.%20Monotonic%20Stack%20and%20Queue/04.%20Trapping%20Rainwater.java) |
-| 05 | Sum of subarray minimum | [Java](07.Stack%20and%20Queues/3.%20Monotonic%20Stack%20and%20Queue/05.%20Sum%20of%20subarray%20minimum.java) |
-| 06 | Sum of range of all subarray | [Java](07.Stack%20and%20Queues/3.%20Monotonic%20Stack%20and%20Queue/06.%20Sum%20of%20range%20of%20all%20subarray.java) |
-| 07 | Remove K elements | [Java](07.Stack%20and%20Queues/3.%20Monotonic%20Stack%20and%20Queue/07.%20Remove%20K%20elements.java) |
-| 08 | Largest Rectangle in Histogram | [Java](07.Stack%20and%20Queues/3.%20Monotonic%20Stack%20and%20Queue/08.%20Largest%20Rectangle%20in%20Histogram.java) |
-| 09 | Maximal Rectangle in binary matrix | [Java](07.Stack%20and%20Queues/3.%20Monotonic%20Stack%20and%20Queue/09.%20Maximal%20Rectangle%20in%20binary%20matrix.java) |
-| 10 | Asteroids Collision | [Java](07.Stack%20and%20Queues/3.%20Monotonic%20Stack%20and%20Queue/10.%20Asteroids%20Collision.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Next Greater Element | [Brute Force](07.Stack%20and%20Queues/3.%20Monotonic%20Stack%20and%20Queue/01.%20Next%20Greater%20Element/Brute_Force/Solution.java) • [Optimal](07.Stack%20and%20Queues/3.%20Monotonic%20Stack%20and%20Queue/01.%20Next%20Greater%20Element/Optimal/Solution.java) |
+| 02 | Next Greater Element 2 | [Brute Force](07.Stack%20and%20Queues/3.%20Monotonic%20Stack%20and%20Queue/02.%20Next%20Greater%20Element%202/Brute_Force/Solution.java) • [Optimal](07.Stack%20and%20Queues/3.%20Monotonic%20Stack%20and%20Queue/02.%20Next%20Greater%20Element%202/Optimal/Solution.java) |
+| 03 | Previous Smaller Element | [Brute Force](07.Stack%20and%20Queues/3.%20Monotonic%20Stack%20and%20Queue/03.%20Previous%20Smaller%20Element/Brute_Force/Solution.java) • [Optimal](07.Stack%20and%20Queues/3.%20Monotonic%20Stack%20and%20Queue/03.%20Previous%20Smaller%20Element/Optimal/Solution.java) |
+| 04 | Trapping Rainwater | [Brute Force](07.Stack%20and%20Queues/3.%20Monotonic%20Stack%20and%20Queue/04.%20Trapping%20Rainwater/Brute_Force/Solution.java) • [Better](07.Stack%20and%20Queues/3.%20Monotonic%20Stack%20and%20Queue/04.%20Trapping%20Rainwater/Better/Solution.java) • [Optimal](07.Stack%20and%20Queues/3.%20Monotonic%20Stack%20and%20Queue/04.%20Trapping%20Rainwater/Optimal/Solution.java) |
+| 05 | Sum of subarray minimum | [Brute Force](07.Stack%20and%20Queues/3.%20Monotonic%20Stack%20and%20Queue/05.%20Sum%20of%20subarray%20minimum/Brute_Force/Solution.java) • [Optimal](07.Stack%20and%20Queues/3.%20Monotonic%20Stack%20and%20Queue/05.%20Sum%20of%20subarray%20minimum/Optimal/Solution.java) |
+| 06 | Sum of range of all subarray | [Brute Force](07.Stack%20and%20Queues/3.%20Monotonic%20Stack%20and%20Queue/06.%20Sum%20of%20range%20of%20all%20subarray/Brute_Force/Solution.java) • [Optimal](07.Stack%20and%20Queues/3.%20Monotonic%20Stack%20and%20Queue/06.%20Sum%20of%20range%20of%20all%20subarray/Optimal/Solution.java) |
+| 07 | Remove K elements | [Brute Force](07.Stack%20and%20Queues/3.%20Monotonic%20Stack%20and%20Queue/07.%20Remove%20K%20elements/Brute_Force/Solution.java) • [Optimal](07.Stack%20and%20Queues/3.%20Monotonic%20Stack%20and%20Queue/07.%20Remove%20K%20elements/Optimal/Solution.java) |
+| 08 | Largest Rectangle in Histogram | [Brute Force](07.Stack%20and%20Queues/3.%20Monotonic%20Stack%20and%20Queue/08.%20Largest%20Rectangle%20in%20Histogram/Brute_Force/Solution.java) • [Better](07.Stack%20and%20Queues/3.%20Monotonic%20Stack%20and%20Queue/08.%20Largest%20Rectangle%20in%20Histogram/Better/Solution.java) • [Optimal](07.Stack%20and%20Queues/3.%20Monotonic%20Stack%20and%20Queue/08.%20Largest%20Rectangle%20in%20Histogram/Optimal/Solution.java) |
+| 09 | Maximal Rectangle in binary matrix | [Brute Force](07.Stack%20and%20Queues/3.%20Monotonic%20Stack%20and%20Queue/09.%20Maximal%20Rectangle%20in%20binary%20matrix/Brute_Force/Solution.java) • [Optimal](07.Stack%20and%20Queues/3.%20Monotonic%20Stack%20and%20Queue/09.%20Maximal%20Rectangle%20in%20binary%20matrix/Optimal/Solution.java) |
+| 10 | Asteroids Collision | [Brute Force](07.Stack%20and%20Queues/3.%20Monotonic%20Stack%20and%20Queue/10.%20Asteroids%20Collision/Brute_Force/Solution.java) • [Optimal](07.Stack%20and%20Queues/3.%20Monotonic%20Stack%20and%20Queue/10.%20Asteroids%20Collision/Optimal/Solution.java) |
 
 ### 4. Implementation
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Sliding window maximum | [Java](07.Stack%20and%20Queues/4.%20Implementation/01.%20Sliding%20window%20maximum.java) |
-| 02 | Stock span problem | [Java](07.Stack%20and%20Queues/4.%20Implementation/02.%20Stock%20span%20problem.java) |
-| 03 | Celebrity Problem | [Java](07.Stack%20and%20Queues/4.%20Implementation/03.%20Celebrity%20Problem.java) |
-| 04 | LRU Cache | [Java](07.Stack%20and%20Queues/4.%20Implementation/04.%20LRU%20Cache.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Sliding window maximum | [Brute Force](07.Stack%20and%20Queues/4.%20Implementation/01.%20Sliding%20window%20maximum/Brute_Force/Solution.java) • [Better](07.Stack%20and%20Queues/4.%20Implementation/01.%20Sliding%20window%20maximum/Better/Solution.java) • [Optimal](07.Stack%20and%20Queues/4.%20Implementation/01.%20Sliding%20window%20maximum/Optimal/Solution.java) |
+| 02 | Stock span problem | [Brute Force](07.Stack%20and%20Queues/4.%20Implementation/02.%20Stock%20span%20problem/Brute_Force/Solution.java) • [Optimal](07.Stack%20and%20Queues/4.%20Implementation/02.%20Stock%20span%20problem/Optimal/Solution.java) |
+| 03 | Celebrity Problem | [Brute Force](07.Stack%20and%20Queues/4.%20Implementation/03.%20Celebrity%20Problem/Brute_Force/Solution.java) • [Optimal](07.Stack%20and%20Queues/4.%20Implementation/03.%20Celebrity%20Problem/Optimal/Solution.java) |
+| 04 | LRU Cache | [Brute Force](07.Stack%20and%20Queues/4.%20Implementation/04.%20LRU%20Cache/Brute_Force/Solution.java) • [Optimal](07.Stack%20and%20Queues/4.%20Implementation/04.%20LRU%20Cache/Optimal/Solution.java) |
 
 ---
 
