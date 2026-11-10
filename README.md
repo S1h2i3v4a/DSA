@@ -44,57 +44,57 @@ Complete, clean, self-contained **Java** solutions for all 369 problems in the *
 
 ### 1.Easy
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Largest_element_in_array | [Java](01.Arrays/1.Easy/01.Largest_element_in_array.java) |
-| 02 | Second_largest_element_in_array | [Java](01.Arrays/1.Easy/02.Second_largest_element_in_array.java) |
-| 03 | Check_if_array_is_sorted_and_rotated | [Java](01.Arrays/1.Easy/03.Check_if_array_is_sorted_and_rotated.java) |
-| 04 | Remove_duplicates_from_sorted_array | [Java](01.Arrays/1.Easy/04.Remove_duplicates_from_sorted_array.java) |
-| 05 | Rotate_array_left_by_1place | [Java](01.Arrays/1.Easy/05.Rotate_array_left_by_1place.java) |
-| 06 | Rotate_array_left&right_by_k_places | [Java](01.Arrays/1.Easy/06.Rotate_array_left%26right_by_k_places.java) |
-| 07 | Move_0's_to_end | [Java](01.Arrays/1.Easy/07.Move_0%27s_to_end.java) |
-| 08 | Linear_search | [Java](01.Arrays/1.Easy/08.Linear_search.java) |
-| 09 | Union_of_2_sorted_arrays | [Java](01.Arrays/1.Easy/09.Union_of_2_sorted_arrays.java) |
-| 10 | Missing_number | [Java](01.Arrays/1.Easy/10.Missing_number.java) |
-| 11 | Max_consecutive_1's | [Java](01.Arrays/1.Easy/11.Max_consecutive_1%27s.java) |
-| 12 | Longest_subarray_with_given_sum | [Java](01.Arrays/1.Easy/12.Longest_subarray_with_given_sum.java) |
-| 13 | Find_element_present_only_once | [Java](01.Arrays/1.Easy/13.Find_element_present_only_once.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Largest_element_in_array | [Brute Force](01.Arrays/1.Easy/01.Largest_element_in_array/Brute_Force/Solution.java) • [Optimal](01.Arrays/1.Easy/01.Largest_element_in_array/Optimal/Solution.java) |
+| 02 | Second_largest_element_in_array | [Brute Force](01.Arrays/1.Easy/02.Second_largest_element_in_array/Brute_Force/Solution.java) • [Better](01.Arrays/1.Easy/02.Second_largest_element_in_array/Better/Solution.java) • [Optimal](01.Arrays/1.Easy/02.Second_largest_element_in_array/Optimal/Solution.java) |
+| 03 | Check_if_array_is_sorted_and_rotated | [Brute Force](01.Arrays/1.Easy/03.Check_if_array_is_sorted_and_rotated/Brute_Force/Solution.java) • [Optimal](01.Arrays/1.Easy/03.Check_if_array_is_sorted_and_rotated/Optimal/Solution.java) |
+| 04 | Remove_duplicates_from_sorted_array | [Brute Force](01.Arrays/1.Easy/04.Remove_duplicates_from_sorted_array/Brute_Force/Solution.java) • [Optimal](01.Arrays/1.Easy/04.Remove_duplicates_from_sorted_array/Optimal/Solution.java) |
+| 05 | Rotate_array_left_by_1place | [Brute Force](01.Arrays/1.Easy/05.Rotate_array_left_by_1place/Brute_Force/Solution.java) • [Optimal](01.Arrays/1.Easy/05.Rotate_array_left_by_1place/Optimal/Solution.java) |
+| 06 | Rotate_array_left&right_by_k_places | [Brute Force](01.Arrays/1.Easy/06.Rotate_array_left%26right_by_k_places/Brute_Force/Solution.java) • [Optimal](01.Arrays/1.Easy/06.Rotate_array_left%26right_by_k_places/Optimal/Solution.java) |
+| 07 | Move_0's_to_end | [Brute Force](01.Arrays/1.Easy/07.Move_0%27s_to_end/Brute_Force/Solution.java) • [Optimal](01.Arrays/1.Easy/07.Move_0%27s_to_end/Optimal/Solution.java) |
+| 08 | Linear_search | [Optimal](01.Arrays/1.Easy/08.Linear_search/Optimal/Solution.java) |
+| 09 | Union_of_2_sorted_arrays | [Brute Force](01.Arrays/1.Easy/09.Union_of_2_sorted_arrays/Brute_Force/Solution.java) • [Optimal](01.Arrays/1.Easy/09.Union_of_2_sorted_arrays/Optimal/Solution.java) |
+| 10 | Missing_number | [Brute Force](01.Arrays/1.Easy/10.Missing_number/Brute_Force/Solution.java) • [Better](01.Arrays/1.Easy/10.Missing_number/Better/Solution.java) • [Optimal](01.Arrays/1.Easy/10.Missing_number/Optimal/Solution.java) |
+| 11 | Max_consecutive_1's | [Brute Force](01.Arrays/1.Easy/11.Max_consecutive_1%27s/Brute_Force/Solution.java) • [Optimal](01.Arrays/1.Easy/11.Max_consecutive_1%27s/Optimal/Solution.java) |
+| 12 | Longest_subarray_with_given_sum | [Brute Force](01.Arrays/1.Easy/12.Longest_subarray_with_given_sum/Brute_Force/Solution.java) • [Better](01.Arrays/1.Easy/12.Longest_subarray_with_given_sum/Better/Solution.java) • [Optimal](01.Arrays/1.Easy/12.Longest_subarray_with_given_sum/Optimal/Solution.java) |
+| 13 | Find_element_present_only_once | [Brute Force](01.Arrays/1.Easy/13.Find_element_present_only_once/Brute_Force/Solution.java) • [Better](01.Arrays/1.Easy/13.Find_element_present_only_once/Better/Solution.java) • [Optimal](01.Arrays/1.Easy/13.Find_element_present_only_once/Optimal/Solution.java) |
 
 ### 2.Medium
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | 2_sum_problem | [Java](01.Arrays/2.Medium/01.2_sum_problem.java) |
-| 02 | Sort_0_1_2 | [Java](01.Arrays/2.Medium/02.Sort_0_1_2.java) |
-| 03 | Majority_element | [Java](01.Arrays/2.Medium/03.Majority_element.java) |
-| 04 | Kadane's_algorithm | [Java](01.Arrays/2.Medium/04.Kadane%27s_algorithm.java) |
-| 05 | Number_of_subarray_sum_equal_k | [Java](01.Arrays/2.Medium/05.Number_of_subarray_sum_equal_k.java) |
-| 06 | Stock_buy_sell | [Java](01.Arrays/2.Medium/06.Stock_buy_sell.java) |
-| 07 | Rearange_elements_by_sign | [Java](01.Arrays/2.Medium/07.Rearange_elements_by_sign.java) |
-| 08 | Next_permutation | [Java](01.Arrays/2.Medium/08.Next_permutation.java) |
-| 09 | Leaders_in_array | [Java](01.Arrays/2.Medium/09.Leaders_in_array.java) |
-| 10 | Longest_consecutive_subsequence | [Java](01.Arrays/2.Medium/10.Longest_consecutive_subsequence.java) |
-| 11 | Set_matrix_0's | [Java](01.Arrays/2.Medium/11.Set_matrix_0%27s.java) |
-| 12 | Rotate_matrix | [Java](01.Arrays/2.Medium/12.Rotate_matrix.java) |
-| 13 | Spiral_traversal | [Java](01.Arrays/2.Medium/13.Spiral_traversal.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | 2_sum_problem | [Brute Force](01.Arrays/2.Medium/01.2_sum_problem/Brute_Force/Solution.java) • [Better](01.Arrays/2.Medium/01.2_sum_problem/Better/Solution.java) • [Optimal](01.Arrays/2.Medium/01.2_sum_problem/Optimal/Solution.java) |
+| 02 | Sort_0_1_2 | [Brute Force](01.Arrays/2.Medium/02.Sort_0_1_2/Brute_Force/Solution.java) • [Better](01.Arrays/2.Medium/02.Sort_0_1_2/Better/Solution.java) • [Optimal](01.Arrays/2.Medium/02.Sort_0_1_2/Optimal/Solution.java) |
+| 03 | Majority_element | [Brute Force](01.Arrays/2.Medium/03.Majority_element/Brute_Force/Solution.java) • [Better](01.Arrays/2.Medium/03.Majority_element/Better/Solution.java) • [Optimal](01.Arrays/2.Medium/03.Majority_element/Optimal/Solution.java) |
+| 04 | Kadane's_algorithm | [Brute Force](01.Arrays/2.Medium/04.Kadane%27s_algorithm/Brute_Force/Solution.java) • [Better](01.Arrays/2.Medium/04.Kadane%27s_algorithm/Better/Solution.java) • [Optimal](01.Arrays/2.Medium/04.Kadane%27s_algorithm/Optimal/Solution.java) |
+| 05 | Number_of_subarray_sum_equal_k | [Brute Force](01.Arrays/2.Medium/05.Number_of_subarray_sum_equal_k/Brute_Force/Solution.java) • [Optimal](01.Arrays/2.Medium/05.Number_of_subarray_sum_equal_k/Optimal/Solution.java) |
+| 06 | Stock_buy_sell | [Brute Force](01.Arrays/2.Medium/06.Stock_buy_sell/Brute_Force/Solution.java) • [Optimal](01.Arrays/2.Medium/06.Stock_buy_sell/Optimal/Solution.java) |
+| 07 | Rearange_elements_by_sign | [Brute Force](01.Arrays/2.Medium/07.Rearange_elements_by_sign/Brute_Force/Solution.java) • [Optimal](01.Arrays/2.Medium/07.Rearange_elements_by_sign/Optimal/Solution.java) |
+| 08 | Next_permutation | [Brute Force](01.Arrays/2.Medium/08.Next_permutation/Brute_Force/Solution.java) • [Optimal](01.Arrays/2.Medium/08.Next_permutation/Optimal/Solution.java) |
+| 09 | Leaders_in_array | [Brute Force](01.Arrays/2.Medium/09.Leaders_in_array/Brute_Force/Solution.java) • [Optimal](01.Arrays/2.Medium/09.Leaders_in_array/Optimal/Solution.java) |
+| 10 | Longest_consecutive_subsequence | [Brute Force](01.Arrays/2.Medium/10.Longest_consecutive_subsequence/Brute_Force/Solution.java) • [Better](01.Arrays/2.Medium/10.Longest_consecutive_subsequence/Better/Solution.java) • [Optimal](01.Arrays/2.Medium/10.Longest_consecutive_subsequence/Optimal/Solution.java) |
+| 11 | Set_matrix_0's | [Brute Force](01.Arrays/2.Medium/11.Set_matrix_0%27s/Brute_Force/Solution.java) • [Better](01.Arrays/2.Medium/11.Set_matrix_0%27s/Better/Solution.java) • [Optimal](01.Arrays/2.Medium/11.Set_matrix_0%27s/Optimal/Solution.java) |
+| 12 | Rotate_matrix | [Brute Force](01.Arrays/2.Medium/12.Rotate_matrix/Brute_Force/Solution.java) • [Optimal](01.Arrays/2.Medium/12.Rotate_matrix/Optimal/Solution.java) |
+| 13 | Spiral_traversal | [Optimal](01.Arrays/2.Medium/13.Spiral_traversal/Optimal/Solution.java) |
 
 ### 3.Hard
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Pascal_triangle | [Java](01.Arrays/3.Hard/01.Pascal_triangle.java) |
-| 02 | Majority_element_2 | [Java](01.Arrays/3.Hard/02.Majority_element_2.java) |
-| 03 | 3_sum | [Java](01.Arrays/3.Hard/03.3_sum.java) |
-| 04 | 4_sum | [Java](01.Arrays/3.Hard/04.4_sum.java) |
-| 05 | Largest_subarray_with_0sum | [Java](01.Arrays/3.Hard/05.Largest_subarray_with_0sum.java) |
-| 06 | Subarrays_with_xor_k | [Java](01.Arrays/3.Hard/06.Subarrays_with_xor_k.java) |
-| 07 | Merge_overlapping_subinterval | [Java](01.Arrays/3.Hard/07.Merge_overlapping_subinterval.java) |
-| 08 | Merge_2_sorted_array_without_space | [Java](01.Arrays/3.Hard/08.Merge_2_sorted_array_without_space.java) |
-| 09 | Repeating_and_missing_numbers | [Java](01.Arrays/3.Hard/09.Repeating_and_missing_numbers.java) |
-| 10 | Count_inversions | [Java](01.Arrays/3.Hard/10.Count_inversions.java) |
-| 11 | Reverse_pairs | [Java](01.Arrays/3.Hard/11.Reverse_pairs.java) |
-| 12 | Maximum_product_subarray | [Java](01.Arrays/3.Hard/12.Maximum_product_subarray.java) |
-| 13 | Longest_subarray_with_sum_k_containg_+ves_and_-ves | [Java](01.Arrays/3.Hard/13.Longest_subarray_with_sum_k_containg_%2Bves_and_-ves.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Pascal_triangle | [Brute Force](01.Arrays/3.Hard/01.Pascal_triangle/Brute_Force/Solution.java) • [Optimal](01.Arrays/3.Hard/01.Pascal_triangle/Optimal/Solution.java) |
+| 02 | Majority_element_2 | [Brute Force](01.Arrays/3.Hard/02.Majority_element_2/Brute_Force/Solution.java) • [Better](01.Arrays/3.Hard/02.Majority_element_2/Better/Solution.java) • [Optimal](01.Arrays/3.Hard/02.Majority_element_2/Optimal/Solution.java) |
+| 03 | 3_sum | [Brute Force](01.Arrays/3.Hard/03.3_sum/Brute_Force/Solution.java) • [Better](01.Arrays/3.Hard/03.3_sum/Better/Solution.java) • [Optimal](01.Arrays/3.Hard/03.3_sum/Optimal/Solution.java) |
+| 04 | 4_sum | [Brute Force](01.Arrays/3.Hard/04.4_sum/Brute_Force/Solution.java) • [Better](01.Arrays/3.Hard/04.4_sum/Better/Solution.java) • [Optimal](01.Arrays/3.Hard/04.4_sum/Optimal/Solution.java) |
+| 05 | Largest_subarray_with_0sum | [Brute Force](01.Arrays/3.Hard/05.Largest_subarray_with_0sum/Brute_Force/Solution.java) • [Optimal](01.Arrays/3.Hard/05.Largest_subarray_with_0sum/Optimal/Solution.java) |
+| 06 | Subarrays_with_xor_k | [Brute Force](01.Arrays/3.Hard/06.Subarrays_with_xor_k/Brute_Force/Solution.java) • [Optimal](01.Arrays/3.Hard/06.Subarrays_with_xor_k/Optimal/Solution.java) |
+| 07 | Merge_overlapping_subinterval | [Brute Force](01.Arrays/3.Hard/07.Merge_overlapping_subinterval/Brute_Force/Solution.java) • [Optimal](01.Arrays/3.Hard/07.Merge_overlapping_subinterval/Optimal/Solution.java) |
+| 08 | Merge_2_sorted_array_without_space | [Brute Force](01.Arrays/3.Hard/08.Merge_2_sorted_array_without_space/Brute_Force/Solution.java) • [Better](01.Arrays/3.Hard/08.Merge_2_sorted_array_without_space/Better/Solution.java) • [Optimal](01.Arrays/3.Hard/08.Merge_2_sorted_array_without_space/Optimal/Solution.java) |
+| 09 | Repeating_and_missing_numbers | [Brute Force](01.Arrays/3.Hard/09.Repeating_and_missing_numbers/Brute_Force/Solution.java) • [Better](01.Arrays/3.Hard/09.Repeating_and_missing_numbers/Better/Solution.java) • [Optimal](01.Arrays/3.Hard/09.Repeating_and_missing_numbers/Optimal/Solution.java) |
+| 10 | Count_inversions | [Brute Force](01.Arrays/3.Hard/10.Count_inversions/Brute_Force/Solution.java) • [Optimal](01.Arrays/3.Hard/10.Count_inversions/Optimal/Solution.java) |
+| 11 | Reverse_pairs | [Brute Force](01.Arrays/3.Hard/11.Reverse_pairs/Brute_Force/Solution.java) • [Optimal](01.Arrays/3.Hard/11.Reverse_pairs/Optimal/Solution.java) |
+| 12 | Maximum_product_subarray | [Brute Force](01.Arrays/3.Hard/12.Maximum_product_subarray/Brute_Force/Solution.java) • [Optimal](01.Arrays/3.Hard/12.Maximum_product_subarray/Optimal/Solution.java) |
+| 13 | Longest_subarray_with_sum_k_containg_+ves_and_-ves | [Brute Force](01.Arrays/3.Hard/13.Longest_subarray_with_sum_k_containg_%2Bves_and_-ves/Brute_Force/Solution.java) • [Optimal](01.Arrays/3.Hard/13.Longest_subarray_with_sum_k_containg_%2Bves_and_-ves/Optimal/Solution.java) |
 
 ---
 
