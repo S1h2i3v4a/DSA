@@ -389,34 +389,34 @@ Complete, clean, self-contained **Java** solutions for all 369 problems in the *
 
 ### 1. Learning
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Implement min heap | [Java](09.%20Heaps/1.%20Learning/01.%20Implement%20min%20heap.java) |
-| 02 | Check if array is heap | [Java](09.%20Heaps/1.%20Learning/02.%20Check%20if%20array%20is%20heap.java) |
-| 03 | Convert min heap to max heap | [Java](09.%20Heaps/1.%20Learning/03.%20Convert%20min%20heap%20to%20max%20heap.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Implement min heap | [Optimal](09.%20Heaps/1.%20Learning/01.%20Implement%20min%20heap/Optimal/Solution.java) |
+| 02 | Check if array is heap | [Optimal](09.%20Heaps/1.%20Learning/02.%20Check%20if%20array%20is%20heap/Optimal/Solution.java) |
+| 03 | Convert min heap to max heap | [Optimal](09.%20Heaps/1.%20Learning/03.%20Convert%20min%20heap%20to%20max%20heap/Optimal/Solution.java) |
 
 ### 2. Medium Problems
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Kth largest element | [Java](09.%20Heaps/2.%20Medium%20Problems/01.%20Kth%20largest%20element.java) |
-| 02 | Kth smallest element | [Java](09.%20Heaps/2.%20Medium%20Problems/02.%20Kth%20smallest%20element.java) |
-| 03 | Merge K sorted arrays | [Java](09.%20Heaps/2.%20Medium%20Problems/03.%20Merge%20K%20sorted%20arrays.java) |
-| 04 | Merge K sorted Lists | [Java](09.%20Heaps/2.%20Medium%20Problems/04.%20Merge%20K%20sorted%20Lists.java) |
-| 05 | Arrange by rank | [Java](09.%20Heaps/2.%20Medium%20Problems/05.%20Arrange%20by%20rank.java) |
-| 06 | Task Scheduler | [Java](09.%20Heaps/2.%20Medium%20Problems/06.%20Task%20Scheduler.java) |
-| 07 | Divide array into sets of K consecutive number | [Java](09.%20Heaps/2.%20Medium%20Problems/07.%20Divide%20array%20into%20sets%20of%20K%20consecutive%20number.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Kth largest element | [Brute Force](09.%20Heaps/2.%20Medium%20Problems/01.%20Kth%20largest%20element/Brute_Force/Solution.java) • [Better](09.%20Heaps/2.%20Medium%20Problems/01.%20Kth%20largest%20element/Better/Solution.java) • [Optimal](09.%20Heaps/2.%20Medium%20Problems/01.%20Kth%20largest%20element/Optimal/Solution.java) |
+| 02 | Kth smallest element | [Brute Force](09.%20Heaps/2.%20Medium%20Problems/02.%20Kth%20smallest%20element/Brute_Force/Solution.java) • [Better](09.%20Heaps/2.%20Medium%20Problems/02.%20Kth%20smallest%20element/Better/Solution.java) • [Optimal](09.%20Heaps/2.%20Medium%20Problems/02.%20Kth%20smallest%20element/Optimal/Solution.java) |
+| 03 | Merge K sorted arrays | [Brute Force](09.%20Heaps/2.%20Medium%20Problems/03.%20Merge%20K%20sorted%20arrays/Brute_Force/Solution.java) • [Optimal](09.%20Heaps/2.%20Medium%20Problems/03.%20Merge%20K%20sorted%20arrays/Optimal/Solution.java) |
+| 04 | Merge K sorted Lists | [Brute Force](09.%20Heaps/2.%20Medium%20Problems/04.%20Merge%20K%20sorted%20Lists/Brute_Force/Solution.java) • [Better](09.%20Heaps/2.%20Medium%20Problems/04.%20Merge%20K%20sorted%20Lists/Better/Solution.java) • [Optimal](09.%20Heaps/2.%20Medium%20Problems/04.%20Merge%20K%20sorted%20Lists/Optimal/Solution.java) |
+| 05 | Arrange by rank | [Brute Force](09.%20Heaps/2.%20Medium%20Problems/05.%20Arrange%20by%20rank/Brute_Force/Solution.java) • [Optimal](09.%20Heaps/2.%20Medium%20Problems/05.%20Arrange%20by%20rank/Optimal/Solution.java) |
+| 06 | Task Scheduler | [Brute Force](09.%20Heaps/2.%20Medium%20Problems/06.%20Task%20Scheduler/Brute_Force/Solution.java) • [Optimal](09.%20Heaps/2.%20Medium%20Problems/06.%20Task%20Scheduler/Optimal/Solution.java) |
+| 07 | Divide array into sets of K consecutive number | [Brute Force](09.%20Heaps/2.%20Medium%20Problems/07.%20Divide%20array%20into%20sets%20of%20K%20consecutive%20number/Brute_Force/Solution.java) • [Optimal](09.%20Heaps/2.%20Medium%20Problems/07.%20Divide%20array%20into%20sets%20of%20K%20consecutive%20number/Optimal/Solution.java) |
 
 ### 3. Hard Problems
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Design Twitter | [Java](09.%20Heaps/3.%20Hard%20Problems/01.%20Design%20Twitter.java) |
-| 02 | Minimum Cost to join n ropes | [Java](09.%20Heaps/3.%20Hard%20Problems/02.%20Minimum%20Cost%20to%20join%20n%20ropes.java) |
-| 03 | Kth largest element in stream | [Java](09.%20Heaps/3.%20Hard%20Problems/03.%20Kth%20largest%20element%20in%20stream.java) |
-| 04 | Maximum K sum combinations | [Java](09.%20Heaps/3.%20Hard%20Problems/04.%20Maximum%20K%20sum%20combinations.java) |
-| 05 | Median in a stream | [Java](09.%20Heaps/3.%20Hard%20Problems/05.%20Median%20in%20a%20stream.java) |
-| 06 | Top K frequent elements | [Java](09.%20Heaps/3.%20Hard%20Problems/06.%20Top%20K%20frequent%20elements.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Design Twitter | [Brute Force](09.%20Heaps/3.%20Hard%20Problems/01.%20Design%20Twitter/Brute_Force/Solution.java) • [Optimal](09.%20Heaps/3.%20Hard%20Problems/01.%20Design%20Twitter/Optimal/Solution.java) |
+| 02 | Minimum Cost to join n ropes | [Optimal](09.%20Heaps/3.%20Hard%20Problems/02.%20Minimum%20Cost%20to%20join%20n%20ropes/Optimal/Solution.java) |
+| 03 | Kth largest element in stream | [Brute Force](09.%20Heaps/3.%20Hard%20Problems/03.%20Kth%20largest%20element%20in%20stream/Brute_Force/Solution.java) • [Optimal](09.%20Heaps/3.%20Hard%20Problems/03.%20Kth%20largest%20element%20in%20stream/Optimal/Solution.java) |
+| 04 | Maximum K sum combinations | [Brute Force](09.%20Heaps/3.%20Hard%20Problems/04.%20Maximum%20K%20sum%20combinations/Brute_Force/Solution.java) • [Optimal](09.%20Heaps/3.%20Hard%20Problems/04.%20Maximum%20K%20sum%20combinations/Optimal/Solution.java) |
+| 05 | Median in a stream | [Brute Force](09.%20Heaps/3.%20Hard%20Problems/05.%20Median%20in%20a%20stream/Brute_Force/Solution.java) • [Optimal](09.%20Heaps/3.%20Hard%20Problems/05.%20Median%20in%20a%20stream/Optimal/Solution.java) |
+| 06 | Top K frequent elements | [Brute Force](09.%20Heaps/3.%20Hard%20Problems/06.%20Top%20K%20frequent%20elements/Brute_Force/Solution.java) • [Better](09.%20Heaps/3.%20Hard%20Problems/06.%20Top%20K%20frequent%20elements/Better/Solution.java) • [Optimal](09.%20Heaps/3.%20Hard%20Problems/06.%20Top%20K%20frequent%20elements/Optimal/Solution.java) |
 
 ---
 
