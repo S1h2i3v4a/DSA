@@ -450,53 +450,53 @@ Complete, clean, self-contained **Java** solutions for all 369 problems in the *
 
 ### 1. Traversals
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Introduction to trees | [Java](11.%20Binary%20Trees/1.%20Traversals/01.%20Introduction%20to%20trees.java) |
-| 02 | Binary Tree representation | [Java](11.%20Binary%20Trees/1.%20Traversals/02.%20Binary%20Tree%20representation.java) |
-| 03 | Preorder Traversal | [Java](11.%20Binary%20Trees/1.%20Traversals/03.%20Preorder%20Traversal.java) |
-| 04 | Inorder Traversal | [Java](11.%20Binary%20Trees/1.%20Traversals/04.%20Inorder%20Traversal.java) |
-| 05 | Postorder Traversal | [Java](11.%20Binary%20Trees/1.%20Traversals/05.%20Postorder%20Traversal.java) |
-| 06 | Level Order Traversal | [Java](11.%20Binary%20Trees/1.%20Traversals/06.%20Level%20Order%20Traversal.java) |
-| 07 | Iterative Preorder Traversal | [Java](11.%20Binary%20Trees/1.%20Traversals/07.%20Iterative%20Preorder%20Traversal.java) |
-| 08 | Iterative Inorder Traversal | [Java](11.%20Binary%20Trees/1.%20Traversals/08.%20Iterative%20Inorder%20Traversal.java) |
-| 09 | Iterative Postorder | [Java](11.%20Binary%20Trees/1.%20Traversals/09.%20Iterative%20Postorder.java) |
-| 10 | All in one traversal | [Java](11.%20Binary%20Trees/1.%20Traversals/10.%20All%20in%20one%20traversal.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Introduction to trees | [Optimal](11.%20Binary%20Trees/1.%20Traversals/01.%20Introduction%20to%20trees/Optimal/Solution.java) |
+| 02 | Binary Tree representation | [Optimal](11.%20Binary%20Trees/1.%20Traversals/02.%20Binary%20Tree%20representation/Optimal/Solution.java) |
+| 03 | Preorder Traversal | [Optimal](11.%20Binary%20Trees/1.%20Traversals/03.%20Preorder%20Traversal/Optimal/Solution.java) |
+| 04 | Inorder Traversal | [Optimal](11.%20Binary%20Trees/1.%20Traversals/04.%20Inorder%20Traversal/Optimal/Solution.java) |
+| 05 | Postorder Traversal | [Optimal](11.%20Binary%20Trees/1.%20Traversals/05.%20Postorder%20Traversal/Optimal/Solution.java) |
+| 06 | Level Order Traversal | [Optimal](11.%20Binary%20Trees/1.%20Traversals/06.%20Level%20Order%20Traversal/Optimal/Solution.java) |
+| 07 | Iterative Preorder Traversal | [Optimal](11.%20Binary%20Trees/1.%20Traversals/07.%20Iterative%20Preorder%20Traversal/Optimal/Solution.java) |
+| 08 | Iterative Inorder Traversal | [Optimal](11.%20Binary%20Trees/1.%20Traversals/08.%20Iterative%20Inorder%20Traversal/Optimal/Solution.java) |
+| 09 | Iterative Postorder | [Better](11.%20Binary%20Trees/1.%20Traversals/09.%20Iterative%20Postorder/Better/Solution.java) • [Optimal](11.%20Binary%20Trees/1.%20Traversals/09.%20Iterative%20Postorder/Optimal/Solution.java) |
+| 10 | All in one traversal | [Optimal](11.%20Binary%20Trees/1.%20Traversals/10.%20All%20in%20one%20traversal/Optimal/Solution.java) |
 
 ### 2. Medium Problems
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Height of binary tree | [Java](11.%20Binary%20Trees/2.%20Medium%20Problems/01.%20Height%20of%20binary%20tree.java) |
-| 02 | Balanced Binary Tree | [Java](11.%20Binary%20Trees/2.%20Medium%20Problems/02.%20Balanced%20Binary%20Tree.java) |
-| 03 | Diameter of Binary Tree | [Java](11.%20Binary%20Trees/2.%20Medium%20Problems/03.%20Diameter%20of%20Binary%20Tree.java) |
-| 04 | Maximum Path Sum | [Java](11.%20Binary%20Trees/2.%20Medium%20Problems/04.%20Maximum%20Path%20Sum.java) |
-| 05 | Same Tree | [Java](11.%20Binary%20Trees/2.%20Medium%20Problems/05.%20Same%20Tree.java) |
-| 06 | Zig-Zag Traversal | [Java](11.%20Binary%20Trees/2.%20Medium%20Problems/06.%20Zig-Zag%20Traversal.java) |
-| 07 | Boundary Traversal | [Java](11.%20Binary%20Trees/2.%20Medium%20Problems/07.%20Boundary%20Traversal.java) |
-| 08 | Vertical Order Traversal | [Java](11.%20Binary%20Trees/2.%20Medium%20Problems/08.%20Vertical%20Order%20Traversal.java) |
-| 09 | Top View | [Java](11.%20Binary%20Trees/2.%20Medium%20Problems/09.%20Top%20View.java) |
-| 10 | Bottom View | [Java](11.%20Binary%20Trees/2.%20Medium%20Problems/10.%20Bottom%20View.java) |
-| 11 | Left or Right View | [Java](11.%20Binary%20Trees/2.%20Medium%20Problems/11.%20Left%20or%20Right%20View.java) |
-| 12 | Symmetric Tree | [Java](11.%20Binary%20Trees/2.%20Medium%20Problems/12.%20Symmetric%20Tree.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Height of binary tree | [Optimal](11.%20Binary%20Trees/2.%20Medium%20Problems/01.%20Height%20of%20binary%20tree/Optimal/Solution.java) |
+| 02 | Balanced Binary Tree | [Brute Force](11.%20Binary%20Trees/2.%20Medium%20Problems/02.%20Balanced%20Binary%20Tree/Brute_Force/Solution.java) • [Optimal](11.%20Binary%20Trees/2.%20Medium%20Problems/02.%20Balanced%20Binary%20Tree/Optimal/Solution.java) |
+| 03 | Diameter of Binary Tree | [Brute Force](11.%20Binary%20Trees/2.%20Medium%20Problems/03.%20Diameter%20of%20Binary%20Tree/Brute_Force/Solution.java) • [Optimal](11.%20Binary%20Trees/2.%20Medium%20Problems/03.%20Diameter%20of%20Binary%20Tree/Optimal/Solution.java) |
+| 04 | Maximum Path Sum | [Optimal](11.%20Binary%20Trees/2.%20Medium%20Problems/04.%20Maximum%20Path%20Sum/Optimal/Solution.java) |
+| 05 | Same Tree | [Optimal](11.%20Binary%20Trees/2.%20Medium%20Problems/05.%20Same%20Tree/Optimal/Solution.java) |
+| 06 | Zig-Zag Traversal | [Optimal](11.%20Binary%20Trees/2.%20Medium%20Problems/06.%20Zig-Zag%20Traversal/Optimal/Solution.java) |
+| 07 | Boundary Traversal | [Optimal](11.%20Binary%20Trees/2.%20Medium%20Problems/07.%20Boundary%20Traversal/Optimal/Solution.java) |
+| 08 | Vertical Order Traversal | [Optimal](11.%20Binary%20Trees/2.%20Medium%20Problems/08.%20Vertical%20Order%20Traversal/Optimal/Solution.java) |
+| 09 | Top View | [Optimal](11.%20Binary%20Trees/2.%20Medium%20Problems/09.%20Top%20View/Optimal/Solution.java) |
+| 10 | Bottom View | [Optimal](11.%20Binary%20Trees/2.%20Medium%20Problems/10.%20Bottom%20View/Optimal/Solution.java) |
+| 11 | Left or Right View | [Optimal](11.%20Binary%20Trees/2.%20Medium%20Problems/11.%20Left%20or%20Right%20View/Optimal/Solution.java) |
+| 12 | Symmetric Tree | [Optimal](11.%20Binary%20Trees/2.%20Medium%20Problems/12.%20Symmetric%20Tree/Optimal/Solution.java) |
 
 ### 3. Hard
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | All root to leaf paths | [Java](11.%20Binary%20Trees/3.%20Hard/01.%20All%20root%20to%20leaf%20paths.java) |
-| 02 | Lowest Common Ancestor | [Java](11.%20Binary%20Trees/3.%20Hard/02.%20Lowest%20Common%20Ancestor.java) |
-| 03 | Max width of binary tree | [Java](11.%20Binary%20Trees/3.%20Hard/03.%20Max%20width%20of%20binary%20tree.java) |
-| 04 | Check children sum property | [Java](11.%20Binary%20Trees/3.%20Hard/04.%20Check%20children%20sum%20property.java) |
-| 05 | All nodes at distance K | [Java](11.%20Binary%20Trees/3.%20Hard/05.%20All%20nodes%20at%20distance%20K.java) |
-| 06 | Min time to burn binary tree | [Java](11.%20Binary%20Trees/3.%20Hard/06.%20Min%20time%20to%20burn%20binary%20tree.java) |
-| 07 | Count nodes in complete binary tree | [Java](11.%20Binary%20Trees/3.%20Hard/07.%20Count%20nodes%20in%20complete%20binary%20tree.java) |
-| 08 | Construct BT from inorder and preorder | [Java](11.%20Binary%20Trees/3.%20Hard/08.%20Construct%20BT%20from%20inorder%20and%20preorder.java) |
-| 09 | Construct BT from inorder and postorder | [Java](11.%20Binary%20Trees/3.%20Hard/09.%20Construct%20BT%20from%20inorder%20and%20postorder.java) |
-| 10 | Morris Preorder Traversal | [Java](11.%20Binary%20Trees/3.%20Hard/11.%20Morris%20Preorder%20Traversal.java) |
-| 11 | Morris Inorder Traversal | [Java](11.%20Binary%20Trees/3.%20Hard/12.%20Morris%20Inorder%20Traversal.java) |
-| 12 | Flatten Binary Tree | [Java](11.%20Binary%20Trees/3.%20Hard/13.%20Flatten%20Binary%20Tree.java) |
-| 13 | Serialize and Deserialize | [Java](11.%20Binary%20Trees/3.%20Hard/14.%20Serialize%20and%20Deserialize.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | All root to leaf paths | [Optimal](11.%20Binary%20Trees/3.%20Hard/01.%20All%20root%20to%20leaf%20paths/Optimal/Solution.java) |
+| 02 | Lowest Common Ancestor | [Brute Force](11.%20Binary%20Trees/3.%20Hard/02.%20Lowest%20Common%20Ancestor/Brute_Force/Solution.java) • [Optimal](11.%20Binary%20Trees/3.%20Hard/02.%20Lowest%20Common%20Ancestor/Optimal/Solution.java) |
+| 03 | Max width of binary tree | [Optimal](11.%20Binary%20Trees/3.%20Hard/03.%20Max%20width%20of%20binary%20tree/Optimal/Solution.java) |
+| 04 | Check children sum property | [Optimal](11.%20Binary%20Trees/3.%20Hard/04.%20Check%20children%20sum%20property/Optimal/Solution.java) |
+| 05 | All nodes at distance K | [Optimal](11.%20Binary%20Trees/3.%20Hard/05.%20All%20nodes%20at%20distance%20K/Optimal/Solution.java) |
+| 06 | Min time to burn binary tree | [Optimal](11.%20Binary%20Trees/3.%20Hard/06.%20Min%20time%20to%20burn%20binary%20tree/Optimal/Solution.java) |
+| 07 | Count nodes in complete binary tree | [Brute Force](11.%20Binary%20Trees/3.%20Hard/07.%20Count%20nodes%20in%20complete%20binary%20tree/Brute_Force/Solution.java) • [Optimal](11.%20Binary%20Trees/3.%20Hard/07.%20Count%20nodes%20in%20complete%20binary%20tree/Optimal/Solution.java) |
+| 08 | Construct BT from inorder and preorder | [Optimal](11.%20Binary%20Trees/3.%20Hard/08.%20Construct%20BT%20from%20inorder%20and%20preorder/Optimal/Solution.java) |
+| 09 | Construct BT from inorder and postorder | [Optimal](11.%20Binary%20Trees/3.%20Hard/09.%20Construct%20BT%20from%20inorder%20and%20postorder/Optimal/Solution.java) |
+| 11 | Morris Preorder Traversal | [Optimal](11.%20Binary%20Trees/3.%20Hard/11.%20Morris%20Preorder%20Traversal/Optimal/Solution.java) |
+| 12 | Morris Inorder Traversal | [Optimal](11.%20Binary%20Trees/3.%20Hard/12.%20Morris%20Inorder%20Traversal/Optimal/Solution.java) |
+| 13 | Flatten Binary Tree | [Better](11.%20Binary%20Trees/3.%20Hard/13.%20Flatten%20Binary%20Tree/Better/Solution.java) • [Optimal](11.%20Binary%20Trees/3.%20Hard/13.%20Flatten%20Binary%20Tree/Optimal/Solution.java) |
+| 14 | Serialize and Deserialize | [Optimal](11.%20Binary%20Trees/3.%20Hard/14.%20Serialize%20and%20Deserialize/Optimal/Solution.java) |
 
 ---
 
