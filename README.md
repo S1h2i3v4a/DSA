@@ -278,34 +278,34 @@ Complete, clean, self-contained **Java** solutions for all 369 problems in the *
 
 ### 1. Learn Bit Manipulation
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Bit Manipulation | [Java](06.Bit%20Manipulation/1.%20Learn%20Bit%20Manipulation/01.Bit%20Manipulation.java) |
-| 02 | Check for the ith bit | [Java](06.Bit%20Manipulation/1.%20Learn%20Bit%20Manipulation/02.Check%20for%20the%20ith%20bit.java) |
-| 03 | Check for odd even | [Java](06.Bit%20Manipulation/1.%20Learn%20Bit%20Manipulation/03.Check%20for%20odd%20even.java) |
-| 04 | Check for the power of 2 | [Java](06.Bit%20Manipulation/1.%20Learn%20Bit%20Manipulation/04.Check%20for%20the%20power%20of%202.java) |
-| 05 | Set the righmost unset bit | [Java](06.Bit%20Manipulation/1.%20Learn%20Bit%20Manipulation/05.Set%20the%20righmost%20unset%20bit.java) |
-| 06 | Swap two numbers without temporary variable | [Java](06.Bit%20Manipulation/1.%20Learn%20Bit%20Manipulation/06.Swap%20two%20numbers%20without%20temporary%20variable.java) |
-| 07 | Divide two numbers using bit maipulation | [Java](06.Bit%20Manipulation/1.%20Learn%20Bit%20Manipulation/07.Divide%20two%20numbers%20using%20bit%20maipulation.java) |
-| 08 | Count set bit from numbers 1 to n | [Java](06.Bit%20Manipulation/1.%20Learn%20Bit%20Manipulation/08.Count%20set%20bit%20from%20numbers%201%20to%20n.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Bit Manipulation | [Optimal](06.Bit%20Manipulation/1.%20Learn%20Bit%20Manipulation/01.Bit%20Manipulation/Optimal/Solution.java) |
+| 02 | Check for the ith bit | [Brute Force](06.Bit%20Manipulation/1.%20Learn%20Bit%20Manipulation/02.Check%20for%20the%20ith%20bit/Brute_Force/Solution.java) • [Optimal](06.Bit%20Manipulation/1.%20Learn%20Bit%20Manipulation/02.Check%20for%20the%20ith%20bit/Optimal/Solution.java) |
+| 03 | Check for odd even | [Brute Force](06.Bit%20Manipulation/1.%20Learn%20Bit%20Manipulation/03.Check%20for%20odd%20even/Brute_Force/Solution.java) • [Optimal](06.Bit%20Manipulation/1.%20Learn%20Bit%20Manipulation/03.Check%20for%20odd%20even/Optimal/Solution.java) |
+| 04 | Check for the power of 2 | [Brute Force](06.Bit%20Manipulation/1.%20Learn%20Bit%20Manipulation/04.Check%20for%20the%20power%20of%202/Brute_Force/Solution.java) • [Optimal](06.Bit%20Manipulation/1.%20Learn%20Bit%20Manipulation/04.Check%20for%20the%20power%20of%202/Optimal/Solution.java) |
+| 05 | Set the righmost unset bit | [Brute Force](06.Bit%20Manipulation/1.%20Learn%20Bit%20Manipulation/05.Set%20the%20righmost%20unset%20bit/Brute_Force/Solution.java) • [Optimal](06.Bit%20Manipulation/1.%20Learn%20Bit%20Manipulation/05.Set%20the%20righmost%20unset%20bit/Optimal/Solution.java) |
+| 06 | Swap two numbers without temporary variable | [Brute Force](06.Bit%20Manipulation/1.%20Learn%20Bit%20Manipulation/06.Swap%20two%20numbers%20without%20temporary%20variable/Brute_Force/Solution.java) • [Optimal](06.Bit%20Manipulation/1.%20Learn%20Bit%20Manipulation/06.Swap%20two%20numbers%20without%20temporary%20variable/Optimal/Solution.java) |
+| 07 | Divide two numbers using bit maipulation | [Brute Force](06.Bit%20Manipulation/1.%20Learn%20Bit%20Manipulation/07.Divide%20two%20numbers%20using%20bit%20maipulation/Brute_Force/Solution.java) • [Optimal](06.Bit%20Manipulation/1.%20Learn%20Bit%20Manipulation/07.Divide%20two%20numbers%20using%20bit%20maipulation/Optimal/Solution.java) |
+| 08 | Count set bit from numbers 1 to n | [Brute Force](06.Bit%20Manipulation/1.%20Learn%20Bit%20Manipulation/08.Count%20set%20bit%20from%20numbers%201%20to%20n/Brute_Force/Solution.java) • [Optimal](06.Bit%20Manipulation/1.%20Learn%20Bit%20Manipulation/08.Count%20set%20bit%20from%20numbers%201%20to%20n/Optimal/Solution.java) |
 
 ### 2. Interview Problems
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Minimum bit flips | [Java](06.Bit%20Manipulation/2.%20Interview%20Problems/01.%20Minimum%20bit%20flips.java) |
-| 02 | Exceptionally odd | [Java](06.Bit%20Manipulation/2.%20Interview%20Problems/02.%20Exceptionally%20odd.java) |
-| 03 | XOR of numbers from L to R | [Java](06.Bit%20Manipulation/2.%20Interview%20Problems/03.%20XOR%20of%20numbers%20from%20L%20to%20R.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Minimum bit flips | [Brute Force](06.Bit%20Manipulation/2.%20Interview%20Problems/01.%20Minimum%20bit%20flips/Brute_Force/Solution.java) • [Optimal](06.Bit%20Manipulation/2.%20Interview%20Problems/01.%20Minimum%20bit%20flips/Optimal/Solution.java) |
+| 02 | Exceptionally odd | [Brute Force](06.Bit%20Manipulation/2.%20Interview%20Problems/02.%20Exceptionally%20odd/Brute_Force/Solution.java) • [Optimal](06.Bit%20Manipulation/2.%20Interview%20Problems/02.%20Exceptionally%20odd/Optimal/Solution.java) |
+| 03 | XOR of numbers from L to R | [Brute Force](06.Bit%20Manipulation/2.%20Interview%20Problems/03.%20XOR%20of%20numbers%20from%20L%20to%20R/Brute_Force/Solution.java) • [Optimal](06.Bit%20Manipulation/2.%20Interview%20Problems/03.%20XOR%20of%20numbers%20from%20L%20to%20R/Optimal/Solution.java) |
 
 ### 3. Advanced Maths
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Prime factors of number | [Java](06.Bit%20Manipulation/3.%20Advanced%20Maths/01.%20Prime%20factors%20of%20number.java) |
-| 02 | All divisors of number | [Java](06.Bit%20Manipulation/3.%20Advanced%20Maths/02.%20All%20divisors%20of%20number.java) |
-| 03 | Sieve of Eratosthenes | [Java](06.Bit%20Manipulation/3.%20Advanced%20Maths/03.%20Sieve%20of%20Eratosthenes.java) |
-| 04 | Prime factorization using Sieve | [Java](06.Bit%20Manipulation/3.%20Advanced%20Maths/04.%20Prime%20factorization%20using%20Sieve.java) |
-| 05 | Fast Power | [Java](06.Bit%20Manipulation/3.%20Advanced%20Maths/05.%20Fast%20Power.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Prime factors of number | [Brute Force](06.Bit%20Manipulation/3.%20Advanced%20Maths/01.%20Prime%20factors%20of%20number/Brute_Force/Solution.java) • [Optimal](06.Bit%20Manipulation/3.%20Advanced%20Maths/01.%20Prime%20factors%20of%20number/Optimal/Solution.java) |
+| 02 | All divisors of number | [Brute Force](06.Bit%20Manipulation/3.%20Advanced%20Maths/02.%20All%20divisors%20of%20number/Brute_Force/Solution.java) • [Optimal](06.Bit%20Manipulation/3.%20Advanced%20Maths/02.%20All%20divisors%20of%20number/Optimal/Solution.java) |
+| 03 | Sieve of Eratosthenes | [Brute Force](06.Bit%20Manipulation/3.%20Advanced%20Maths/03.%20Sieve%20of%20Eratosthenes/Brute_Force/Solution.java) • [Optimal](06.Bit%20Manipulation/3.%20Advanced%20Maths/03.%20Sieve%20of%20Eratosthenes/Optimal/Solution.java) |
+| 04 | Prime factorization using Sieve | [Brute Force](06.Bit%20Manipulation/3.%20Advanced%20Maths/04.%20Prime%20factorization%20using%20Sieve/Brute_Force/Solution.java) • [Optimal](06.Bit%20Manipulation/3.%20Advanced%20Maths/04.%20Prime%20factorization%20using%20Sieve/Optimal/Solution.java) |
+| 05 | Fast Power | [Brute Force](06.Bit%20Manipulation/3.%20Advanced%20Maths/05.%20Fast%20Power/Brute_Force/Solution.java) • [Optimal](06.Bit%20Manipulation/3.%20Advanced%20Maths/05.%20Fast%20Power/Optimal/Solution.java) |
 
 ---
 
