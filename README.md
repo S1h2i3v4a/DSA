@@ -238,39 +238,39 @@ Complete, clean, self-contained **Java** solutions for all 369 problems in the *
 
 ### 1.Get Strong Hold
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Implement_atoi_via_recursion | [Java](05.Recursion/1.Get%20Strong%20Hold/01.Implement_atoi_via_recursion.java) |
-| 02 | Count_good_numbers | [Java](05.Recursion/1.Get%20Strong%20Hold/02.Count_good_numbers.java) |
-| 03 | Reverse_stack_using_recursion | [Java](05.Recursion/1.Get%20Strong%20Hold/03.Reverse_stack_using_recursion.java) |
-| 04 | Sort_stack_using_recursion | [Java](05.Recursion/1.Get%20Strong%20Hold/04.Sort_stack_using_recursion.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Implement_atoi_via_recursion | [Brute Force](05.Recursion/1.Get%20Strong%20Hold/01.Implement_atoi_via_recursion/Brute_Force/Solution.java) • [Optimal](05.Recursion/1.Get%20Strong%20Hold/01.Implement_atoi_via_recursion/Optimal/Solution.java) |
+| 02 | Count_good_numbers | [Brute Force](05.Recursion/1.Get%20Strong%20Hold/02.Count_good_numbers/Brute_Force/Solution.java) • [Optimal](05.Recursion/1.Get%20Strong%20Hold/02.Count_good_numbers/Optimal/Solution.java) |
+| 03 | Reverse_stack_using_recursion | [Brute Force](05.Recursion/1.Get%20Strong%20Hold/03.Reverse_stack_using_recursion/Brute_Force/Solution.java) • [Optimal](05.Recursion/1.Get%20Strong%20Hold/03.Reverse_stack_using_recursion/Optimal/Solution.java) |
+| 04 | Sort_stack_using_recursion | [Brute Force](05.Recursion/1.Get%20Strong%20Hold/04.Sort_stack_using_recursion/Brute_Force/Solution.java) • [Optimal](05.Recursion/1.Get%20Strong%20Hold/04.Sort_stack_using_recursion/Optimal/Solution.java) |
 
 ### 2.Subsequences Pattern
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Genereate all valid parenthesis | [Java](05.Recursion/2.Subsequences%20Pattern/01.Genereate%20all%20valid%20parenthesis.java) |
-| 02 | Power set | [Java](05.Recursion/2.Subsequences%20Pattern/02.Power%20set.java) |
-| 03 | Count distinct substrings | [Java](05.Recursion/2.Subsequences%20Pattern/03.Count%20distinct%20substrings.java) |
-| 04 | Count subsets with sum equal to k | [Java](05.Recursion/2.Subsequences%20Pattern/04.Count%20subsets%20with%20sum%20equal%20to%20k.java) |
-| 05 | Subset 1 | [Java](05.Recursion/2.Subsequences%20Pattern/05.Subset%201.java) |
-| 06 | Subset 2 | [Java](05.Recursion/2.Subsequences%20Pattern/06.Subset%202.java) |
-| 07 | Combination Sum 1 | [Java](05.Recursion/2.Subsequences%20Pattern/07.Combination%20Sum%201.java) |
-| 08 | Combination Sum 2 | [Java](05.Recursion/2.Subsequences%20Pattern/08.Combination%20Sum%202.java) |
-| 09 | Combination Sum 3 | [Java](05.Recursion/2.Subsequences%20Pattern/09.Combination%20Sum%203.java) |
-| 10 | Letter combinations of phone | [Java](05.Recursion/2.Subsequences%20Pattern/10.Letter%20combinations%20of%20phone.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Genereate all valid parenthesis | [Brute Force](05.Recursion/2.Subsequences%20Pattern/01.Genereate%20all%20valid%20parenthesis/Brute_Force/Solution.java) • [Optimal](05.Recursion/2.Subsequences%20Pattern/01.Genereate%20all%20valid%20parenthesis/Optimal/Solution.java) |
+| 02 | Power set | [Brute Force](05.Recursion/2.Subsequences%20Pattern/02.Power%20set/Brute_Force/Solution.java) • [Optimal](05.Recursion/2.Subsequences%20Pattern/02.Power%20set/Optimal/Solution.java) |
+| 03 | Count distinct substrings | [Brute Force](05.Recursion/2.Subsequences%20Pattern/03.Count%20distinct%20substrings/Brute_Force/Solution.java) • [Optimal](05.Recursion/2.Subsequences%20Pattern/03.Count%20distinct%20substrings/Optimal/Solution.java) |
+| 04 | Count subsets with sum equal to k | [Brute Force](05.Recursion/2.Subsequences%20Pattern/04.Count%20subsets%20with%20sum%20equal%20to%20k/Brute_Force/Solution.java) • [Optimal](05.Recursion/2.Subsequences%20Pattern/04.Count%20subsets%20with%20sum%20equal%20to%20k/Optimal/Solution.java) |
+| 05 | Subset 1 | [Brute Force](05.Recursion/2.Subsequences%20Pattern/05.Subset%201/Brute_Force/Solution.java) • [Optimal](05.Recursion/2.Subsequences%20Pattern/05.Subset%201/Optimal/Solution.java) |
+| 06 | Subset 2 | [Brute Force](05.Recursion/2.Subsequences%20Pattern/06.Subset%202/Brute_Force/Solution.java) • [Optimal](05.Recursion/2.Subsequences%20Pattern/06.Subset%202/Optimal/Solution.java) |
+| 07 | Combination Sum 1 | [Optimal](05.Recursion/2.Subsequences%20Pattern/07.Combination%20Sum%201/Optimal/Solution.java) |
+| 08 | Combination Sum 2 | [Brute Force](05.Recursion/2.Subsequences%20Pattern/08.Combination%20Sum%202/Brute_Force/Solution.java) • [Optimal](05.Recursion/2.Subsequences%20Pattern/08.Combination%20Sum%202/Optimal/Solution.java) |
+| 09 | Combination Sum 3 | [Optimal](05.Recursion/2.Subsequences%20Pattern/09.Combination%20Sum%203/Optimal/Solution.java) |
+| 10 | Letter combinations of phone | [Optimal](05.Recursion/2.Subsequences%20Pattern/10.Letter%20combinations%20of%20phone/Optimal/Solution.java) |
 
 ### 3.Try Out All Combos
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Palindrome partioning | [Java](05.Recursion/3.Try%20Out%20All%20Combos/01.Palindrome%20partioning.java) |
-| 02 | Word search in grid | [Java](05.Recursion/3.Try%20Out%20All%20Combos/02.Word%20search%20in%20grid.java) |
-| 03 | Rat in maze | [Java](05.Recursion/3.Try%20Out%20All%20Combos/03.Rat%20in%20maze.java) |
-| 04 | M coloring problem | [Java](05.Recursion/3.Try%20Out%20All%20Combos/04.M%20coloring%20problem.java) |
-| 05 | N queens | [Java](05.Recursion/3.Try%20Out%20All%20Combos/05.N%20queens.java) |
-| 06 | Word Break | [Java](05.Recursion/3.Try%20Out%20All%20Combos/06.Word%20Break.java) |
-| 07 | Sudoku solver | [Java](05.Recursion/3.Try%20Out%20All%20Combos/07.Sudoku%20solver.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Palindrome partioning | [Brute Force](05.Recursion/3.Try%20Out%20All%20Combos/01.Palindrome%20partioning/Brute_Force/Solution.java) • [Optimal](05.Recursion/3.Try%20Out%20All%20Combos/01.Palindrome%20partioning/Optimal/Solution.java) |
+| 02 | Word search in grid | [Optimal](05.Recursion/3.Try%20Out%20All%20Combos/02.Word%20search%20in%20grid/Optimal/Solution.java) |
+| 03 | Rat in maze | [Optimal](05.Recursion/3.Try%20Out%20All%20Combos/03.Rat%20in%20maze/Optimal/Solution.java) |
+| 04 | M coloring problem | [Optimal](05.Recursion/3.Try%20Out%20All%20Combos/04.M%20coloring%20problem/Optimal/Solution.java) |
+| 05 | N queens | [Brute Force](05.Recursion/3.Try%20Out%20All%20Combos/05.N%20queens/Brute_Force/Solution.java) • [Optimal](05.Recursion/3.Try%20Out%20All%20Combos/05.N%20queens/Optimal/Solution.java) |
+| 06 | Word Break | [Brute Force](05.Recursion/3.Try%20Out%20All%20Combos/06.Word%20Break/Brute_Force/Solution.java) • [Optimal](05.Recursion/3.Try%20Out%20All%20Combos/06.Word%20Break/Optimal/Solution.java) |
+| 07 | Sudoku solver | [Optimal](05.Recursion/3.Try%20Out%20All%20Combos/07.Sudoku%20solver/Optimal/Solution.java) |
 
 ---
 
