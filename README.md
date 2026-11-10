@@ -424,25 +424,25 @@ Complete, clean, self-contained **Java** solutions for all 369 problems in the *
 
 ### 1. Easy
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Assign Cookies | [Java](10.%20Greedy%20Approach/1.%20Easy/01.%20Assign%20Cookies.java) |
-| 02 | Fractional Knapsack | [Java](10.%20Greedy%20Approach/1.%20Easy/02.%20Fractional%20Knapsack.java) |
-| 03 | Lemonade Exchange | [Java](10.%20Greedy%20Approach/1.%20Easy/03.%20Lemonade%20Exchange.java) |
-| 04 | Valid Parenthesis String | [Java](10.%20Greedy%20Approach/1.%20Easy/04.%20Valid%20Parenthesis%20String.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Assign Cookies | [Brute Force](10.%20Greedy%20Approach/1.%20Easy/01.%20Assign%20Cookies/Brute_Force/Solution.java) • [Optimal](10.%20Greedy%20Approach/1.%20Easy/01.%20Assign%20Cookies/Optimal/Solution.java) |
+| 02 | Fractional Knapsack | [Optimal](10.%20Greedy%20Approach/1.%20Easy/02.%20Fractional%20Knapsack/Optimal/Solution.java) |
+| 03 | Lemonade Exchange | [Optimal](10.%20Greedy%20Approach/1.%20Easy/03.%20Lemonade%20Exchange/Optimal/Solution.java) |
+| 04 | Valid Parenthesis String | [Brute Force](10.%20Greedy%20Approach/1.%20Easy/04.%20Valid%20Parenthesis%20String/Brute_Force/Solution.java) • [Better](10.%20Greedy%20Approach/1.%20Easy/04.%20Valid%20Parenthesis%20String/Better/Solution.java) • [Optimal](10.%20Greedy%20Approach/1.%20Easy/04.%20Valid%20Parenthesis%20String/Optimal/Solution.java) |
 
 ### 2. Medium
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | N Meetings in one room | [Java](10.%20Greedy%20Approach/2.%20Medium/01.%20N%20Meetings%20in%20one%20room.java) |
-| 02 | Jump Game | [Java](10.%20Greedy%20Approach/2.%20Medium/02.%20Jump%20Game.java) |
-| 03 | Jump Game 2 | [Java](10.%20Greedy%20Approach/2.%20Medium/03.%20Jump%20Game%202.java) |
-| 04 | Minimum Platforms | [Java](10.%20Greedy%20Approach/2.%20Medium/04.%20Minimum%20Platforms.java) |
-| 05 | Job Sequencing Problem | [Java](10.%20Greedy%20Approach/2.%20Medium/05.%20Job%20Sequencing%20Problem.java) |
-| 06 | Candy | [Java](10.%20Greedy%20Approach/2.%20Medium/06.%20Candy.java) |
-| 07 | Insert Interval | [Java](10.%20Greedy%20Approach/2.%20Medium/07.%20Insert%20Interval.java) |
-| 08 | Non Overlapping Intervals | [Java](10.%20Greedy%20Approach/2.%20Medium/08.%20Non%20Overlapping%20Intervals.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | N Meetings in one room | [Brute Force](10.%20Greedy%20Approach/2.%20Medium/01.%20N%20Meetings%20in%20one%20room/Brute_Force/Solution.java) • [Optimal](10.%20Greedy%20Approach/2.%20Medium/01.%20N%20Meetings%20in%20one%20room/Optimal/Solution.java) |
+| 02 | Jump Game | [Brute Force](10.%20Greedy%20Approach/2.%20Medium/02.%20Jump%20Game/Brute_Force/Solution.java) • [Optimal](10.%20Greedy%20Approach/2.%20Medium/02.%20Jump%20Game/Optimal/Solution.java) |
+| 03 | Jump Game 2 | [Brute Force](10.%20Greedy%20Approach/2.%20Medium/03.%20Jump%20Game%202/Brute_Force/Solution.java) • [Better](10.%20Greedy%20Approach/2.%20Medium/03.%20Jump%20Game%202/Better/Solution.java) • [Optimal](10.%20Greedy%20Approach/2.%20Medium/03.%20Jump%20Game%202/Optimal/Solution.java) |
+| 04 | Minimum Platforms | [Brute Force](10.%20Greedy%20Approach/2.%20Medium/04.%20Minimum%20Platforms/Brute_Force/Solution.java) • [Optimal](10.%20Greedy%20Approach/2.%20Medium/04.%20Minimum%20Platforms/Optimal/Solution.java) |
+| 05 | Job Sequencing Problem | [Optimal](10.%20Greedy%20Approach/2.%20Medium/05.%20Job%20Sequencing%20Problem/Optimal/Solution.java) |
+| 06 | Candy | [Brute Force](10.%20Greedy%20Approach/2.%20Medium/06.%20Candy/Brute_Force/Solution.java) • [Better](10.%20Greedy%20Approach/2.%20Medium/06.%20Candy/Better/Solution.java) • [Optimal](10.%20Greedy%20Approach/2.%20Medium/06.%20Candy/Optimal/Solution.java) |
+| 07 | Insert Interval | [Brute Force](10.%20Greedy%20Approach/2.%20Medium/07.%20Insert%20Interval/Brute_Force/Solution.java) • [Optimal](10.%20Greedy%20Approach/2.%20Medium/07.%20Insert%20Interval/Optimal/Solution.java) |
+| 08 | Non Overlapping Intervals | [Brute Force](10.%20Greedy%20Approach/2.%20Medium/08.%20Non%20Overlapping%20Intervals/Brute_Force/Solution.java) • [Optimal](10.%20Greedy%20Approach/2.%20Medium/08.%20Non%20Overlapping%20Intervals/Optimal/Solution.java) |
 
 ---
 
