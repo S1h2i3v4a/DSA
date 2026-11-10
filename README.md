@@ -609,98 +609,98 @@ Complete, clean, self-contained **Java** solutions for all 369 problems in the *
 
 ### 1. Intro to DP
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Find the nth fibonacci number | [Java](14.%20Dynamic%20Programming/1.%20Intro%20to%20DP/01.%20Find%20the%20nth%20fibonacci%20number.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Find the nth fibonacci number | [Brute Force](14.%20Dynamic%20Programming/1.%20Intro%20to%20DP/01.%20Find%20the%20nth%20fibonacci%20number/Brute_Force/Solution.java) • [Better](14.%20Dynamic%20Programming/1.%20Intro%20to%20DP/01.%20Find%20the%20nth%20fibonacci%20number/Better/Solution.java) • [Optimal](14.%20Dynamic%20Programming/1.%20Intro%20to%20DP/01.%20Find%20the%20nth%20fibonacci%20number/Optimal/Solution.java) |
 
 ### 2. 1D DP
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Climbing Stairs | [Java](14.%20Dynamic%20Programming/2.%201D%20DP/01.%20Climbing%20Stairs.java) |
-| 02 | Frog Jump | [Java](14.%20Dynamic%20Programming/2.%201D%20DP/02.%20Frog%20Jump.java) |
-| 03 | Frog K Jumps | [Java](14.%20Dynamic%20Programming/2.%201D%20DP/03.%20Frog%20K%20Jumps.java) |
-| 04 | House Robber | [Java](14.%20Dynamic%20Programming/2.%201D%20DP/04.%20House%20Robber.java) |
-| 05 | House Robber 2 | [Java](14.%20Dynamic%20Programming/2.%201D%20DP/05.%20House%20Robber%202.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Climbing Stairs | [Brute Force](14.%20Dynamic%20Programming/2.%201D%20DP/01.%20Climbing%20Stairs/Brute_Force/Solution.java) • [Better](14.%20Dynamic%20Programming/2.%201D%20DP/01.%20Climbing%20Stairs/Better/Solution.java) • [Optimal](14.%20Dynamic%20Programming/2.%201D%20DP/01.%20Climbing%20Stairs/Optimal/Solution.java) |
+| 02 | Frog Jump | [Brute Force](14.%20Dynamic%20Programming/2.%201D%20DP/02.%20Frog%20Jump/Brute_Force/Solution.java) • [Better](14.%20Dynamic%20Programming/2.%201D%20DP/02.%20Frog%20Jump/Better/Solution.java) • [Optimal](14.%20Dynamic%20Programming/2.%201D%20DP/02.%20Frog%20Jump/Optimal/Solution.java) |
+| 03 | Frog K Jumps | [Brute Force](14.%20Dynamic%20Programming/2.%201D%20DP/03.%20Frog%20K%20Jumps/Brute_Force/Solution.java) • [Better](14.%20Dynamic%20Programming/2.%201D%20DP/03.%20Frog%20K%20Jumps/Better/Solution.java) • [Optimal](14.%20Dynamic%20Programming/2.%201D%20DP/03.%20Frog%20K%20Jumps/Optimal/Solution.java) |
+| 04 | House Robber | [Brute Force](14.%20Dynamic%20Programming/2.%201D%20DP/04.%20House%20Robber/Brute_Force/Solution.java) • [Better](14.%20Dynamic%20Programming/2.%201D%20DP/04.%20House%20Robber/Better/Solution.java) • [Optimal](14.%20Dynamic%20Programming/2.%201D%20DP/04.%20House%20Robber/Optimal/Solution.java) |
+| 05 | House Robber 2 | [Brute Force](14.%20Dynamic%20Programming/2.%201D%20DP/05.%20House%20Robber%202/Brute_Force/Solution.java) • [Better](14.%20Dynamic%20Programming/2.%201D%20DP/05.%20House%20Robber%202/Better/Solution.java) • [Optimal](14.%20Dynamic%20Programming/2.%201D%20DP/05.%20House%20Robber%202/Optimal/Solution.java) |
 
 ### 3. 2D DP
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Ninja Training | [Java](14.%20Dynamic%20Programming/3.%202D%20DP/01.%20Ninja%20Training.java) |
-| 02 | Unique Paths | [Java](14.%20Dynamic%20Programming/3.%202D%20DP/02.%20Unique%20Paths.java) |
-| 03 | Unique Paths 2 | [Java](14.%20Dynamic%20Programming/3.%202D%20DP/03.%20Unique%20Paths%202.java) |
-| 04 | Minimum Path Sum | [Java](14.%20Dynamic%20Programming/3.%202D%20DP/04.%20Minimum%20Path%20Sum.java) |
-| 05 | Minimum Path in Triangle | [Java](14.%20Dynamic%20Programming/3.%202D%20DP/05.%20Minimum%20Path%20in%20Triangle.java) |
-| 06 | Minimum Falling Path Sum | [Java](14.%20Dynamic%20Programming/3.%202D%20DP/06.%20Minimum%20Falling%20Path%20Sum.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Ninja Training | [Brute Force](14.%20Dynamic%20Programming/3.%202D%20DP/01.%20Ninja%20Training/Brute_Force/Solution.java) • [Better](14.%20Dynamic%20Programming/3.%202D%20DP/01.%20Ninja%20Training/Better/Solution.java) • [Optimal](14.%20Dynamic%20Programming/3.%202D%20DP/01.%20Ninja%20Training/Optimal/Solution.java) |
+| 02 | Unique Paths | [Brute Force](14.%20Dynamic%20Programming/3.%202D%20DP/02.%20Unique%20Paths/Brute_Force/Solution.java) • [Better](14.%20Dynamic%20Programming/3.%202D%20DP/02.%20Unique%20Paths/Better/Solution.java) • [Optimal](14.%20Dynamic%20Programming/3.%202D%20DP/02.%20Unique%20Paths/Optimal/Solution.java) |
+| 03 | Unique Paths 2 | [Brute Force](14.%20Dynamic%20Programming/3.%202D%20DP/03.%20Unique%20Paths%202/Brute_Force/Solution.java) • [Better](14.%20Dynamic%20Programming/3.%202D%20DP/03.%20Unique%20Paths%202/Better/Solution.java) • [Optimal](14.%20Dynamic%20Programming/3.%202D%20DP/03.%20Unique%20Paths%202/Optimal/Solution.java) |
+| 04 | Minimum Path Sum | [Brute Force](14.%20Dynamic%20Programming/3.%202D%20DP/04.%20Minimum%20Path%20Sum/Brute_Force/Solution.java) • [Better](14.%20Dynamic%20Programming/3.%202D%20DP/04.%20Minimum%20Path%20Sum/Better/Solution.java) • [Optimal](14.%20Dynamic%20Programming/3.%202D%20DP/04.%20Minimum%20Path%20Sum/Optimal/Solution.java) |
+| 05 | Minimum Path in Triangle | [Brute Force](14.%20Dynamic%20Programming/3.%202D%20DP/05.%20Minimum%20Path%20in%20Triangle/Brute_Force/Solution.java) • [Better](14.%20Dynamic%20Programming/3.%202D%20DP/05.%20Minimum%20Path%20in%20Triangle/Better/Solution.java) • [Optimal](14.%20Dynamic%20Programming/3.%202D%20DP/05.%20Minimum%20Path%20in%20Triangle/Optimal/Solution.java) |
+| 06 | Minimum Falling Path Sum | [Brute Force](14.%20Dynamic%20Programming/3.%202D%20DP/06.%20Minimum%20Falling%20Path%20Sum/Brute_Force/Solution.java) • [Better](14.%20Dynamic%20Programming/3.%202D%20DP/06.%20Minimum%20Falling%20Path%20Sum/Better/Solution.java) • [Optimal](14.%20Dynamic%20Programming/3.%202D%20DP/06.%20Minimum%20Falling%20Path%20Sum/Optimal/Solution.java) |
 
 ### 4. DP on Subsequences
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Subset sum equal to k | [Java](14.%20Dynamic%20Programming/4.%20DP%20on%20Subsequences/01.%20Subset%20sum%20equal%20to%20k.java) |
-| 02 | Partition array in two equal sum subsets | [Java](14.%20Dynamic%20Programming/4.%20DP%20on%20Subsequences/02.%20Partition%20array%20in%20two%20equal%20sum%20subsets.java) |
-| 03 | Minimum Sum Partition | [Java](14.%20Dynamic%20Programming/4.%20DP%20on%20Subsequences/03.%20Minimum%20Sum%20Partition.java) |
-| 04 | Count number of subsets with sum K | [Java](14.%20Dynamic%20Programming/4.%20DP%20on%20Subsequences/04.%20Count%20number%20of%20subsets%20with%20sum%20K.java) |
-| 05 | Partition with given difference | [Java](14.%20Dynamic%20Programming/4.%20DP%20on%20Subsequences/05.%20Partition%20with%20given%20difference.java) |
-| 06 | 01 Knapsack | [Java](14.%20Dynamic%20Programming/4.%20DP%20on%20Subsequences/06.%2001%20Knapsack.java) |
-| 07 | Coin Change | [Java](14.%20Dynamic%20Programming/4.%20DP%20on%20Subsequences/07.%20Coin%20Change.java) |
-| 08 | Target Sum | [Java](14.%20Dynamic%20Programming/4.%20DP%20on%20Subsequences/08.%20Target%20Sum.java) |
-| 09 | Coin Change 2 | [Java](14.%20Dynamic%20Programming/4.%20DP%20on%20Subsequences/09.%20Coin%20Change%202.java) |
-| 10 | Unbounded Knapsack | [Java](14.%20Dynamic%20Programming/4.%20DP%20on%20Subsequences/10.%20Unbounded%20Knapsack.java) |
-| 11 | Rod Cutting Problem | [Java](14.%20Dynamic%20Programming/4.%20DP%20on%20Subsequences/11.%20Rod%20Cutting%20Problem.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Subset sum equal to k | [Brute Force](14.%20Dynamic%20Programming/4.%20DP%20on%20Subsequences/01.%20Subset%20sum%20equal%20to%20k/Brute_Force/Solution.java) • [Better](14.%20Dynamic%20Programming/4.%20DP%20on%20Subsequences/01.%20Subset%20sum%20equal%20to%20k/Better/Solution.java) • [Optimal](14.%20Dynamic%20Programming/4.%20DP%20on%20Subsequences/01.%20Subset%20sum%20equal%20to%20k/Optimal/Solution.java) |
+| 02 | Partition array in two equal sum subsets | [Brute Force](14.%20Dynamic%20Programming/4.%20DP%20on%20Subsequences/02.%20Partition%20array%20in%20two%20equal%20sum%20subsets/Brute_Force/Solution.java) • [Better](14.%20Dynamic%20Programming/4.%20DP%20on%20Subsequences/02.%20Partition%20array%20in%20two%20equal%20sum%20subsets/Better/Solution.java) • [Optimal](14.%20Dynamic%20Programming/4.%20DP%20on%20Subsequences/02.%20Partition%20array%20in%20two%20equal%20sum%20subsets/Optimal/Solution.java) |
+| 03 | Minimum Sum Partition | [Brute Force](14.%20Dynamic%20Programming/4.%20DP%20on%20Subsequences/03.%20Minimum%20Sum%20Partition/Brute_Force/Solution.java) • [Better](14.%20Dynamic%20Programming/4.%20DP%20on%20Subsequences/03.%20Minimum%20Sum%20Partition/Better/Solution.java) • [Optimal](14.%20Dynamic%20Programming/4.%20DP%20on%20Subsequences/03.%20Minimum%20Sum%20Partition/Optimal/Solution.java) |
+| 04 | Count number of subsets with sum K | [Brute Force](14.%20Dynamic%20Programming/4.%20DP%20on%20Subsequences/04.%20Count%20number%20of%20subsets%20with%20sum%20K/Brute_Force/Solution.java) • [Better](14.%20Dynamic%20Programming/4.%20DP%20on%20Subsequences/04.%20Count%20number%20of%20subsets%20with%20sum%20K/Better/Solution.java) • [Optimal](14.%20Dynamic%20Programming/4.%20DP%20on%20Subsequences/04.%20Count%20number%20of%20subsets%20with%20sum%20K/Optimal/Solution.java) |
+| 05 | Partition with given difference | [Brute Force](14.%20Dynamic%20Programming/4.%20DP%20on%20Subsequences/05.%20Partition%20with%20given%20difference/Brute_Force/Solution.java) • [Better](14.%20Dynamic%20Programming/4.%20DP%20on%20Subsequences/05.%20Partition%20with%20given%20difference/Better/Solution.java) • [Optimal](14.%20Dynamic%20Programming/4.%20DP%20on%20Subsequences/05.%20Partition%20with%20given%20difference/Optimal/Solution.java) |
+| 06 | 01 Knapsack | [Brute Force](14.%20Dynamic%20Programming/4.%20DP%20on%20Subsequences/06.%2001%20Knapsack/Brute_Force/Solution.java) • [Better](14.%20Dynamic%20Programming/4.%20DP%20on%20Subsequences/06.%2001%20Knapsack/Better/Solution.java) • [Optimal](14.%20Dynamic%20Programming/4.%20DP%20on%20Subsequences/06.%2001%20Knapsack/Optimal/Solution.java) |
+| 07 | Coin Change | [Brute Force](14.%20Dynamic%20Programming/4.%20DP%20on%20Subsequences/07.%20Coin%20Change/Brute_Force/Solution.java) • [Better](14.%20Dynamic%20Programming/4.%20DP%20on%20Subsequences/07.%20Coin%20Change/Better/Solution.java) • [Optimal](14.%20Dynamic%20Programming/4.%20DP%20on%20Subsequences/07.%20Coin%20Change/Optimal/Solution.java) |
+| 08 | Target Sum | [Brute Force](14.%20Dynamic%20Programming/4.%20DP%20on%20Subsequences/08.%20Target%20Sum/Brute_Force/Solution.java) • [Better](14.%20Dynamic%20Programming/4.%20DP%20on%20Subsequences/08.%20Target%20Sum/Better/Solution.java) • [Optimal](14.%20Dynamic%20Programming/4.%20DP%20on%20Subsequences/08.%20Target%20Sum/Optimal/Solution.java) |
+| 09 | Coin Change 2 | [Brute Force](14.%20Dynamic%20Programming/4.%20DP%20on%20Subsequences/09.%20Coin%20Change%202/Brute_Force/Solution.java) • [Better](14.%20Dynamic%20Programming/4.%20DP%20on%20Subsequences/09.%20Coin%20Change%202/Better/Solution.java) • [Optimal](14.%20Dynamic%20Programming/4.%20DP%20on%20Subsequences/09.%20Coin%20Change%202/Optimal/Solution.java) |
+| 10 | Unbounded Knapsack | [Brute Force](14.%20Dynamic%20Programming/4.%20DP%20on%20Subsequences/10.%20Unbounded%20Knapsack/Brute_Force/Solution.java) • [Better](14.%20Dynamic%20Programming/4.%20DP%20on%20Subsequences/10.%20Unbounded%20Knapsack/Better/Solution.java) • [Optimal](14.%20Dynamic%20Programming/4.%20DP%20on%20Subsequences/10.%20Unbounded%20Knapsack/Optimal/Solution.java) |
+| 11 | Rod Cutting Problem | [Brute Force](14.%20Dynamic%20Programming/4.%20DP%20on%20Subsequences/11.%20Rod%20Cutting%20Problem/Brute_Force/Solution.java) • [Better](14.%20Dynamic%20Programming/4.%20DP%20on%20Subsequences/11.%20Rod%20Cutting%20Problem/Better/Solution.java) • [Optimal](14.%20Dynamic%20Programming/4.%20DP%20on%20Subsequences/11.%20Rod%20Cutting%20Problem/Optimal/Solution.java) |
 
 ### 5. DP on Strings
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Longest Common Subsequence | [Java](14.%20Dynamic%20Programming/5.%20DP%20on%20Strings/01.%20Longest%20Common%20Subsequence.java) |
-| 02 | Print the LCS | [Java](14.%20Dynamic%20Programming/5.%20DP%20on%20Strings/02.%20Print%20the%20LCS.java) |
-| 03 | Longest Common Substring | [Java](14.%20Dynamic%20Programming/5.%20DP%20on%20Strings/03.%20Longest%20Common%20Substring.java) |
-| 04 | Longest Palindromic Subsequence | [Java](14.%20Dynamic%20Programming/5.%20DP%20on%20Strings/04.%20Longest%20Palindromic%20Subsequence.java) |
-| 05 | Minimum steps to make string palindrome | [Java](14.%20Dynamic%20Programming/5.%20DP%20on%20Strings/05.%20Minimum%20steps%20to%20make%20string%20palindrome.java) |
-| 06 | Minimum steps to make other string | [Java](14.%20Dynamic%20Programming/5.%20DP%20on%20Strings/06.%20Minimum%20steps%20to%20make%20other%20string.java) |
-| 07 | Shortest Common Supersequence | [Java](14.%20Dynamic%20Programming/5.%20DP%20on%20Strings/07.%20Shortest%20Common%20Supersequence.java) |
-| 08 | Distinct Subsequences | [Java](14.%20Dynamic%20Programming/5.%20DP%20on%20Strings/08.%20Distinct%20Subsequences.java) |
-| 09 | Wildcard Matching | [Java](14.%20Dynamic%20Programming/5.%20DP%20on%20Strings/09.%20Wildcard%20Matching.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Longest Common Subsequence | [Brute Force](14.%20Dynamic%20Programming/5.%20DP%20on%20Strings/01.%20Longest%20Common%20Subsequence/Brute_Force/Solution.java) • [Better](14.%20Dynamic%20Programming/5.%20DP%20on%20Strings/01.%20Longest%20Common%20Subsequence/Better/Solution.java) • [Optimal](14.%20Dynamic%20Programming/5.%20DP%20on%20Strings/01.%20Longest%20Common%20Subsequence/Optimal/Solution.java) |
+| 02 | Print the LCS | [Brute Force](14.%20Dynamic%20Programming/5.%20DP%20on%20Strings/02.%20Print%20the%20LCS/Brute_Force/Solution.java) • [Optimal](14.%20Dynamic%20Programming/5.%20DP%20on%20Strings/02.%20Print%20the%20LCS/Optimal/Solution.java) |
+| 03 | Longest Common Substring | [Brute Force](14.%20Dynamic%20Programming/5.%20DP%20on%20Strings/03.%20Longest%20Common%20Substring/Brute_Force/Solution.java) • [Better](14.%20Dynamic%20Programming/5.%20DP%20on%20Strings/03.%20Longest%20Common%20Substring/Better/Solution.java) • [Optimal](14.%20Dynamic%20Programming/5.%20DP%20on%20Strings/03.%20Longest%20Common%20Substring/Optimal/Solution.java) |
+| 04 | Longest Palindromic Subsequence | [Brute Force](14.%20Dynamic%20Programming/5.%20DP%20on%20Strings/04.%20Longest%20Palindromic%20Subsequence/Brute_Force/Solution.java) • [Better](14.%20Dynamic%20Programming/5.%20DP%20on%20Strings/04.%20Longest%20Palindromic%20Subsequence/Better/Solution.java) • [Optimal](14.%20Dynamic%20Programming/5.%20DP%20on%20Strings/04.%20Longest%20Palindromic%20Subsequence/Optimal/Solution.java) |
+| 05 | Minimum steps to make string palindrome | [Brute Force](14.%20Dynamic%20Programming/5.%20DP%20on%20Strings/05.%20Minimum%20steps%20to%20make%20string%20palindrome/Brute_Force/Solution.java) • [Optimal](14.%20Dynamic%20Programming/5.%20DP%20on%20Strings/05.%20Minimum%20steps%20to%20make%20string%20palindrome/Optimal/Solution.java) |
+| 06 | Minimum steps to make other string | [Brute Force](14.%20Dynamic%20Programming/5.%20DP%20on%20Strings/06.%20Minimum%20steps%20to%20make%20other%20string/Brute_Force/Solution.java) • [Optimal](14.%20Dynamic%20Programming/5.%20DP%20on%20Strings/06.%20Minimum%20steps%20to%20make%20other%20string/Optimal/Solution.java) |
+| 07 | Shortest Common Supersequence | [Brute Force](14.%20Dynamic%20Programming/5.%20DP%20on%20Strings/07.%20Shortest%20Common%20Supersequence/Brute_Force/Solution.java) • [Optimal](14.%20Dynamic%20Programming/5.%20DP%20on%20Strings/07.%20Shortest%20Common%20Supersequence/Optimal/Solution.java) |
+| 08 | Distinct Subsequences | [Brute Force](14.%20Dynamic%20Programming/5.%20DP%20on%20Strings/08.%20Distinct%20Subsequences/Brute_Force/Solution.java) • [Better](14.%20Dynamic%20Programming/5.%20DP%20on%20Strings/08.%20Distinct%20Subsequences/Better/Solution.java) • [Optimal](14.%20Dynamic%20Programming/5.%20DP%20on%20Strings/08.%20Distinct%20Subsequences/Optimal/Solution.java) |
+| 09 | Wildcard Matching | [Brute Force](14.%20Dynamic%20Programming/5.%20DP%20on%20Strings/09.%20Wildcard%20Matching/Brute_Force/Solution.java) • [Better](14.%20Dynamic%20Programming/5.%20DP%20on%20Strings/09.%20Wildcard%20Matching/Better/Solution.java) • [Optimal](14.%20Dynamic%20Programming/5.%20DP%20on%20Strings/09.%20Wildcard%20Matching/Optimal/Solution.java) |
 
 ### 6. DP on Stocks
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Best time to buy and sell stocks | [Java](14.%20Dynamic%20Programming/6.%20DP%20on%20Stocks/01.%20Best%20time%20to%20buy%20and%20sell%20stocks.java) |
-| 02 | Best time to buy and sell stock 2 | [Java](14.%20Dynamic%20Programming/6.%20DP%20on%20Stocks/02.%20Best%20time%20to%20buy%20and%20sell%20stock%202.java) |
-| 03 | Best time to buy and sell stock upto 2 transaction | [Java](14.%20Dynamic%20Programming/6.%20DP%20on%20Stocks/03.%20Best%20time%20to%20buy%20and%20sell%20stock%20upto%202%20transaction.java) |
-| 04 | Best time to buy and sell stock uoto k transaction | [Java](14.%20Dynamic%20Programming/6.%20DP%20on%20Stocks/04.%20Best%20time%20to%20buy%20and%20sell%20stock%20uoto%20k%20transaction.java) |
-| 05 | Buy and sell stocks with cooldown | [Java](14.%20Dynamic%20Programming/6.%20DP%20on%20Stocks/05.%20Buy%20and%20sell%20stocks%20with%20cooldown.java) |
-| 06 | Buy and sell stocks with transaction fee | [Java](14.%20Dynamic%20Programming/6.%20DP%20on%20Stocks/06.%20Buy%20and%20sell%20stocks%20with%20transaction%20fee.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Best time to buy and sell stocks | [Brute Force](14.%20Dynamic%20Programming/6.%20DP%20on%20Stocks/01.%20Best%20time%20to%20buy%20and%20sell%20stocks/Brute_Force/Solution.java) • [Optimal](14.%20Dynamic%20Programming/6.%20DP%20on%20Stocks/01.%20Best%20time%20to%20buy%20and%20sell%20stocks/Optimal/Solution.java) |
+| 02 | Best time to buy and sell stock 2 | [Brute Force](14.%20Dynamic%20Programming/6.%20DP%20on%20Stocks/02.%20Best%20time%20to%20buy%20and%20sell%20stock%202/Brute_Force/Solution.java) • [Better](14.%20Dynamic%20Programming/6.%20DP%20on%20Stocks/02.%20Best%20time%20to%20buy%20and%20sell%20stock%202/Better/Solution.java) • [Optimal](14.%20Dynamic%20Programming/6.%20DP%20on%20Stocks/02.%20Best%20time%20to%20buy%20and%20sell%20stock%202/Optimal/Solution.java) |
+| 03 | Best time to buy and sell stock upto 2 transaction | [Brute Force](14.%20Dynamic%20Programming/6.%20DP%20on%20Stocks/03.%20Best%20time%20to%20buy%20and%20sell%20stock%20upto%202%20transaction/Brute_Force/Solution.java) • [Better](14.%20Dynamic%20Programming/6.%20DP%20on%20Stocks/03.%20Best%20time%20to%20buy%20and%20sell%20stock%20upto%202%20transaction/Better/Solution.java) • [Optimal](14.%20Dynamic%20Programming/6.%20DP%20on%20Stocks/03.%20Best%20time%20to%20buy%20and%20sell%20stock%20upto%202%20transaction/Optimal/Solution.java) |
+| 04 | Best time to buy and sell stock uoto k transaction | [Brute Force](14.%20Dynamic%20Programming/6.%20DP%20on%20Stocks/04.%20Best%20time%20to%20buy%20and%20sell%20stock%20uoto%20k%20transaction/Brute_Force/Solution.java) • [Better](14.%20Dynamic%20Programming/6.%20DP%20on%20Stocks/04.%20Best%20time%20to%20buy%20and%20sell%20stock%20uoto%20k%20transaction/Better/Solution.java) • [Optimal](14.%20Dynamic%20Programming/6.%20DP%20on%20Stocks/04.%20Best%20time%20to%20buy%20and%20sell%20stock%20uoto%20k%20transaction/Optimal/Solution.java) |
+| 05 | Buy and sell stocks with cooldown | [Brute Force](14.%20Dynamic%20Programming/6.%20DP%20on%20Stocks/05.%20Buy%20and%20sell%20stocks%20with%20cooldown/Brute_Force/Solution.java) • [Better](14.%20Dynamic%20Programming/6.%20DP%20on%20Stocks/05.%20Buy%20and%20sell%20stocks%20with%20cooldown/Better/Solution.java) • [Optimal](14.%20Dynamic%20Programming/6.%20DP%20on%20Stocks/05.%20Buy%20and%20sell%20stocks%20with%20cooldown/Optimal/Solution.java) |
+| 06 | Buy and sell stocks with transaction fee | [Brute Force](14.%20Dynamic%20Programming/6.%20DP%20on%20Stocks/06.%20Buy%20and%20sell%20stocks%20with%20transaction%20fee/Brute_Force/Solution.java) • [Better](14.%20Dynamic%20Programming/6.%20DP%20on%20Stocks/06.%20Buy%20and%20sell%20stocks%20with%20transaction%20fee/Better/Solution.java) • [Optimal](14.%20Dynamic%20Programming/6.%20DP%20on%20Stocks/06.%20Buy%20and%20sell%20stocks%20with%20transaction%20fee/Optimal/Solution.java) |
 
 ### 7. DP on LIS
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Longest Increasing Subsequence | [Java](14.%20Dynamic%20Programming/7.%20DP%20on%20LIS/01.%20Longest%20Increasing%20Subsequence.java) |
-| 02 | Print LIS | [Java](14.%20Dynamic%20Programming/7.%20DP%20on%20LIS/02.%20Print%20LIS.java) |
-| 03 | Largest Divisible Subset | [Java](14.%20Dynamic%20Programming/7.%20DP%20on%20LIS/03.%20Largest%20Divisible%20Subset.java) |
-| 04 | Longest Bitonic Subsequence | [Java](14.%20Dynamic%20Programming/7.%20DP%20on%20LIS/04.%20Longest%20Bitonic%20Subsequence.java) |
-| 05 | Number of LIS | [Java](14.%20Dynamic%20Programming/7.%20DP%20on%20LIS/05.%20Number%20of%20LIS.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Longest Increasing Subsequence | [Brute Force](14.%20Dynamic%20Programming/7.%20DP%20on%20LIS/01.%20Longest%20Increasing%20Subsequence/Brute_Force/Solution.java) • [Better](14.%20Dynamic%20Programming/7.%20DP%20on%20LIS/01.%20Longest%20Increasing%20Subsequence/Better/Solution.java) • [Optimal](14.%20Dynamic%20Programming/7.%20DP%20on%20LIS/01.%20Longest%20Increasing%20Subsequence/Optimal/Solution.java) |
+| 02 | Print LIS | [Brute Force](14.%20Dynamic%20Programming/7.%20DP%20on%20LIS/02.%20Print%20LIS/Brute_Force/Solution.java) • [Optimal](14.%20Dynamic%20Programming/7.%20DP%20on%20LIS/02.%20Print%20LIS/Optimal/Solution.java) |
+| 03 | Largest Divisible Subset | [Brute Force](14.%20Dynamic%20Programming/7.%20DP%20on%20LIS/03.%20Largest%20Divisible%20Subset/Brute_Force/Solution.java) • [Optimal](14.%20Dynamic%20Programming/7.%20DP%20on%20LIS/03.%20Largest%20Divisible%20Subset/Optimal/Solution.java) |
+| 04 | Longest Bitonic Subsequence | [Brute Force](14.%20Dynamic%20Programming/7.%20DP%20on%20LIS/04.%20Longest%20Bitonic%20Subsequence/Brute_Force/Solution.java) • [Optimal](14.%20Dynamic%20Programming/7.%20DP%20on%20LIS/04.%20Longest%20Bitonic%20Subsequence/Optimal/Solution.java) |
+| 05 | Number of LIS | [Brute Force](14.%20Dynamic%20Programming/7.%20DP%20on%20LIS/05.%20Number%20of%20LIS/Brute_Force/Solution.java) • [Optimal](14.%20Dynamic%20Programming/7.%20DP%20on%20LIS/05.%20Number%20of%20LIS/Optimal/Solution.java) |
 
 ### 8. DP on Partition
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | MCM | [Java](14.%20Dynamic%20Programming/8.%20DP%20on%20Partition/01.%20MCM.java) |
-| 02 | Minimum cost to cut stick | [Java](14.%20Dynamic%20Programming/8.%20DP%20on%20Partition/02.%20Minimum%20cost%20to%20cut%20stick.java) |
-| 03 | Burst Ballons | [Java](14.%20Dynamic%20Programming/8.%20DP%20on%20Partition/03.%20Burst%20Ballons.java) |
-| 04 | Palindorme Partionting 2 | [Java](14.%20Dynamic%20Programming/8.%20DP%20on%20Partition/05.%20Palindorme%20Partionting%202.java) |
-| 05 | Partition array for maximum sum | [Java](14.%20Dynamic%20Programming/8.%20DP%20on%20Partition/06.%20Partition%20array%20for%20maximum%20sum.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | MCM | [Brute Force](14.%20Dynamic%20Programming/8.%20DP%20on%20Partition/01.%20MCM/Brute_Force/Solution.java) • [Better](14.%20Dynamic%20Programming/8.%20DP%20on%20Partition/01.%20MCM/Better/Solution.java) • [Optimal](14.%20Dynamic%20Programming/8.%20DP%20on%20Partition/01.%20MCM/Optimal/Solution.java) |
+| 02 | Minimum cost to cut stick | [Brute Force](14.%20Dynamic%20Programming/8.%20DP%20on%20Partition/02.%20Minimum%20cost%20to%20cut%20stick/Brute_Force/Solution.java) • [Better](14.%20Dynamic%20Programming/8.%20DP%20on%20Partition/02.%20Minimum%20cost%20to%20cut%20stick/Better/Solution.java) • [Optimal](14.%20Dynamic%20Programming/8.%20DP%20on%20Partition/02.%20Minimum%20cost%20to%20cut%20stick/Optimal/Solution.java) |
+| 03 | Burst Ballons | [Brute Force](14.%20Dynamic%20Programming/8.%20DP%20on%20Partition/03.%20Burst%20Ballons/Brute_Force/Solution.java) • [Better](14.%20Dynamic%20Programming/8.%20DP%20on%20Partition/03.%20Burst%20Ballons/Better/Solution.java) • [Optimal](14.%20Dynamic%20Programming/8.%20DP%20on%20Partition/03.%20Burst%20Ballons/Optimal/Solution.java) |
+| 05 | Palindorme Partionting 2 | [Brute Force](14.%20Dynamic%20Programming/8.%20DP%20on%20Partition/05.%20Palindorme%20Partionting%202/Brute_Force/Solution.java) • [Better](14.%20Dynamic%20Programming/8.%20DP%20on%20Partition/05.%20Palindorme%20Partionting%202/Better/Solution.java) • [Optimal](14.%20Dynamic%20Programming/8.%20DP%20on%20Partition/05.%20Palindorme%20Partionting%202/Optimal/Solution.java) |
+| 06 | Partition array for maximum sum | [Brute Force](14.%20Dynamic%20Programming/8.%20DP%20on%20Partition/06.%20Partition%20array%20for%20maximum%20sum/Brute_Force/Solution.java) • [Better](14.%20Dynamic%20Programming/8.%20DP%20on%20Partition/06.%20Partition%20array%20for%20maximum%20sum/Better/Solution.java) • [Optimal](14.%20Dynamic%20Programming/8.%20DP%20on%20Partition/06.%20Partition%20array%20for%20maximum%20sum/Optimal/Solution.java) |
 
 ### 9. DP on Squares
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Maximal Square | [Java](14.%20Dynamic%20Programming/9.%20DP%20on%20Squares/01.%20Maximal%20Square.java) |
-| 02 | Count square submatrices | [Java](14.%20Dynamic%20Programming/9.%20DP%20on%20Squares/02.%20Count%20square%20submatrices.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Maximal Square | [Brute Force](14.%20Dynamic%20Programming/9.%20DP%20on%20Squares/01.%20Maximal%20Square/Brute_Force/Solution.java) • [Better](14.%20Dynamic%20Programming/9.%20DP%20on%20Squares/01.%20Maximal%20Square/Better/Solution.java) • [Optimal](14.%20Dynamic%20Programming/9.%20DP%20on%20Squares/01.%20Maximal%20Square/Optimal/Solution.java) |
+| 02 | Count square submatrices | [Brute Force](14.%20Dynamic%20Programming/9.%20DP%20on%20Squares/02.%20Count%20square%20submatrices/Brute_Force/Solution.java) • [Optimal](14.%20Dynamic%20Programming/9.%20DP%20on%20Squares/02.%20Count%20square%20submatrices/Optimal/Solution.java) |
 
 ---
 
