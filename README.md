@@ -504,28 +504,28 @@ Complete, clean, self-contained **Java** solutions for all 369 problems in the *
 
 ### 1. Concept
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Intro to BST | [Java](12.%20Binary%20Search%20Trees/1.%20Concept/01.%20Intro%20to%20BST.java) |
-| 02 | Search in BST | [Java](12.%20Binary%20Search%20Trees/1.%20Concept/02.%20Search%20in%20BST.java) |
-| 03 | Minimum value in BST | [Java](12.%20Binary%20Search%20Trees/1.%20Concept/03.%20Minimum%20value%20in%20BST.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Intro to BST | [Optimal](12.%20Binary%20Search%20Trees/1.%20Concept/01.%20Intro%20to%20BST/Optimal/Solution.java) |
+| 02 | Search in BST | [Optimal](12.%20Binary%20Search%20Trees/1.%20Concept/02.%20Search%20in%20BST/Optimal/Solution.java) |
+| 03 | Minimum value in BST | [Optimal](12.%20Binary%20Search%20Trees/1.%20Concept/03.%20Minimum%20value%20in%20BST/Optimal/Solution.java) |
 
 ### 2. Practice Problems
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Ceil in BST | [Java](12.%20Binary%20Search%20Trees/2.%20Practice%20Problems/01.%20Ceil%20in%20BST.java) |
-| 02 | Floor in BST | [Java](12.%20Binary%20Search%20Trees/2.%20Practice%20Problems/02.%20Floor%20in%20BST.java) |
-| 03 | Insert into BST | [Java](12.%20Binary%20Search%20Trees/2.%20Practice%20Problems/03.%20Insert%20into%20BST.java) |
-| 04 | Delete from BST | [Java](12.%20Binary%20Search%20Trees/2.%20Practice%20Problems/04.%20Delete%20from%20BST.java) |
-| 05 | Kth smallest element in BST | [Java](12.%20Binary%20Search%20Trees/2.%20Practice%20Problems/05.%20Kth%20smallest%20element%20in%20BST.java) |
-| 06 | Validate BST | [Java](12.%20Binary%20Search%20Trees/2.%20Practice%20Problems/06.%20Validate%20BST.java) |
-| 07 | LCA in BST | [Java](12.%20Binary%20Search%20Trees/2.%20Practice%20Problems/07.%20LCA%20in%20BST.java) |
-| 08 | Build BST from Preorder Traversal | [Java](12.%20Binary%20Search%20Trees/2.%20Practice%20Problems/08.%20Build%20BST%20from%20Preorder%20Traversal.java) |
-| 09 | BST Iterator | [Java](12.%20Binary%20Search%20Trees/2.%20Practice%20Problems/09.%20BST%20Iterator.java) |
-| 10 | Two Sum in BST | [Java](12.%20Binary%20Search%20Trees/2.%20Practice%20Problems/10.%20Two%20Sum%20in%20BST.java) |
-| 11 | Recover BST | [Java](12.%20Binary%20Search%20Trees/2.%20Practice%20Problems/11.%20Recover%20BST.java) |
-| 12 | Largest BST in Binary Tree | [Java](12.%20Binary%20Search%20Trees/2.%20Practice%20Problems/12.%20Largest%20BST%20in%20Binary%20Tree.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Ceil in BST | [Optimal](12.%20Binary%20Search%20Trees/2.%20Practice%20Problems/01.%20Ceil%20in%20BST/Optimal/Solution.java) |
+| 02 | Floor in BST | [Optimal](12.%20Binary%20Search%20Trees/2.%20Practice%20Problems/02.%20Floor%20in%20BST/Optimal/Solution.java) |
+| 03 | Insert into BST | [Optimal](12.%20Binary%20Search%20Trees/2.%20Practice%20Problems/03.%20Insert%20into%20BST/Optimal/Solution.java) |
+| 04 | Delete from BST | [Optimal](12.%20Binary%20Search%20Trees/2.%20Practice%20Problems/04.%20Delete%20from%20BST/Optimal/Solution.java) |
+| 05 | Kth smallest element in BST | [Brute Force](12.%20Binary%20Search%20Trees/2.%20Practice%20Problems/05.%20Kth%20smallest%20element%20in%20BST/Brute_Force/Solution.java) • [Optimal](12.%20Binary%20Search%20Trees/2.%20Practice%20Problems/05.%20Kth%20smallest%20element%20in%20BST/Optimal/Solution.java) |
+| 06 | Validate BST | [Brute Force](12.%20Binary%20Search%20Trees/2.%20Practice%20Problems/06.%20Validate%20BST/Brute_Force/Solution.java) • [Optimal](12.%20Binary%20Search%20Trees/2.%20Practice%20Problems/06.%20Validate%20BST/Optimal/Solution.java) |
+| 07 | LCA in BST | [Optimal](12.%20Binary%20Search%20Trees/2.%20Practice%20Problems/07.%20LCA%20in%20BST/Optimal/Solution.java) |
+| 08 | Build BST from Preorder Traversal | [Brute Force](12.%20Binary%20Search%20Trees/2.%20Practice%20Problems/08.%20Build%20BST%20from%20Preorder%20Traversal/Brute_Force/Solution.java) • [Optimal](12.%20Binary%20Search%20Trees/2.%20Practice%20Problems/08.%20Build%20BST%20from%20Preorder%20Traversal/Optimal/Solution.java) |
+| 09 | BST Iterator | [Brute Force](12.%20Binary%20Search%20Trees/2.%20Practice%20Problems/09.%20BST%20Iterator/Brute_Force/Solution.java) • [Optimal](12.%20Binary%20Search%20Trees/2.%20Practice%20Problems/09.%20BST%20Iterator/Optimal/Solution.java) |
+| 10 | Two Sum in BST | [Brute Force](12.%20Binary%20Search%20Trees/2.%20Practice%20Problems/10.%20Two%20Sum%20in%20BST/Brute_Force/Solution.java) • [Optimal](12.%20Binary%20Search%20Trees/2.%20Practice%20Problems/10.%20Two%20Sum%20in%20BST/Optimal/Solution.java) |
+| 11 | Recover BST | [Brute Force](12.%20Binary%20Search%20Trees/2.%20Practice%20Problems/11.%20Recover%20BST/Brute_Force/Solution.java) • [Optimal](12.%20Binary%20Search%20Trees/2.%20Practice%20Problems/11.%20Recover%20BST/Optimal/Solution.java) |
+| 12 | Largest BST in Binary Tree | [Brute Force](12.%20Binary%20Search%20Trees/2.%20Practice%20Problems/12.%20Largest%20BST%20in%20Binary%20Tree/Brute_Force/Solution.java) • [Optimal](12.%20Binary%20Search%20Trees/2.%20Practice%20Problems/12.%20Largest%20BST%20in%20Binary%20Tree/Optimal/Solution.java) |
 
 ---
 
