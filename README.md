@@ -152,27 +152,27 @@ Complete, clean, self-contained **Java** solutions for all 369 problems in the *
 
 ### 1.Easy
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Remove_outer_parenthesis | [Java](03.Strings/1.Easy/01.Remove_outer_parenthesis.java) |
-| 02 | Reverse_words_in_string | [Java](03.Strings/1.Easy/02.Reverse_words_in_string.java) |
-| 03 | Largest_odd_number_in_string | [Java](03.Strings/1.Easy/03.Largest_odd_number_in_string.java) |
-| 04 | Longest_common_prefix | [Java](03.Strings/1.Easy/04.Longest_common_prefix.java) |
-| 05 | Isomorphic_string | [Java](03.Strings/1.Easy/05.Isomorphic_string.java) |
-| 06 | Check_for_rotated_string | [Java](03.Strings/1.Easy/06.Check_for_rotated_string.java) |
-| 07 | Valid_anagram | [Java](03.Strings/1.Easy/07.Valid_anagram.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Remove_outer_parenthesis | [Brute Force](03.Strings/1.Easy/01.Remove_outer_parenthesis/Brute_Force/Solution.java) • [Optimal](03.Strings/1.Easy/01.Remove_outer_parenthesis/Optimal/Solution.java) |
+| 02 | Reverse_words_in_string | [Brute Force](03.Strings/1.Easy/02.Reverse_words_in_string/Brute_Force/Solution.java) • [Optimal](03.Strings/1.Easy/02.Reverse_words_in_string/Optimal/Solution.java) |
+| 03 | Largest_odd_number_in_string | [Brute Force](03.Strings/1.Easy/03.Largest_odd_number_in_string/Brute_Force/Solution.java) • [Optimal](03.Strings/1.Easy/03.Largest_odd_number_in_string/Optimal/Solution.java) |
+| 04 | Longest_common_prefix | [Brute Force](03.Strings/1.Easy/04.Longest_common_prefix/Brute_Force/Solution.java) • [Optimal](03.Strings/1.Easy/04.Longest_common_prefix/Optimal/Solution.java) |
+| 05 | Isomorphic_string | [Brute Force](03.Strings/1.Easy/05.Isomorphic_string/Brute_Force/Solution.java) • [Optimal](03.Strings/1.Easy/05.Isomorphic_string/Optimal/Solution.java) |
+| 06 | Check_for_rotated_string | [Brute Force](03.Strings/1.Easy/06.Check_for_rotated_string/Brute_Force/Solution.java) • [Optimal](03.Strings/1.Easy/06.Check_for_rotated_string/Optimal/Solution.java) |
+| 07 | Valid_anagram | [Brute Force](03.Strings/1.Easy/07.Valid_anagram/Brute_Force/Solution.java) • [Optimal](03.Strings/1.Easy/07.Valid_anagram/Optimal/Solution.java) |
 
 ### 2.Medium
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Sort_characters_by_frequency | [Java](03.Strings/2.Medium/01.Sort_characters_by_frequency.java) |
-| 02 | Max_nesting_depth_of_parenthesis | [Java](03.Strings/2.Medium/02.Max_nesting_depth_of_parenthesis.java) |
-| 03 | Roman_to_Integer | [Java](03.Strings/2.Medium/03.Roman_to_Integer.java) |
-| 04 | Implement_atoi | [Java](03.Strings/2.Medium/04.Implement_atoi.java) |
-| 05 | Count_the_number_of_substrings_with_k_unique_characters | [Java](03.Strings/2.Medium/05.Count_the_number_of_substrings_with_k_unique_characters.java) |
-| 06 | Longest_palindromic_substring | [Java](03.Strings/2.Medium/06.Longest_palindromic_substring.java) |
-| 07 | Sum_of_beauty_of_all_substrings | [Java](03.Strings/2.Medium/07.Sum_of_beauty_of_all_substrings.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Sort_characters_by_frequency | [Brute Force](03.Strings/2.Medium/01.Sort_characters_by_frequency/Brute_Force/Solution.java) • [Optimal](03.Strings/2.Medium/01.Sort_characters_by_frequency/Optimal/Solution.java) |
+| 02 | Max_nesting_depth_of_parenthesis | [Brute Force](03.Strings/2.Medium/02.Max_nesting_depth_of_parenthesis/Brute_Force/Solution.java) • [Optimal](03.Strings/2.Medium/02.Max_nesting_depth_of_parenthesis/Optimal/Solution.java) |
+| 03 | Roman_to_Integer | [Brute Force](03.Strings/2.Medium/03.Roman_to_Integer/Brute_Force/Solution.java) • [Optimal](03.Strings/2.Medium/03.Roman_to_Integer/Optimal/Solution.java) |
+| 04 | Implement_atoi | [Brute Force](03.Strings/2.Medium/04.Implement_atoi/Brute_Force/Solution.java) • [Optimal](03.Strings/2.Medium/04.Implement_atoi/Optimal/Solution.java) |
+| 05 | Count_the_number_of_substrings_with_k_unique_characters | [Brute Force](03.Strings/2.Medium/05.Count_the_number_of_substrings_with_k_unique_characters/Brute_Force/Solution.java) • [Optimal](03.Strings/2.Medium/05.Count_the_number_of_substrings_with_k_unique_characters/Optimal/Solution.java) |
+| 06 | Longest_palindromic_substring | [Brute Force](03.Strings/2.Medium/06.Longest_palindromic_substring/Brute_Force/Solution.java) • [Better](03.Strings/2.Medium/06.Longest_palindromic_substring/Better/Solution.java) • [Optimal](03.Strings/2.Medium/06.Longest_palindromic_substring/Optimal/Solution.java) |
+| 07 | Sum_of_beauty_of_all_substrings | [Brute Force](03.Strings/2.Medium/07.Sum_of_beauty_of_all_substrings/Brute_Force/Solution.java) • [Optimal](03.Strings/2.Medium/07.Sum_of_beauty_of_all_substrings/Optimal/Solution.java) |
 
 ---
 
