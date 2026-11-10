@@ -728,13 +728,13 @@ Complete, clean, self-contained **Java** solutions for all 369 problems in the *
 
 ### Hard
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Minimum number of insertions to make parenthesis valid | [Java](16.%20Strings%20%28Hard%29/Hard/01.%20Minimum%20number%20of%20insertions%20to%20make%20parenthesis%20valid.java) |
-| 02 | Count and Say | [Java](16.%20Strings%20%28Hard%29/Hard/02.%20Count%20and%20Say.java) |
-| 03 | KMP or Z string matching algo | [Java](16.%20Strings%20%28Hard%29/Hard/03.%20KMP%20or%20Z%20string%20matching%20algo.java) |
-| 04 | Longest Happy Prefix | [Java](16.%20Strings%20%28Hard%29/Hard/04.%20Longest%20Happy%20Prefix.java) |
-| 05 | Shortest Palindrome | [Java](16.%20Strings%20%28Hard%29/Hard/05.%20Shortest%20Palindrome.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Minimum number of insertions to make parenthesis valid | [Better](16.%20Strings%20%28Hard%29/Hard/01.%20Minimum%20number%20of%20insertions%20to%20make%20parenthesis%20valid/Better/Solution.java) • [Optimal](16.%20Strings%20%28Hard%29/Hard/01.%20Minimum%20number%20of%20insertions%20to%20make%20parenthesis%20valid/Optimal/Solution.java) |
+| 02 | Count and Say | [Brute Force](16.%20Strings%20%28Hard%29/Hard/02.%20Count%20and%20Say/Brute_Force/Solution.java) • [Optimal](16.%20Strings%20%28Hard%29/Hard/02.%20Count%20and%20Say/Optimal/Solution.java) |
+| 03 | KMP or Z string matching algo | [Brute Force](16.%20Strings%20%28Hard%29/Hard/03.%20KMP%20or%20Z%20string%20matching%20algo/Brute_Force/Solution.java) • [Optimal](16.%20Strings%20%28Hard%29/Hard/03.%20KMP%20or%20Z%20string%20matching%20algo/Optimal/Solution.java) |
+| 04 | Longest Happy Prefix | [Brute Force](16.%20Strings%20%28Hard%29/Hard/04.%20Longest%20Happy%20Prefix/Brute_Force/Solution.java) • [Optimal](16.%20Strings%20%28Hard%29/Hard/04.%20Longest%20Happy%20Prefix/Optimal/Solution.java) |
+| 05 | Shortest Palindrome | [Brute Force](16.%20Strings%20%28Hard%29/Hard/05.%20Shortest%20Palindrome/Brute_Force/Solution.java) • [Optimal](16.%20Strings%20%28Hard%29/Hard/05.%20Shortest%20Palindrome/Optimal/Solution.java) |
 
 ---
 
