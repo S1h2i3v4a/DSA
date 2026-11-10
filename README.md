@@ -533,75 +533,75 @@ Complete, clean, self-contained **Java** solutions for all 369 problems in the *
 
 ### 1. Learning
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Count the number of graphs | [Java](13.%20Graphs/1.%20Learning/01.%20Count%20the%20number%20of%20graphs.java) |
-| 02 | Graph Representation | [Java](13.%20Graphs/1.%20Learning/02.%20Graph%20Representation.java) |
-| 03 | BFS | [Java](13.%20Graphs/1.%20Learning/03.%20BFS.java) |
-| 04 | DFS | [Java](13.%20Graphs/1.%20Learning/04.%20DFS.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Count the number of graphs | [Optimal](13.%20Graphs/1.%20Learning/01.%20Count%20the%20number%20of%20graphs/Optimal/Solution.java) |
+| 02 | Graph Representation | [Optimal](13.%20Graphs/1.%20Learning/02.%20Graph%20Representation/Optimal/Solution.java) |
+| 03 | BFS | [Optimal](13.%20Graphs/1.%20Learning/03.%20BFS/Optimal/Solution.java) |
+| 04 | DFS | [Optimal](13.%20Graphs/1.%20Learning/04.%20DFS/Optimal/Solution.java) |
 
 ### 2. Traversal Problems
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Count the number of provinces | [Java](13.%20Graphs/2.%20Traversal%20Problems/01.%20Count%20the%20number%20of%20provinces.java) |
-| 02 | Rotten Oranges | [Java](13.%20Graphs/2.%20Traversal%20Problems/02.%20Rotten%20Oranges.java) |
-| 03 | Flood-Fill Algorithm | [Java](13.%20Graphs/2.%20Traversal%20Problems/03.%20Flood-Fill%20Algorithm.java) |
-| 04 | Detect Cycle in Undirected Graph | [Java](13.%20Graphs/2.%20Traversal%20Problems/04.%20Detect%20Cycle%20in%20Undirected%20Graph.java) |
-| 05 | 01 Matrix | [Java](13.%20Graphs/2.%20Traversal%20Problems/05.%2001%20Matrix.java) |
-| 06 | Surrounded Regions | [Java](13.%20Graphs/2.%20Traversal%20Problems/06.%20Surrounded%20Regions.java) |
-| 07 | Number of Enclaves | [Java](13.%20Graphs/2.%20Traversal%20Problems/07.%20Number%20of%20Enclaves.java) |
-| 08 | Word Ladder | [Java](13.%20Graphs/2.%20Traversal%20Problems/08.%20Word%20Ladder.java) |
-| 09 | Distinct Islands | [Java](13.%20Graphs/2.%20Traversal%20Problems/10.%20Distinct%20Islands.java) |
-| 10 | Bipartite Graph | [Java](13.%20Graphs/2.%20Traversal%20Problems/11.%20Bipartite%20Graph.java) |
-| 11 | Detect Cycle in Directed Graph | [Java](13.%20Graphs/2.%20Traversal%20Problems/12.%20Detect%20Cycle%20in%20Directed%20Graph.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Count the number of provinces | [Brute Force](13.%20Graphs/2.%20Traversal%20Problems/01.%20Count%20the%20number%20of%20provinces/Brute_Force/Solution.java) • [Optimal](13.%20Graphs/2.%20Traversal%20Problems/01.%20Count%20the%20number%20of%20provinces/Optimal/Solution.java) |
+| 02 | Rotten Oranges | [Optimal](13.%20Graphs/2.%20Traversal%20Problems/02.%20Rotten%20Oranges/Optimal/Solution.java) |
+| 03 | Flood-Fill Algorithm | [Optimal](13.%20Graphs/2.%20Traversal%20Problems/03.%20Flood-Fill%20Algorithm/Optimal/Solution.java) |
+| 04 | Detect Cycle in Undirected Graph | [Better](13.%20Graphs/2.%20Traversal%20Problems/04.%20Detect%20Cycle%20in%20Undirected%20Graph/Better/Solution.java) • [Optimal](13.%20Graphs/2.%20Traversal%20Problems/04.%20Detect%20Cycle%20in%20Undirected%20Graph/Optimal/Solution.java) |
+| 05 | 01 Matrix | [Optimal](13.%20Graphs/2.%20Traversal%20Problems/05.%2001%20Matrix/Optimal/Solution.java) |
+| 06 | Surrounded Regions | [Optimal](13.%20Graphs/2.%20Traversal%20Problems/06.%20Surrounded%20Regions/Optimal/Solution.java) |
+| 07 | Number of Enclaves | [Optimal](13.%20Graphs/2.%20Traversal%20Problems/07.%20Number%20of%20Enclaves/Optimal/Solution.java) |
+| 08 | Word Ladder | [Optimal](13.%20Graphs/2.%20Traversal%20Problems/08.%20Word%20Ladder/Optimal/Solution.java) |
+| 10 | Distinct Islands | [Optimal](13.%20Graphs/2.%20Traversal%20Problems/10.%20Distinct%20Islands/Optimal/Solution.java) |
+| 11 | Bipartite Graph | [Optimal](13.%20Graphs/2.%20Traversal%20Problems/11.%20Bipartite%20Graph/Optimal/Solution.java) |
+| 12 | Detect Cycle in Directed Graph | [Better](13.%20Graphs/2.%20Traversal%20Problems/12.%20Detect%20Cycle%20in%20Directed%20Graph/Better/Solution.java) • [Optimal](13.%20Graphs/2.%20Traversal%20Problems/12.%20Detect%20Cycle%20in%20Directed%20Graph/Optimal/Solution.java) |
 
 ### 3. Topo Sort Problems
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Topological Sorting | [Java](13.%20Graphs/3.%20Topo%20Sort%20Problems/01.%20Topological%20Sorting.java) |
-| 02 | Kahn's Algorithm | [Java](13.%20Graphs/3.%20Topo%20Sort%20Problems/02.%20Kahn%27s%20Algorithm.java) |
-| 03 | Course Scheduler 1 | [Java](13.%20Graphs/3.%20Topo%20Sort%20Problems/03.%20Course%20Scheduler%201.java) |
-| 04 | Course Scheduler 2 | [Java](13.%20Graphs/3.%20Topo%20Sort%20Problems/04.%20Course%20Scheduler%202.java) |
-| 05 | Find Eventual Safe State | [Java](13.%20Graphs/3.%20Topo%20Sort%20Problems/05.%20Find%20Eventual%20Safe%20State.java) |
-| 06 | Alien Dictonary | [Java](13.%20Graphs/3.%20Topo%20Sort%20Problems/06.%20Alien%20Dictonary.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Topological Sorting | [Optimal](13.%20Graphs/3.%20Topo%20Sort%20Problems/01.%20Topological%20Sorting/Optimal/Solution.java) |
+| 02 | Kahn's Algorithm | [Optimal](13.%20Graphs/3.%20Topo%20Sort%20Problems/02.%20Kahn's%20Algorithm/Optimal/Solution.java) |
+| 03 | Course Scheduler 1 | [Optimal](13.%20Graphs/3.%20Topo%20Sort%20Problems/03.%20Course%20Scheduler%201/Optimal/Solution.java) |
+| 04 | Course Scheduler 2 | [Optimal](13.%20Graphs/3.%20Topo%20Sort%20Problems/04.%20Course%20Scheduler%202/Optimal/Solution.java) |
+| 05 | Find Eventual Safe State | [Optimal](13.%20Graphs/3.%20Topo%20Sort%20Problems/05.%20Find%20Eventual%20Safe%20State/Optimal/Solution.java) |
+| 06 | Alien Dictonary | [Optimal](13.%20Graphs/3.%20Topo%20Sort%20Problems/06.%20Alien%20Dictonary/Optimal/Solution.java) |
 
 ### 4. Shortest Path Problems
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Shortest path in Undirected Graph having unit distance | [Java](13.%20Graphs/4.%20Shortest%20Path%20Problems/01.%20Shortest%20path%20in%20Undirected%20Graph%20having%20unit%20distance.java) |
-| 02 | Shortest path in DAG | [Java](13.%20Graphs/4.%20Shortest%20Path%20Problems/02.%20Shortest%20path%20in%20DAG.java) |
-| 03 | Dijkstra's Algorithm | [Java](13.%20Graphs/4.%20Shortest%20Path%20Problems/03.%20Dijkstra%27s%20Algorithm.java) |
-| 04 | Shortest Path in binary matrix | [Java](13.%20Graphs/4.%20Shortest%20Path%20Problems/04.%20Shortest%20Path%20in%20binary%20matrix.java) |
-| 05 | Path with minimum effort | [Java](13.%20Graphs/4.%20Shortest%20Path%20Problems/05.%20Path%20with%20minimum%20effort.java) |
-| 06 | Cheapest Flights with K stops | [Java](13.%20Graphs/4.%20Shortest%20Path%20Problems/06.%20Cheapest%20Flights%20with%20K%20stops.java) |
-| 07 | Network Delay Time | [Java](13.%20Graphs/4.%20Shortest%20Path%20Problems/07.%20Network%20Delay%20Time.java) |
-| 08 | Bellman Ford Algorithm | [Java](13.%20Graphs/4.%20Shortest%20Path%20Problems/08.%20Bellman%20Ford%20Algorithm.java) |
-| 09 | Floyd Warshall Algorithm | [Java](13.%20Graphs/4.%20Shortest%20Path%20Problems/09.%20Floyd%20Warshall%20Algorithm.java) |
-| 10 | Find city with smallest number of neighbours | [Java](13.%20Graphs/4.%20Shortest%20Path%20Problems/10.%20Find%20city%20with%20smallest%20number%20of%20neighbours.java) |
-| 11 | Number of ways to arrive the destination with minimum distance | [Java](13.%20Graphs/4.%20Shortest%20Path%20Problems/11.%20Number%20of%20ways%20to%20arrive%20the%20destination%20with%20minimum%20distance.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Shortest path in Undirected Graph having unit distance | [Optimal](13.%20Graphs/4.%20Shortest%20Path%20Problems/01.%20Shortest%20path%20in%20Undirected%20Graph%20having%20unit%20distance/Optimal/Solution.java) |
+| 02 | Shortest path in DAG | [Optimal](13.%20Graphs/4.%20Shortest%20Path%20Problems/02.%20Shortest%20path%20in%20DAG/Optimal/Solution.java) |
+| 03 | Dijkstra's Algorithm | [Optimal](13.%20Graphs/4.%20Shortest%20Path%20Problems/03.%20Dijkstra's%20Algorithm/Optimal/Solution.java) |
+| 04 | Shortest Path in binary matrix | [Optimal](13.%20Graphs/4.%20Shortest%20Path%20Problems/04.%20Shortest%20Path%20in%20binary%20matrix/Optimal/Solution.java) |
+| 05 | Path with minimum effort | [Optimal](13.%20Graphs/4.%20Shortest%20Path%20Problems/05.%20Path%20with%20minimum%20effort/Optimal/Solution.java) |
+| 06 | Cheapest Flights with K stops | [Optimal](13.%20Graphs/4.%20Shortest%20Path%20Problems/06.%20Cheapest%20Flights%20with%20K%20stops/Optimal/Solution.java) |
+| 07 | Network Delay Time | [Optimal](13.%20Graphs/4.%20Shortest%20Path%20Problems/07.%20Network%20Delay%20Time/Optimal/Solution.java) |
+| 08 | Bellman Ford Algorithm | [Optimal](13.%20Graphs/4.%20Shortest%20Path%20Problems/08.%20Bellman%20Ford%20Algorithm/Optimal/Solution.java) |
+| 09 | Floyd Warshall Algorithm | [Optimal](13.%20Graphs/4.%20Shortest%20Path%20Problems/09.%20Floyd%20Warshall%20Algorithm/Optimal/Solution.java) |
+| 10 | Find city with smallest number of neighbours | [Optimal](13.%20Graphs/4.%20Shortest%20Path%20Problems/10.%20Find%20city%20with%20smallest%20number%20of%20neighbours/Optimal/Solution.java) |
+| 11 | Number of ways to arrive the destination with minimum distance | [Optimal](13.%20Graphs/4.%20Shortest%20Path%20Problems/11.%20Number%20of%20ways%20to%20arrive%20the%20destination%20with%20minimum%20distance/Optimal/Solution.java) |
 
 ### 5. MST Problems
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Prim's Algorithm | [Java](13.%20Graphs/5.%20MST%20Problems/01.%20Prim%27s%20Algorithm.java) |
-| 02 | Kruskal's Algorithm | [Java](13.%20Graphs/5.%20MST%20Problems/02.%20Kruskal%27s%20Algorithm.java) |
-| 03 | Number of Operations to make Network | [Java](13.%20Graphs/5.%20MST%20Problems/03.%20Number%20of%20Operations%20to%20make%20Network.java) |
-| 04 | Most stones removed | [Java](13.%20Graphs/5.%20MST%20Problems/04.%20Most%20stones%20removed.java) |
-| 05 | Account Merge | [Java](13.%20Graphs/5.%20MST%20Problems/05.%20Account%20Merge.java) |
-| 06 | Number of islands 2 | [Java](13.%20Graphs/5.%20MST%20Problems/06.%20Number%20of%20islands%202.java) |
-| 07 | Making Large Island | [Java](13.%20Graphs/5.%20MST%20Problems/07.%20Making%20Large%20Island.java) |
-| 08 | Swim in rising water | [Java](13.%20Graphs/5.%20MST%20Problems/08.%20Swim%20in%20rising%20water.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Prim's Algorithm | [Optimal](13.%20Graphs/5.%20MST%20Problems/01.%20Prim's%20Algorithm/Optimal/Solution.java) |
+| 02 | Kruskal's Algorithm | [Optimal](13.%20Graphs/5.%20MST%20Problems/02.%20Kruskal's%20Algorithm/Optimal/Solution.java) |
+| 03 | Number of Operations to make Network | [Optimal](13.%20Graphs/5.%20MST%20Problems/03.%20Number%20of%20Operations%20to%20make%20Network/Optimal/Solution.java) |
+| 04 | Most stones removed | [Optimal](13.%20Graphs/5.%20MST%20Problems/04.%20Most%20stones%20removed/Optimal/Solution.java) |
+| 05 | Account Merge | [Optimal](13.%20Graphs/5.%20MST%20Problems/05.%20Account%20Merge/Optimal/Solution.java) |
+| 06 | Number of islands 2 | [Optimal](13.%20Graphs/5.%20MST%20Problems/06.%20Number%20of%20islands%202/Optimal/Solution.java) |
+| 07 | Making Large Island | [Optimal](13.%20Graphs/5.%20MST%20Problems/07.%20Making%20Large%20Island/Optimal/Solution.java) |
+| 08 | Swim in rising water | [Better](13.%20Graphs/5.%20MST%20Problems/08.%20Swim%20in%20rising%20water/Better/Solution.java) • [Optimal](13.%20Graphs/5.%20MST%20Problems/08.%20Swim%20in%20rising%20water/Optimal/Solution.java) |
 
 ### 6. Other Algorithms
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Bridges in graph | [Java](13.%20Graphs/6.%20Other%20Algorithms/01.%20Bridges%20in%20graph.java) |
-| 02 | Strongly Connected Components | [Java](13.%20Graphs/6.%20Other%20Algorithms/02.%20Strongly%20Connected%20Components.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Bridges in graph | [Optimal](13.%20Graphs/6.%20Other%20Algorithms/01.%20Bridges%20in%20graph/Optimal/Solution.java) |
+| 02 | Strongly Connected Components | [Optimal](13.%20Graphs/6.%20Other%20Algorithms/02.%20Strongly%20Connected%20Components/Optimal/Solution.java) |
 
 ---
 
