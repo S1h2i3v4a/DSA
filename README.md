@@ -364,24 +364,24 @@ Complete, clean, self-contained **Java** solutions for all 369 problems in the *
 
 ### 1. Medium Problems
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Longest Substring Without Repeating Characters | [Java](08.%20Sliding%20Window/1.%20Medium%20Problems/01.%20Longest%20Substring%20Without%20Repeating%20Characters.java) |
-| 02 | Max Consecutive 1's | [Java](08.%20Sliding%20Window/1.%20Medium%20Problems/02.%20Max%20Consecutive%201%27s.java) |
-| 03 | Fruit into Baskets | [Java](08.%20Sliding%20Window/1.%20Medium%20Problems/03.%20Fruit%20into%20Baskets.java) |
-| 04 | Longest Repeating Character | [Java](08.%20Sliding%20Window/1.%20Medium%20Problems/04.%20Longest%20Repeating%20Character.java) |
-| 05 | Binary Subarrays with Sum | [Java](08.%20Sliding%20Window/1.%20Medium%20Problems/05.%20Binary%20Subarrays%20with%20Sum.java) |
-| 06 | Count the number of nice subarrays | [Java](08.%20Sliding%20Window/1.%20Medium%20Problems/06.%20Count%20the%20number%20of%20nice%20subarrays.java) |
-| 07 | Number of Substrings Containing all 3 characters | [Java](08.%20Sliding%20Window/1.%20Medium%20Problems/07.%20Number%20of%20Substrings%20Containing%20all%203%20characters.java) |
-| 08 | Maximum Points you can obtaln form the card | [Java](08.%20Sliding%20Window/1.%20Medium%20Problems/08.%20Maximum%20Points%20you%20can%20obtaln%20form%20the%20card.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Longest Substring Without Repeating Characters | [Brute Force](08.%20Sliding%20Window/1.%20Medium%20Problems/01.%20Longest%20Substring%20Without%20Repeating%20Characters/Brute_Force/Solution.java) • [Better](08.%20Sliding%20Window/1.%20Medium%20Problems/01.%20Longest%20Substring%20Without%20Repeating%20Characters/Better/Solution.java) • [Optimal](08.%20Sliding%20Window/1.%20Medium%20Problems/01.%20Longest%20Substring%20Without%20Repeating%20Characters/Optimal/Solution.java) |
+| 02 | Max Consecutive 1's | [Brute Force](08.%20Sliding%20Window/1.%20Medium%20Problems/02.%20Max%20Consecutive%201's/Brute_Force/Solution.java) • [Better](08.%20Sliding%20Window/1.%20Medium%20Problems/02.%20Max%20Consecutive%201's/Better/Solution.java) • [Optimal](08.%20Sliding%20Window/1.%20Medium%20Problems/02.%20Max%20Consecutive%201's/Optimal/Solution.java) |
+| 03 | Fruit into Baskets | [Brute Force](08.%20Sliding%20Window/1.%20Medium%20Problems/03.%20Fruit%20into%20Baskets/Brute_Force/Solution.java) • [Better](08.%20Sliding%20Window/1.%20Medium%20Problems/03.%20Fruit%20into%20Baskets/Better/Solution.java) • [Optimal](08.%20Sliding%20Window/1.%20Medium%20Problems/03.%20Fruit%20into%20Baskets/Optimal/Solution.java) |
+| 04 | Longest Repeating Character | [Brute Force](08.%20Sliding%20Window/1.%20Medium%20Problems/04.%20Longest%20Repeating%20Character/Brute_Force/Solution.java) • [Better](08.%20Sliding%20Window/1.%20Medium%20Problems/04.%20Longest%20Repeating%20Character/Better/Solution.java) • [Optimal](08.%20Sliding%20Window/1.%20Medium%20Problems/04.%20Longest%20Repeating%20Character/Optimal/Solution.java) |
+| 05 | Binary Subarrays with Sum | [Brute Force](08.%20Sliding%20Window/1.%20Medium%20Problems/05.%20Binary%20Subarrays%20with%20Sum/Brute_Force/Solution.java) • [Better](08.%20Sliding%20Window/1.%20Medium%20Problems/05.%20Binary%20Subarrays%20with%20Sum/Better/Solution.java) • [Optimal](08.%20Sliding%20Window/1.%20Medium%20Problems/05.%20Binary%20Subarrays%20with%20Sum/Optimal/Solution.java) |
+| 06 | Count the number of nice subarrays | [Brute Force](08.%20Sliding%20Window/1.%20Medium%20Problems/06.%20Count%20the%20number%20of%20nice%20subarrays/Brute_Force/Solution.java) • [Better](08.%20Sliding%20Window/1.%20Medium%20Problems/06.%20Count%20the%20number%20of%20nice%20subarrays/Better/Solution.java) • [Optimal](08.%20Sliding%20Window/1.%20Medium%20Problems/06.%20Count%20the%20number%20of%20nice%20subarrays/Optimal/Solution.java) |
+| 07 | Number of Substrings Containing all 3 characters | [Brute Force](08.%20Sliding%20Window/1.%20Medium%20Problems/07.%20Number%20of%20Substrings%20Containing%20all%203%20characters/Brute_Force/Solution.java) • [Optimal](08.%20Sliding%20Window/1.%20Medium%20Problems/07.%20Number%20of%20Substrings%20Containing%20all%203%20characters/Optimal/Solution.java) |
+| 08 | Maximum Points you can obtaln form the card | [Brute Force](08.%20Sliding%20Window/1.%20Medium%20Problems/08.%20Maximum%20Points%20you%20can%20obtaln%20form%20the%20card/Brute_Force/Solution.java) • [Optimal](08.%20Sliding%20Window/1.%20Medium%20Problems/08.%20Maximum%20Points%20you%20can%20obtaln%20form%20the%20card/Optimal/Solution.java) |
 
 ### 2. Hard Problems
 
-| # | Problem | Solution |
-|:---:|:---|:---:|
-| 01 | Longest Substring with at most K unique characters | [Java](08.%20Sliding%20Window/2.%20Hard%20Problems/01.%20Longest%20Substring%20with%20at%20most%20K%20unique%20characters.java) |
-| 02 | Count the number of substrings with exactly K unique characters | [Java](08.%20Sliding%20Window/2.%20Hard%20Problems/02.%20Count%20the%20number%20of%20substrings%20with%20exactly%20K%20unique%20characters.java) |
-| 03 | Minimum Window Substring | [Java](08.%20Sliding%20Window/2.%20Hard%20Problems/03.%20Minimum%20Window%20Substring.java) |
+| # | Problem | Available Approaches |
+|:---:|:---|:---|
+| 01 | Longest Substring with at most K unique characters | [Brute Force](08.%20Sliding%20Window/2.%20Hard%20Problems/01.%20Longest%20Substring%20with%20at%20most%20K%20unique%20characters/Brute_Force/Solution.java) • [Better](08.%20Sliding%20Window/2.%20Hard%20Problems/01.%20Longest%20Substring%20with%20at%20most%20K%20unique%20characters/Better/Solution.java) • [Optimal](08.%20Sliding%20Window/2.%20Hard%20Problems/01.%20Longest%20Substring%20with%20at%20most%20K%20unique%20characters/Optimal/Solution.java) |
+| 02 | Count the number of substrings with exactly K unique characters | [Brute Force](08.%20Sliding%20Window/2.%20Hard%20Problems/02.%20Count%20the%20number%20of%20substrings%20with%20exactly%20K%20unique%20characters/Brute_Force/Solution.java) • [Optimal](08.%20Sliding%20Window/2.%20Hard%20Problems/02.%20Count%20the%20number%20of%20substrings%20with%20exactly%20K%20unique%20characters/Optimal/Solution.java) |
+| 03 | Minimum Window Substring | [Brute Force](08.%20Sliding%20Window/2.%20Hard%20Problems/03.%20Minimum%20Window%20Substring/Brute_Force/Solution.java) • [Optimal](08.%20Sliding%20Window/2.%20Hard%20Problems/03.%20Minimum%20Window%20Substring/Optimal/Solution.java) |
 
 ---
 
